@@ -1,0 +1,806 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "vrgtr",
+            "tokens": [
+                {
+                    "_id": "tuTHL6TaygWU90n8",
+                    "name": "Swarm of Maggots",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1800,
+                    "y": 4100,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1680947,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Swarm of Maggots"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "cWa91xH0ofyAjOyr",
+                    "name": "Peryton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2200,
+                    "y": 3200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17190,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Peryton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JVyJ1MkO79u5BOyW",
+                    "name": "Death’s Head",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 1600,
+                    "y": 3300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1680920,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Death’s Head"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Z57i29Ymt0LSO4uk",
+                    "name": "Death’s Head",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 1600,
+                    "y": 3450,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1680920,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Death’s Head"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "bSGdn2AcOucfefyy",
+                    "name": "Death’s Head",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 1850,
+                    "y": 3300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1680920,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Death’s Head"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Gw4mVVBWX0DDAKCz",
+                    "name": "Death’s Head",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 1850,
+                    "y": 3450,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1680920,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Death’s Head"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "HnvisDt5gU48ZVRM",
+                    "name": "Boneless",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1400,
+                    "y": 3400,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1680917,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Boneless"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "PUxZKqH0v79v0RXg",
+                    "name": "Boneless",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1300,
+                    "y": 3800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1680917,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Boneless"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "OoiWkXs0vld44lqr",
+                    "name": "Dalk Dranzorg",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1200,
+                    "y": 3500,
+                    "disposition": -1,
+                    "flags": {
+                        "levels": {
+                            "tokenHeight": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17196,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Revenant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Dalk Dranzorg",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "uYRCAji9tGd0FxZh",
+                    "name": "Specter",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3000,
+                    "y": 2100,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17017,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Specter"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "aziuuVGW8pemL1cc",
+                    "name": "Shadow Demon",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2000,
+                    "y": 3900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17131,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Shadow Demon"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "fsBc3oW5hwNPIaSx",
+                    "name": "Specter",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2300,
+                    "y": 3900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17017,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Specter"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "rN6Z9W7xPSeLimPz",
+                    "name": "Specter",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2300,
+                    "y": 3800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17017,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Specter"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                }
+            ],
+            "notes": [
+                {
+                    "label": "01. Porch",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2194,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations19",
+                            "contentChunkId": "d4885017-1c29-4320-8191-da4697ea8cf7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "f9z7bMouMzWukfc5",
+                            "pin": "26253375"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3100,
+                            "y": 4000
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Foyer",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2199,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations19",
+                            "contentChunkId": "54f53a84-385f-4b11-8140-28df85a48276",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "NNK7tB8iz3PquOSG",
+                            "pin": "20252925"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2200,
+                            "y": 3450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10. Kitchen",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2204,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations1018",
+                            "contentChunkId": "625d6188-c128-44b0-8697-51e8292e79c0",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "TwBYxBLco1MBW9Mr"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2900,
+                            "y": 2300
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03. Parlor",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2207,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations19",
+                            "contentChunkId": "063b88d2-3064-4194-a170-cd095de6b3a8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "4kxfHREVVs8VZS4t",
+                            "pin": "21002475"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2100,
+                            "y": 2800
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11. Dining Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2208,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations1018",
+                            "contentChunkId": "d3272593-af75-45a8-934c-3e3cad2c207f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "5Q75yGipJa8sAa0D"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3000,
+                            "y": 2950
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04. Gallery",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2213,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations19",
+                            "contentChunkId": "587e4d18-786a-444f-aded-4bcc13665795",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "vmX7Vtf00pa61xNX",
+                            "pin": "1687.52850"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1800,
+                            "y": 3400
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12. Music Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2214,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations1018",
+                            "contentChunkId": "91a2cdaf-3f8a-4f77-89f9-0f637eaaa580",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "soKsXjNcicm9ut6K"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2950,
+                            "y": 3550
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05a. Tower Base",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2219,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations19",
+                            "contentChunkId": "6671dc59-fad2-4795-8631-ede084785d51",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "ZISZF0llR3WrjytX",
+                            "pin": "13503000"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1300,
+                            "y": 3600
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06. Sitting Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2226,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations19",
+                            "contentChunkId": "112dd774-d748-4283-aa22-a1c7846ac541",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "NALh14ON0FPb2Ee5",
+                            "pin": "15002662.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1500,
+                            "y": 3150
+                        },
+                        {
+                            "x": 2550,
+                            "y": 3450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07. Conservatory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2235,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations19",
+                            "contentChunkId": "38cdb2e7-72cb-4874-97ab-138899125286",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "sB1XoXsRER2BpCtj",
+                            "pin": "15751875"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1550,
+                            "y": 2150
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08. Ballroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2245,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations19",
+                            "contentChunkId": "d4e6d559-9b12-4f41-a951-6d10275478e0",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "yInavoSM3ru3BtW5",
+                            "pin": "19501725"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2100,
+                            "y": 1850
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09. First Floor Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2248,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations19",
+                            "contentChunkId": "56850339-79a4-4457-88e9-b96de2df5e4d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "rBzjXJn88KE2vvJT",
+                            "pin": "22502325"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2550,
+                            "y": 2750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "steves-scenes.steves-scenes-house-of-lament",
+                "scene": "XLV9dpRjCAfBjDra"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Ground Floor"
+}

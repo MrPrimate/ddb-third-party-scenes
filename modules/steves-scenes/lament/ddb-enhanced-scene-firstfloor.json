@@ -1,0 +1,311 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "vrgtr",
+            "tokens": [
+                {
+                    "_id": "TPZ3Uc1zkEK6nKgU",
+                    "name": "Zombie Plague Spreader",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2200,
+                    "y": 1700,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1680957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Zombie Plague Spreader"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "FPFVSPiSprdKUCQ9",
+                    "name": "Poltergeist",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1200,
+                    "y": 3700,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17202,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Poltergeist"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                }
+            ],
+            "notes": [
+                {
+                    "label": "19. Exterior Balcony",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2194,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations1927",
+                            "contentChunkId": "1f832f76-efdb-4c35-8afc-e689360fc99a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "DsqvPLtyFCIKeNaA"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3100,
+                            "y": 4000
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13. Second-Floor Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2218,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations1018",
+                            "contentChunkId": "22280c01-3da3-4e19-a5cf-0a870a84c8c8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "S3hiSTX0oB0xfK3H"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1800,
+                            "y": 3500
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14. Guest Bedrooms",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2221,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations1018",
+                            "contentChunkId": "faad32b8-dfd2-4f97-97d4-bc83481ef1b4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "NGOZvCfHtfg389kZ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2200,
+                            "y": 2900
+                        },
+                        {
+                            "x": 1500,
+                            "y": 3050
+                        },
+                        {
+                            "x": 3000,
+                            "y": 2800
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05b. Tower Heights",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2224,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations19",
+                            "contentChunkId": "66bae843-9138-470c-bc60-be36317b5e56",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "6grpaJkCCZG7SSFs",
+                            "pin": "33753000"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1300,
+                            "y": 3600
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15. Morning Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2227,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations1018",
+                            "contentChunkId": "e8b54414-f9c3-4e33-bfe8-1a9a8e19f53c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "FAevA2k7m5vATgHk"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1550,
+                            "y": 2450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16. Master Bedroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2232,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations1018",
+                            "contentChunkId": "dbe65681-fef9-47b6-a2a6-ffe45e081c9f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "u0XXA8fxcBuKRsC9"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2200,
+                            "y": 2000
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17. Master Bath",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2237,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations1018",
+                            "contentChunkId": "4b723f10-27a1-4348-ae89-1a09e81ccd12",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "HwU8cqcBUhH6WMcW"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2800,
+                            "y": 2100
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "18. Office",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2245,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations1018",
+                            "contentChunkId": "fbaf8007-d035-47da-ac44-0cf5d7fad377",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "gJsPAygtG4gKp6np"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2950,
+                            "y": 3400
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "steves-scenes.steves-scenes-house-of-lament",
+                "scene": "3vnc5RIA7yhsQuqT"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "First Floor"
+}
