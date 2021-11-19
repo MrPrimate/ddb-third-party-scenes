@@ -1,0 +1,78 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "vrgtr",
+            "tokens": [],
+            "notes": [
+                {
+                    "label": "05b. Tower Heights",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2224,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations19",
+                            "contentChunkId": "66bae843-9138-470c-bc60-be36317b5e56",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "6grpaJkCCZG7SSFs",
+                            "pin": "33753000"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1300,
+                            "y": 3350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "25. Widow’s Walk",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2231,
+                            "bookCode": "vrgtr",
+                            "slug": "the-house-of-lament-continued#HouseofLamentLocations1927",
+                            "contentChunkId": "b78df70a-52e9-4f1c-b8a9-2f335c5801d1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 1249,
+                            "linkId": "qlJzVrZBiSqtq3ME"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2400,
+                            "y": 2800
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "steves-scenes.steves-scenes-house-of-lament",
+                "scene": "IY9KWxcrbm8V4x1z"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Widow's Walk"
+}
