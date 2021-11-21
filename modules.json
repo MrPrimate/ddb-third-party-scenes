@@ -1,7 +1,7 @@
 {
     "name": "Mr Primate's Master Pack",
-    "json": "https://gitlab.com/MrPrimate/ddb-third-party-scenes/-/raw/main/modules.json",
-    "download": "https://gitlab.com/MrPrimate/ddb-third-party-scenes/-/archive/main/ddb-third-party-scenes-main.zip",
+    "json": "https://raw.githubusercontent.com/MrPrimate/ddb-third-party-scenes/main/modules.json",
+    "download": "https://github.com/MrPrimate/ddb-third-party-scenes/archive/refs/heads/main.zip",
     "packages": [{
       "name": "Steve's Scenes: The House of Lament",
       "path": "modules/steves-scenes/lament",
