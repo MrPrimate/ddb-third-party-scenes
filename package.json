@@ -1,0 +1,23 @@
+{
+  "name": "ddb-third-party-scenes",
+  "version": "0.0.0",
+  "description": "Third Party Scene Integration Configs",
+  "repository": "https://github.com/MrPrimate/ddb-third-party-scenes",
+  "scripts": {
+    "lint": "npx eslint ./",
+    "lint-fix": "npx eslint ./ --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Jack Holloway",
+    "email": "jack@mrprimate.co.uk"
+  },
+  "homepage": "https://github.com/mrprimate",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "dependencies": {
+    "fs-extra": "^9.1.0"
+  }
+}
