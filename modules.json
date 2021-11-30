@@ -5,7 +5,7 @@
     "packages": {
         "modules/steves-scenes/lament": {
             "name": "Steve's Scenes: The House of Lament",
-            "description": "The House of Lament by Steve's Scenes. Support @ https://www.patreon.com/stevesscenes",
+            "description": "The House of Lament by Steve's Scenes. Support @ <a href=\"https://www.patreon.com/stevesscenes\">https://www.patreon.com/stevesscenes</a>",
             "path": "modules/steves-scenes/lament",
             "module": "steves-scenes",
             "released": true,
@@ -49,6 +49,15 @@
                     "book": "vrgtr"
                 }
             ]
+        },
+        "modules/cyrensmaps/wdmm": {
+            "name": "Cyrens Maps: Undermountain",
+            "description": "Cyrens Maps: Install the module from <a href=\"https://www.patreon.com/posts/undermountain-58691075\">https://www.patreon.com/posts/undermountain-58691075</a> and once activated let it auto import all the scenes. Then use this enhancer to enhance the imported adventure.",
+            "path": "modules/cyrensmaps/wdmm",
+            "module": "cyrensmaps-wdmm",
+            "released": false,
+            "books": [],
+            "scenes": []
         }
     }
 }
