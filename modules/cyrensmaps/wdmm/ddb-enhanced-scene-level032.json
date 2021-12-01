@@ -1,0 +1,1854 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "wdotmm",
+            "tokens": [
+                {
+                    "_id": "7iC4FYleFYczggez",
+                    "name": "Drider (variant)",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9940,
+                    "y": 9170,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 272279,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Drider (variant)"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ZHcFS0ECjAg51E0F",
+                    "name": "Algarr Grimtide",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8400,
+                    "y": 10010,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16871,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Ghost"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Algarr Grimtide",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "aumx0ZKwJGd6bU47",
+                    "name": "Liddie “Slurtongue” Peddlekant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8470,
+                    "y": 10220,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16871,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Ghost"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Liddie “Slurtongue” Peddlekant",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "wLhmBKyeO2BIDs1G",
+                    "name": "Fishbone Jim",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8190,
+                    "y": 10220,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16871,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Ghost"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Fishbone Jim",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "wm0y9ZT29lBDEmUW",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8820,
+                    "y": 6930,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1UFoft2b2GuDJFZE",
+                    "name": "Big Xorn",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7770,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 266692,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Big Xorn"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "n1wiPI4EBP9uWaWj",
+                    "name": "Molkoth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5390,
+                    "y": 9660,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17133,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Drow"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Molkoth",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "wLw8DQ8ntdJ1gRIx",
+                    "name": "Quilolvir",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5180,
+                    "y": 9520,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17133,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Drow"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Quilolvir",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "FCiB12E14kQardLH",
+                    "name": "Varaun",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6020,
+                    "y": 8470,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17133,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Drow"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Varaun",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "TA2VhzKcijRL08rQ",
+                    "name": "Veszdar",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6090,
+                    "y": 8680,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17133,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Drow"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Veszdar",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "DKTOYmVFFzvkLJw5",
+                    "name": "Kliyuse the Skull Cleaver",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5250,
+                    "y": 7210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17160,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin Captain"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Kliyuse the Skull Cleaver",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "urJKxpdgFYSBwpZ0",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5390,
+                    "y": 6720,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "dqGzr9dKFcMsWPWZ",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 7140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "sZvT0m1aEBrYrj4F",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5110,
+                    "y": 7280,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "5s72B6UFVoyEmvJv",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5110,
+                    "y": 7140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "bVZQhs87gPsJPdfw",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5320,
+                    "y": 7280,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "m4g0sFrt83aolXa3",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5460,
+                    "y": 7210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1RP4rCD0EEpytYv1",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5530,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "P2C8JQw1Cw1yiOfE",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5390,
+                    "y": 6930,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "KWJXNOOK7y0KhyYR",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5250,
+                    "y": 6930,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "15qb6jsVXVdu844P",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5390,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "cDyNzRmjAVAk3OAg",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5250,
+                    "y": 6790,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "v8KVp1BM80Ql9613",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4970,
+                    "y": 5950,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "yGvWbeIjATe3KF9o",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 5950,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "54VViWQ7Z3VokFVu",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 5810,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "E9JRoIw4dyE7Y910",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 6020,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "dEKGBJvX9n3U69Kc",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4970,
+                    "y": 5880,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "n1s8RagT6bOe1KW2",
+                    "name": "Dribblespit",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 5040,
+                    "y": 4270,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Dribblespit",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "bCJJjZAjZI9WEYjR",
+                    "name": "Zob",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 5110,
+                    "y": 4270,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Zob",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "c5DfGoDtSEWVqNqo",
+                    "name": "Nerozar the Defeated",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5460,
+                    "y": 5530,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 266698,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Nerozar the Defeated"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 15,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "K2ocagradXSzg5sS",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5530,
+                    "y": 5390,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Y865LClQHu6ipeRh",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5320,
+                    "y": 5600,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "QHoEwdROE3o9xDyU",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5530,
+                    "y": 5670,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "nPYrRilQOGSRdx77",
+                    "name": "Otyugh",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5110,
+                    "y": 3010,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16973,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Otyugh"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                }
+            ],
+            "notes": [
+                {
+                    "label": "11. Recluse",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2149,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "6267f84d-d211-46fa-a033-c977f547f82c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "nrgOBsarJfir6llN"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9135,
+                            "y": 8715
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12. Boo-ty Hunters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2152,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "99bab428-c7ee-4f5c-97e3-775f95d1c695",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "I5uPRWJEtve8PECe"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8575,
+                            "y": 10325
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13. Riverside Caves",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2162,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "d21f1c7c-f6eb-4892-a11d-132bb14df839",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "Sch9mjYHrYICFUtY"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9135,
+                            "y": 6895
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15. Way to Wyllowwood",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2190,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "9840d4e8-6dc5-4bc3-941c-d5749d50eea2",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "YOOynRPz2Eg4IDT2"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6545,
+                            "y": 7735
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16. Crossfire Caves",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2197,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "f6b7b46c-999e-4802-878a-8b3921e906c0",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "Gc6uLHczMf05SGwy"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5705,
+                            "y": 8925
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17. Dangerous Paths",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2216,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "ff149ebe-33a9-4091-bc17-ae494cb4a870",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "3STp8aGufKtZPb7u"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5635,
+                            "y": 7105
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11a. Petrified Prince",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2454,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "5933fed8-03dc-4364-99d3-69658405bf48",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "yEXkmOinuzdi7G4U"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9835,
+                            "y": 8085
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11b. Cocoon Forest",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2458,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "affe8697-9ab1-4dc3-8c11-1542e9ebc545",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "SHxoXgijxv5B0TIJ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 10115,
+                            "y": 9345
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13a. Drow Rafts",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2460,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "85712608-7b9a-4005-838a-5888a9e21a59",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "lHcuTRbH6zxYCPOP"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9625,
+                            "y": 4865
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13b. Ferryman’s Rest",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2466,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "23a093d4-161a-4daa-b34c-37dc39ba4f7f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "0ulbM92uM1YnsdjH"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8785,
+                            "y": 7035
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14a. South Entrance",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2469,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "ac723de4-44cc-40f6-8bcd-3b578773935b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "squACSYWMW6SQ3iT"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8225,
+                            "y": 6895
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14b. North Entrance",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2472,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "5588e068-0a6b-4c60-a61b-c3518130218a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "TULzJSmGIHnN4Fpw"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7840,
+                            "y": 5460
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14c. Hall of Stone",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2484,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "ab0b2871-7b99-4aba-8a0a-ff4d78609533",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "DOSTmZvVAZ1UGPhk"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8540,
+                            "y": 5740
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15a. Battle Scene",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2486,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "44fa665b-92bb-4fc4-a3c2-963bca93dd0f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "MNtzpeZUSbiFsOOg"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7595,
+                            "y": 8225
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15b. Rotting Trogs",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2490,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "f04f6abd-c744-494e-92db-0950883ac02e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "4NEMsd3tHsSlMQ8H"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7525,
+                            "y": 9135
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16a. North Ledge",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2492,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "237c59fb-11e5-498c-aecf-c361b5a7ac97",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "DzwQdFeqSkiepkMd"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6195,
+                            "y": 8645
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16b. South Ledge",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2495,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "71f905b7-af9a-4802-ae0c-a683f5fe34e4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "2JbC923EufgOxSQt"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5600,
+                            "y": 9730
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17a. Contested Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2498,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "6233993b-1273-4f79-a812-a2a0c935e5c4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "7mQJ1maBBUhshP3L"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5285,
+                            "y": 7385
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17b. Bugbear Sentries",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2500,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "538f79be-4212-4100-a974-2c945b48da76",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "E6aAsOCY1GFE0D5v"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5005,
+                            "y": 6055
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17c. Keepers of the Purple Worm",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2503,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "1fb49b8b-0905-4761-932d-a02511551327",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "iidDLjucdgibmZ3B"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5425,
+                            "y": 4655
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17d. Nerozar the Defeated",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2509,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "35281a9c-2576-48c2-a88a-25326d328fc3",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "SGynqoGjyvwWxtbQ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5705,
+                            "y": 5635
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17e. Otyugh Lair",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2512,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "8088c983-94ce-42b2-94c7-2d57108004ea",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "jAgLfAn9qCMVvHiH"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5285,
+                            "y": 3325
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrensmaps-wdmm.maps",
+                "scene": "2gL8S2xww2UuB0DN"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 03 (2)"
+}

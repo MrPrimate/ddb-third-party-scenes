@@ -1,0 +1,4500 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "wdotmm",
+            "tokens": [
+                {
+                    "_id": "gRairYKbl37vogty",
+                    "name": "Bugbear",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3920,
+                    "y": 10430,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16817,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bugbear"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "soUWVQwYrhEj6uxQ",
+                    "name": "Bugbear",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3990,
+                    "y": 10360,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16817,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bugbear"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "V5nHTz2y6tTqibty",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 9730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "o7LecbnUQLNZ2UeG",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4970,
+                    "y": 9730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "jGl4BjbCwLn1R2Wb",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 9800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "PiuVqF8EeBTrGLjA",
+                    "name": "Hobgoblin Captain",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4970,
+                    "y": 9800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17160,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin Captain"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "NlcMhQS7IecoXAuA",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3850,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "QyIsfGVSliRcVWrS",
+                    "name": "Hobgoblin Captain",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3850,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17160,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin Captain"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "afyVWjd1mykFNMQU",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3920,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Xo68ErGGCfi7gie5",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3920,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "UPainRW23yYhPMsd",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5880,
+                    "y": 7910,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "lAQ11UvJHUTr3KPg",
+                    "name": "Hobgoblin Captain",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5880,
+                    "y": 7980,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17160,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin Captain"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "lKHjq31351CN0N6P",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5950,
+                    "y": 7910,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "3QeraBSojs5421JB",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5950,
+                    "y": 7980,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "aw1bOCs0Y0CWIs58",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 8050,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "RpFGSWU55HLCMvqa",
+                    "name": "Hobgoblin Captain",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 8120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17160,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin Captain"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "hw81dyzveRY38KKh",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3150,
+                    "y": 8050,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "LKhiiT0ywRUsbtyW",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3150,
+                    "y": 8120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "uU4nI4ZN4mcbIDf0",
+                    "name": "Kinrob",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5250,
+                    "y": 12530,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16971,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Oni"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Kinrob",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "iaq7wMfMQEOXDpwM",
+                    "name": "Kinrob",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5530,
+                    "y": 12530,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Kinrob",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "BsbJy66BpupyxXT7",
+                    "name": "Huggybug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 5250,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Huggybug",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "Umz7StFvQTo32bqw",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3570,
+                    "y": 9660,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "8X9lSN8X5ZWf7NaB",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3570,
+                    "y": 9730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "KKsNAg2sqax8BW5V",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3570,
+                    "y": 9870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "I7RqCkjpqQxhAzKJ",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3570,
+                    "y": 10010,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "FjjuHGckxoYRcZnJ",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3570,
+                    "y": 10080,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "jsH3huSf3hf2yaFY",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3570,
+                    "y": 10150,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "0EHQRATDPovWYtcy",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3430,
+                    "y": 10290,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "MCAlSNvkLzpoSBfh",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2940,
+                    "y": 9870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "NieN9IZLNivQW4Lo",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2870,
+                    "y": 9870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "giqOODZeiViPaTfV",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ID6SlFY3fjO3ZHgJ",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3150,
+                    "y": 8820,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "2bPzczPvs1yDGQ3t",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3430,
+                    "y": 8820,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "SHp6xtWJkHLeB1Kp",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3290,
+                    "y": 8610,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "hTxnr7Cq0kqiusc2",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 9100,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "O4iXbPrE2ikv9cZL",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3570,
+                    "y": 8330,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Httq54MorGF2AwJl",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3500,
+                    "y": 8330,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "6HYIATkpJJsergth",
+                    "name": "Goblin Boss",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3430,
+                    "y": 8330,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17155,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin Boss"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "AEVgnfUmOQigfsJ2",
+                    "name": "Intellect Devourer",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3430,
+                    "y": 8400,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17163,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intellect Devourer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "w1XkiMM8vbIBYnEE",
+                    "name": "Intellect Devourer",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3500,
+                    "y": 8400,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17163,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intellect Devourer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "oD7483ZHH0fJoygR",
+                    "name": "Intellect Devourer",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3570,
+                    "y": 8400,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17163,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intellect Devourer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "rqovSyTyqOCncOvd",
+                    "name": "Intellect Devourer",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3290,
+                    "y": 8260,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17163,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intellect Devourer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "7iVqqwRTtmvMMHie",
+                    "name": "Intellect Devourer",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3325,
+                    "y": 8330,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17163,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intellect Devourer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kAHneCMNQt5unJSk",
+                    "name": "Ulquess",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3850,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17104,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mind Flayer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Ulquess",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "xJFu6o0x8ke4wjNX",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2870,
+                    "y": 8050,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "2xVdOrK6UUMd8PFq",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2940,
+                    "y": 8050,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "acv94g770rDu7oPf",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2940,
+                    "y": 8120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "fSd8EKzcDrH3Hbrv",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2870,
+                    "y": 8120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "YhahpockSaxZygUj",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2870,
+                    "y": 8190,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "pwIwhRqzWMFeBq3N",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2940,
+                    "y": 8190,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "goFOKaUzbJQMgrUy",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2940,
+                    "y": 8050,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "FBcX5xwKf6Cc3QX5",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2870,
+                    "y": 8050,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "6wuZGkOemTmGYhfR",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2870,
+                    "y": 8120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "eXfZoTGv23OUYHRL",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2870,
+                    "y": 8190,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ZVL8tWCfoGCDiRIL",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2940,
+                    "y": 8190,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "MgxHwaIjHhoTCOnZ",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2940,
+                    "y": 8120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "GARHDfOajCzS55YX",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4060,
+                    "y": 6650,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "IcKVaJgkXmZ48vB9",
+                    "name": "Hobgoblin Captain",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3010,
+                    "y": 6370,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17160,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin Captain"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Z8GE8KFJRNX8QLn3",
+                    "name": "Hobgoblin Captain",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 6440,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17160,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin Captain"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ibsxXCw9jVo5BaSI",
+                    "name": "Preeta Kreepa",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5600,
+                    "y": 7140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 266705,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Preeta Kreepa"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "24CDOIj37J00lToq",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4060,
+                    "y": 5740,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "uMOhw3T9dkkd2YQG",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3360,
+                    "y": 6440,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "XBNQjBUsUHJnFJ9k",
+                    "name": "Lurkana",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4200,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17160,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin Captain"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Lurkana",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "WNlPRgs1BaZ7cXLy",
+                    "name": "Azrok",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4130,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17161,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin Warlord"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Azrok"
+                    }
+                },
+                {
+                    "_id": "lxyKjzmy5ZPIJbW2",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4060,
+                    "y": 6020,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "EbDX3fBhJwFINvS6",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3990,
+                    "y": 6020,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "x5AXSuWDEhexAEgp",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3920,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "OxExW6lEnuYk8eWR",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3920,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "4uKWLUS234TUdJ0d",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3780,
+                    "y": 5880,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "nVoSyPkNn9jc1pvV",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 4130,
+                    "y": 5950,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "h35AySeoq66UWhP5",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3640,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "7nrfn2hofa81uNjS",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3780,
+                    "y": 6020,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "WkBQwI5Q5It29fXF",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3850,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Iu21apglTglRO4XJ",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3780,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "NIQPoxh7YSqtX5ZQ",
+                    "name": "Bugbear",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3850,
+                    "y": 6090,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16817,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bugbear"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1uVVbLDq65T9ScLY",
+                    "name": "Bugbear",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4060,
+                    "y": 5880,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16817,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bugbear"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "hwTJ3VnfU6ViMt2d",
+                    "name": "Worg",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3500,
+                    "y": 6370,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17063,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Worg"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "mL3n0R1BQuYIGSta",
+                    "name": "Worg",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3640,
+                    "y": 6510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17063,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Worg"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "B9ULoJAuMejEYxgN",
+                    "name": "Goblin Boss",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 4620,
+                    "y": 5600,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17155,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin Boss"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "zrjnz4pjO3IQNc4a",
+                    "name": "Goblin Boss",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 4620,
+                    "y": 5740,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17155,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin Boss"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "A8hv3ti73zwOwjb0",
+                    "name": "Zombie",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4620,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17077,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Zombie"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Dvb78XEmsnNPq3Xi",
+                    "name": "Zombie",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4690,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17077,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Zombie"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "9UlsR9xu4US5duCg",
+                    "name": "Zombie",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4620,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17077,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Zombie"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "A2UyHE5Dl4f0LrYU",
+                    "name": "Zombie",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4690,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17077,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Zombie"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "IIRohoqHhSUMXTMD",
+                    "name": "Zombie",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4760,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17077,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Zombie"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "yEVX3mxDCN7BtwTr",
+                    "name": "Zombie",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4760,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17077,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Zombie"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "K5myFgOr7qemiHa5",
+                    "name": "Zombie",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4550,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17077,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Zombie"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "5O9OtgZ1VhqhGatL",
+                    "name": "Zombie",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4550,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17077,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Zombie"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "N2qMANEAvZSLUn3B",
+                    "name": "Zombie",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4830,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17077,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Zombie"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "cMX4wihP0U5I8Vye",
+                    "name": "Salt Nose",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3710,
+                    "y": 5110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Salt Nose",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "RQlRPaJR5z0lV2UX",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3640,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "yQIEi0DtAXGpLtQt",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3640,
+                    "y": 4690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "TB0tmBIm9MsC1sCT",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2800,
+                    "y": 4340,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "vfCLgSzrYK83NkYV",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2730,
+                    "y": 4830,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JzmKF3nH1goYh6DJ",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2870,
+                    "y": 4970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "dS6MqXZ5pW8QKaMX",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 1960,
+                    "y": 4130,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "4bbOgDynmmPD7HpG",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 1750,
+                    "y": 4340,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "bdULCq4K7NG8AzII",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 1960,
+                    "y": 4620,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "gZO54K901gRACY1C",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1750,
+                    "y": 6790,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "P9XL3GItFSRsVigr",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1750,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "shqODOQBCgNhDQiC",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1540,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "zW1vwEDTLwnrN70J",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1610,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "F1mFEBMWZHmUeK7X",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1610,
+                    "y": 6860,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "MY0F900rHqYfw6Ij",
+                    "name": "Shrieker",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1890,
+                    "y": 8120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17013,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Shrieker"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "details": {
+                                "cr": "0"
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 7,
+                                    "max": 7
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "traits": {
+                                "size": "sm"
+                            }
+                        },
+                        "token": {
+                            "height": 1,
+                            "width": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "vmlobEPISgCW7fdg",
+                    "name": "Shrieker",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1610,
+                    "y": 8540,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17013,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Shrieker"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "details": {
+                                "cr": "0"
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 7,
+                                    "max": 7
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "traits": {
+                                "size": "sm"
+                            }
+                        },
+                        "token": {
+                            "height": 1,
+                            "width": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "sJwAt6En6B1eEWB0",
+                    "name": "Shrieker",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2310,
+                    "y": 8470,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17013,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Shrieker"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "details": {
+                                "cr": "0"
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 7,
+                                    "max": 7
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "traits": {
+                                "size": "sm"
+                            }
+                        },
+                        "token": {
+                            "height": 1,
+                            "width": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "QGEdS18w4ht9Akop",
+                    "name": "Shrieker",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1960,
+                    "y": 8750,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17013,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Shrieker"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "details": {
+                                "cr": "0"
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 7,
+                                    "max": 7
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "traits": {
+                                "size": "sm"
+                            }
+                        },
+                        "token": {
+                            "height": 1,
+                            "width": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "21. Azrok’s Hold",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2353,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "d3fde1e6-af43-4776-ad32-953be3774196",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "hMZX4ANGYpn7l3gm"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3675,
+                            "y": 10815
+                        },
+                        {
+                            "x": 2625,
+                            "y": 7630
+                        },
+                        {
+                            "x": 5495,
+                            "y": 10535
+                        },
+                        {
+                            "x": 6475,
+                            "y": 9275
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "22. Barrelstalk Garden",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2355,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "20c24398-a7df-4e93-bb67-424ad87a55cf",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "QjtqbGwXXnARI3oQ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1995,
+                            "y": 4480
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "23. Way to Skullport",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2363,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "857ed97b-31d5-4535-96b8-dc0e62368056",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "Dzbk4Cq5q0m3Jg7H"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1925,
+                            "y": 6965
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21a. “Krek”",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2557,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "2dc4d8b8-8cee-468c-a25f-40517b65351e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "9MmipHdo3c2kvD90"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5390,
+                            "y": 12390
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21b. Sad Huggybug",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2560,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "d63c5d60-3def-4e1c-9366-ab8633cfe0e7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "dS8BgHrlClGoMmym"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5180,
+                            "y": 8960
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21c. Registration Center",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2564,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "9384073a-e84b-4e5f-9488-e32f0cff8a8a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "OeG1oKon8mavVdvm"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3675,
+                            "y": 10325
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21d. Armory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2566,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "487ecbfc-80e1-4c58-bed4-b76a32907d61",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "jv3ZMXpO81kI63Ah"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2940,
+                            "y": 9520
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21e. Hobgoblin Barracks",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2568,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "9bff1e13-bc74-4bcd-a20a-fd5d9a4b6336",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "wxi1aK4k0g6sVvSx"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3220,
+                            "y": 8750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21f. Brain-Dog Kennel",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2571,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "ef6296d5-3c26-49d5-bb34-62b11b9262ae",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "DS6AS5JxTBbhsFJu"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3360,
+                            "y": 8435
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21g. Xanathar’s Ambassador",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2576,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "762c0086-f047-4dcc-be1a-978ff79af67e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "EOyPwVQATnQ2Glds"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3955,
+                            "y": 7665
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21h. Goblin Den",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2578,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "5025ef5e-39b7-40b5-9d76-96d4b6c90cf8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "nZUDn6hqFycAfTte"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2940,
+                            "y": 8190
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21i. Visitors’ Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2580,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "a340aebf-d45a-474f-95f5-044db6d1d8f1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "wIGdcZlW6mJcVYk2"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2800,
+                            "y": 6930
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21j. Ale Storehouse",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2583,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "17d462c7-e3f3-4c64-be82-36a2e1a544cc",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "J9r7HrfRBzLzxj0b"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3745,
+                            "y": 6895
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21k. Captains’ Barracks",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2585,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "7f32af39-1736-4b4b-8da1-ba49d8b280c4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "AieJhkfBq3lBqY0T"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3220,
+                            "y": 6545
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21l. Visitors’ Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2587,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "13d8eda6-014e-454c-855d-422258c4ae13",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "akDQxXr5d6SDVQd1"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2905,
+                            "y": 5845
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21m. Preeta Kreepa",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2598,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "d52c03a4-f76c-46fc-9e82-c088c9515c5a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "df5RyGHGjaREEBPB"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5670,
+                            "y": 7070
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21n. Azrok’s Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2609,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "69525c7f-5bc3-4320-8ae3-707f973705e5",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "x0t1GJPvSuF0hiKE"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3780,
+                            "y": 6510
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21o. Goblin Orphanage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2612,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "8461553c-7599-45a8-bf3e-44c47944e173",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "Nax5nfX4YXLes4dU"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4795,
+                            "y": 5985
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21p. Arch Gate to Level 6",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2615,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "f58aa30d-c8bc-4ed3-973a-a7556ca6f635",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "8PqPfhrdg3hqqoK4"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4200,
+                            "y": 5530
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21q. Morgue",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2617,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "ad3e7edf-1a52-4218-b1cf-66fa5b58f474",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "WRj5Q5NpQM2zqTxq"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4445,
+                            "y": 5215
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21r. Azrok and Lurkana’s Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2621,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "6c190411-b4ae-4f46-ac7c-f71604038895",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "h6XuQU9unn220KO8"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3290,
+                            "y": 4900
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21s. Azrok’s War Chest",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2627,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "42fdf134-a100-4522-86a1-b712ba43b913",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "jS76HsJXtBBQkAe7"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3220,
+                            "y": 4620
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21t. Rations",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2630,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "b8bfc845-ff1d-4b79-8da1-87c16281c7b7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "MLxdGBXfpYZx1PPX"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2765,
+                            "y": 4620
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "23a. Ripplebark Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2633,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "9d917ec3-59c3-40b6-81ef-d18f6ca359f8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "ZgVCwhdnzupGfxKr"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1540,
+                            "y": 7000
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "23b. Immature Shriekers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2636,
+                            "bookCode": "wdotmm",
+                            "slug": "sargauth-level#ExploringThisLevel",
+                            "contentChunkId": "8d98c09c-89fa-4f21-8431-b41c55360c82",
+                            "note": true,
+                            "img": false,
+                            "parentId": 596,
+                            "linkId": "oQpZnp88KNPb6dNt"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2415,
+                            "y": 8155
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrensmaps-wdmm.maps",
+                "scene": "frILyu3KY2q8WbMF"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 03 (3)"
+}

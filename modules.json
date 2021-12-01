@@ -52,7 +52,7 @@
         },
         "modules/cyrensmaps/wdmm": {
             "name": "Cyrens Maps: Undermountain",
-            "description": "Cyrens Maps: Install the module from <a href=\"https://www.patreon.com/posts/undermountain-58691075\">https://www.patreon.com/posts/undermountain-58691075</a> and once activated let it auto import all the scenes. Then use this enhancer to enhance the imported adventure.<br><br> Current levels supported: 1.",
+            "description": "Cyrens Maps: Install the module from <a href=\"https://www.patreon.com/posts/undermountain-58691075\">https://www.patreon.com/posts/undermountain-58691075</a> and once activated let it auto import all the scenes. Then use this enhancer to enhance the imported adventure.<br><br> Current levels supported: 1, 2, 3.",
             "path": "modules/cyrensmaps/wdmm",
             "module": "cyrensmaps-wdmm",
             "released": false,
@@ -62,6 +62,26 @@
             "scenes": [
                 {
                     "name": "Level 01",
+                    "description": "",
+                    "book": "wdotmm"
+                },
+                {
+                    "name": "Level 02",
+                    "description": "",
+                    "book": "wdotmm"
+                },
+                {
+                    "name": "Level 03 (1)",
+                    "description": "",
+                    "book": "wdotmm"
+                },
+                {
+                    "name": "Level 03 (2)",
+                    "description": "",
+                    "book": "wdotmm"
+                },
+                {
+                    "name": "Level 03 (3)",
                     "description": "",
                     "book": "wdotmm"
                 }
