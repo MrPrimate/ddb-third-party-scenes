@@ -1,0 +1,4217 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "wdotmm",
+            "tokens": [
+                {
+                    "_id": "vikFLcaxjx2WnQ15",
+                    "name": "Gravillok",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 4760,
+                    "y": 5460,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17024,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Stone Giant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Gravillok",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "czT1Drd7A9IyuHg2",
+                    "name": "Xorta",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 7350,
+                    "y": 2590,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17024,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Stone Giant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Xorta",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "UCjBPXqWMyCNQRYr",
+                    "name": "Giant Bat",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7140,
+                    "y": 2310,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16875,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 30,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "8bA0HfZXVh2bi0ID",
+                    "name": "Giant Bat",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7280,
+                    "y": 2310,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16875,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 30,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "DzDt5YKlUee8tqBT",
+                    "name": "Giant Bat",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7420,
+                    "y": 2310,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16875,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 30,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Zzhn1hJzmggoqHyx",
+                    "name": "Giant Bat",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7560,
+                    "y": 2310,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16875,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 30,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "IeRXGe5N1RyLMfca",
+                    "name": "Giant Bat",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7700,
+                    "y": 2310,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16875,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 30,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "KeSd54Jn0kHYsFQK",
+                    "name": "Giant Bat",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7910,
+                    "y": 2310,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16875,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 30,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "MiH22PVYF3heVOxj",
+                    "name": "Giant Bat",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7630,
+                    "y": 2170,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16875,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 30,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "QAI40j8TN8529zoE",
+                    "name": "Giant Bat",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7770,
+                    "y": 2170,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16875,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 30,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "HsqiqRgWeAOUaWB6",
+                    "name": "Giant Bat",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7700,
+                    "y": 2450,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16875,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 30,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "76n8HM7Ye7iBPbkX",
+                    "name": "Giant Bat",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7910,
+                    "y": 2520,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16875,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 30,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "jqGkRmrFhYEf4vMH",
+                    "name": "Obsidia",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 6580,
+                    "y": 2730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17024,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Stone Giant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 30,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Obsidia",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "ohYq3pcMyOsgU1Yr",
+                    "name": "Rhodos",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 6580,
+                    "y": 2730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17024,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Stone Giant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Rhodos",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "xHzZR8AI7mPCT4Iz",
+                    "name": "Speleosa",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 6160,
+                    "y": 1890,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17024,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Stone Giant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Speleosa",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "Anlh74eSVHHgQR3w",
+                    "name": "Cave Bear",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3850,
+                    "y": 2030,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16983,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Polar Bear"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Cave Bear",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "senses": {
+                                    "darkvision": 60
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "Sp55z0zDDgzdG71u",
+                    "name": "Cave Bear",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3710,
+                    "y": 2240,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16983,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Polar Bear"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Cave Bear",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "senses": {
+                                    "darkvision": 60
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "bedrQBC0yFeFkUNx",
+                    "name": "Black Bear",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3430,
+                    "y": 1610,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16806,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Black Bear"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "senses": {
+                                    "darkvision": 60
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "TAGMt2yHI0l5V9Dr",
+                    "name": "Black Bear",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3710,
+                    "y": 1540,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16806,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Black Bear"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "senses": {
+                                    "darkvision": 60
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "ozeTgdEMyXWBmKuV",
+                    "name": "Qurrok",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 3640,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17024,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Stone Giant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Qurrok",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "sJUCiGBi2HkNupqg",
+                    "name": "Otto",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 5950,
+                    "y": 2485,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17108,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Faerie Dragon (Older)"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Otto",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "2ZtOJZIARBLUgcQC",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 7980,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "gV722rhtxslOj9Xp",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2310,
+                    "y": 7980,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1IswP7b2hysTn2AG",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2310,
+                    "y": 8120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "U7ZSG25YZ7DbppJM",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 8120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "5MStFE8eUKx1AFl1",
+                    "name": "Maddgoth’s Homunculus",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 1260,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 268347,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Maddgoth’s Homunculus"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "MU0wSk9ED0XP65yE",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3010,
+                    "y": 7210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "7pa8YcIPbapf8suR",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 7210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "7b123uNJdolI4wtY",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3010,
+                    "y": 7140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "E1MV8FydnMJp9g1O",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 7140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "gReJjrFme6scnzTS",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3010,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "BdYtDUHLylMRd2rW",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "S6Y5N7Hq0cAERjHz",
+                    "name": "Otto",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6510,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 268341,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Otto"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "NWGRa4OAYfRLRs9T",
+                    "name": "Zartem",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7280,
+                    "y": 6790,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17114,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gray Slaad"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Zartem",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "ky3ZQZBOuAbCMqqP",
+                    "name": "Flying Wand",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 5950,
+                    "y": 7140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16865,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flying Sword"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Flying Wand",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "KIL3hg54lph1l12h",
+                    "name": "Flying Wand",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 5950,
+                    "y": 7420,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16865,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flying Sword"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Flying Wand",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "gM5ONFlclQdxRIQB",
+                    "name": "Flying Wand",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 6020,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16865,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flying Sword"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Flying Wand",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "pfcpiJxgD0SQA3WU",
+                    "name": "Flying Wand",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 6090,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16865,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flying Sword"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Flying Wand",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "gsd57OHVfJsJN23a",
+                    "name": "Flying Wand",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 6160,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16865,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flying Sword"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Flying Wand",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "Fs8sgUy0MPhNEMk6",
+                    "name": "Flying Wand",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 6370,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16865,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flying Sword"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Flying Wand",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "f1RKSDjySkuO3Th9",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1610,
+                    "y": 10430,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "UVORqrWCy1XX70W7",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1680,
+                    "y": 10500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "nRq99Bihl5RtXtgY",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1540,
+                    "y": 10640,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "xoEilkLrzSxLNpuk",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1610,
+                    "y": 10570,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "AX17Ty9kBMkpX4eg",
+                    "name": "Miguel",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3150,
+                    "y": 9030,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16999,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Roper"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Miguel",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "vqTTcabW5rLb6DDL",
+                    "name": "Flying Trident",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3010,
+                    "y": 8820,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16865,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flying Sword"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Flying Trident",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "FE1QXcCwnG7e8hSC",
+                    "name": "Bat",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 2870,
+                    "y": 9870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16802,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ZCXqvGrhr26cPZBQ",
+                    "name": "Bat",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3150,
+                    "y": 10080,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16802,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "FjgenfOtzdVw0cbH",
+                    "name": "Nycaloth",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3290,
+                    "y": 10080,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17125,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Nycaloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JLnU45WWFYNbQ0q0",
+                    "name": "Nycaloth",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3290,
+                    "y": 9800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17125,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Nycaloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "aAQinjw7nND0ccSB",
+                    "name": "Madd­goth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4480,
+                    "y": 8680,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16789,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Archmage"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Madd­goth",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 3
+                                },
+                                "spell5": {
+                                    "value": 3
+                                },
+                                "spell6": {
+                                    "value": 1
+                                },
+                                "spell7": {
+                                    "value": 1
+                                },
+                                "spell8": {
+                                    "value": 1
+                                },
+                                "spell9": {
+                                    "value": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "VS3pXZsQ5TnFDY0f",
+                    "name": "Madd­goth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4690,
+                    "y": 8680,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16943,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lich"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Madd­goth",
+                        "data": {
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 3
+                                },
+                                "spell5": {
+                                    "value": 3
+                                },
+                                "spell6": {
+                                    "value": 1
+                                },
+                                "spell7": {
+                                    "value": 1
+                                },
+                                "spell8": {
+                                    "value": 1
+                                },
+                                "spell9": {
+                                    "value": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "UCxfhOShjdfliYTG",
+                    "name": "Mage",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4620,
+                    "y": 8750,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16947,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mage"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "mFYUGahvO2Qx0v3k",
+                    "name": "Mezzoloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4270,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17124,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mezzoloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "OGtHZU94oM2smkog",
+                    "name": "Mezzoloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4340,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17124,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mezzoloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kgQ9pMLIN3QtKzN1",
+                    "name": "Mezzoloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4410,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17124,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mezzoloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "CXq8qaxE1H8kY0vp",
+                    "name": "Mezzoloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4480,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17124,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mezzoloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1pdR6tt29L9PVH8S",
+                    "name": "Mezzoloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4550,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17124,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mezzoloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "CQhqEa1aWB4bsf8S",
+                    "name": "Mezzoloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4620,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17124,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mezzoloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "12wTecqeCs4G5FS9",
+                    "name": "Mezzoloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4690,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17124,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mezzoloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "7hE3NwPatTLXBN6T",
+                    "name": "Mezzoloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4760,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17124,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mezzoloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                }
+            ],
+            "notes": [
+                {
+                    "label": "01. Umber Shells",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2038,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "4aa537a0-9912-41ae-84ac-7a58e605f0a2",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "Yelh9vdjvfZ2Qctb"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1785,
+                            "y": 2835
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Empty Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2040,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "d78192af-403c-4c4a-a3b9-ab507e2614ad",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "emODL2n4vTTZtjO6"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1435,
+                            "y": 4725
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03. Stone Throne",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2044,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "464034fc-e84c-4a66-95d7-9e30626d395e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "9it1PCwRZvkKCVzc"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3395,
+                            "y": 5495
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04. Silt Pit",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2047,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "5316bbae-c264-49dd-9d20-ca605363eade",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "ZFbQ1uIugyU7xJRR"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3535,
+                            "y": 4235
+                        },
+                        {
+                            "x": 2415,
+                            "y": 8295
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05. Cave of Echoes",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2049,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "0274257f-420d-4a68-85c3-e02361fb0171",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "DGYxYWemaC082NUm"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3885,
+                            "y": 5565
+                        },
+                        {
+                            "x": 2450,
+                            "y": 7840
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "19. Southwest Storeroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2052,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "28ae42e7-fcd6-4367-9406-de9c91699102",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "Vs2IKVyx1AovnpD1"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1085,
+                            "y": 7665
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "20. Northwest Storeroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2054,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "afdab285-6821-40bd-9091-b18e2b20bd60",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "cke0mevcD9DPUvgl"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1085,
+                            "y": 6125
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21. Northeast Storeroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2056,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "b2c1fb06-b11d-4132-b282-f7e965a69f30",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "s0jEnssvYaVY8Nl6"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3395,
+                            "y": 6125
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06. Craft Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2058,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "28b9dda5-9d2c-4e92-9c4a-2c25fcb74e27",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "OZi4uxxLoYqpVbRF"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5180,
+                            "y": 5145
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07. Silt Pit",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2060,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "762308a5-3586-49a9-a231-6e5315d5bafd",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "pWtjFQ6i6TbVzUSr"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6335,
+                            "y": 5635
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "22. Southeast Storeroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2062,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "bcd1d0d1-a3f0-480f-94b6-52c311884088",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "a0hxxnFUrADUws73"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3395,
+                            "y": 7665
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08. Strange Rock Formation",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2065,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "47d1c8d3-4f6f-4bf4-b62f-90056527e562",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "EciFRMtixIOBhTZF"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7665,
+                            "y": 4025
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "23. Courtyard",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2067,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "9ccd03d9-2861-475b-b069-6acacee45757",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "G6TU4jhiHJQvdRKg"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2555,
+                            "y": 7035
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09. Stone Cathedral",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2068,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "648e6e43-ee2f-459f-8f23-fdfff54144ae",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "2ykuvWeKTMgh1wnA"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6475,
+                            "y": 3465
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10. Xorta’s Flute",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2072,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "a6554c8c-6082-4b21-bbad-3655389e3efb",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "79VvfyrwDwWK0Puc"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7595,
+                            "y": 2835
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "24. Privy and Bath",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2073,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "d5565233-1021-4c3a-9429-972a3645eee0",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "3XTSi2JWap0BeOs9"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1715,
+                            "y": 7315
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11. Disposal Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2083,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "cbf34b4f-34a5-4c31-a955-a1ab09b39092",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "LpxMmNeceWOoy1lb"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7945,
+                            "y": 2835
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12. Edible Moss",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2085,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "091c0c36-dd58-47da-ba0b-320f119e0807",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "PpSPZ0AelOLmi8ak"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8085,
+                            "y": 1435
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "25. Maddgoth’s Study",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2087,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "92859471-d36a-4f11-aa18-b63008414496",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "2RMdTl9faZlOFp9f"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1505,
+                            "y": 7070
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "26. Clayworks",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2094,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "b6cfd613-2b44-436a-aed5-4c3cf78c80ea",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "jV29PXTYO2ZtAjuk"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2345,
+                            "y": 6650
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "27. Dining Room and Kitchen",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2106,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "8a7576e3-4542-4db5-947a-7e4fff9456b8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "ztBHkUf0SaVMfL26"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2730,
+                            "y": 7210
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14. Cave Bear Den",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2107,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "258bcc71-104b-49bc-b7eb-af30de54ff93",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "tYCNzLtsl8jb0LA9"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3885,
+                            "y": 2205
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "28. Well-Appointed Halls",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2110,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "c3aa382e-004a-4708-94d5-e4d6d1f4818e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "gBGbUEgvS83rbPL5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7175,
+                            "y": 6650
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15. Qurrok’s Den",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2113,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "765d35a7-e12e-434d-afb7-312987e59db4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "1xuaPEq9bUd2YQDw"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3465,
+                            "y": 2415
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "29. Southwest Guest Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2116,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "7d9c0141-eec5-4284-9bec-881c6f506f4b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "e9pGseCVhYVPmvL7"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6195,
+                            "y": 7665
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "30. Northwest Guest Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2121,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "df8e1986-eed3-46e5-abc1-190bb92fbe51",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "yOz7GEjkIV1xI3EX"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5845,
+                            "y": 6125
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "31. Northeast Guest Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2124,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "9db7648e-05c7-4a21-afd1-94994cc5a5d7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "1kzdMFzVqLcP0PI9"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8155,
+                            "y": 6125
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "32. Southeast Guest Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2127,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "117498e8-fe48-4fb2-902f-5e58c52f9047",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "ihPNyM4EX02XgDy5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8155,
+                            "y": 8155
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16. Central Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "ba69d620-30b7-4398-8093-75ad7cb1f244",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "IBPoNOEU10g20hL6"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5075,
+                            "y": 3395
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "33. Slaad in the Octobass",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2132,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "320114b5-1f3f-4cd2-ba0e-973834e4d08b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "WSLeH8wqoybYVNN6"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6720,
+                            "y": 6860
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06a. Stonebones Carving",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2133,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "6aecebb9-8bd3-4a23-a89b-73c79aa1b1f5",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "AY8LrzADgjfqVDPv"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5145,
+                            "y": 5565
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06b. Tool Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2135,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "b28c2601-043c-4efe-bce0-0ceda5c74080",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "9HOmEKoTZd9DxSZH"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5775,
+                            "y": 5425
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11a. Faces of Halaster",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2142,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "773fda1d-b2b2-4992-9981-f807887834ad",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "JFlcF6ZJj6b3Plr6"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8225,
+                            "y": 3115
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "34. Madd­goth’s Suite",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2143,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "e584250c-a8bc-4213-9861-e0c883ec809c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "u4mKgVTn4J08dExq"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6510,
+                            "y": 7070
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11b. Silt Pit",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2144,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "d53f5ad6-57dd-4638-a62a-337881f95ca8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "ePfaDn5huwQEzx2Z"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8365,
+                            "y": 3955
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13a. Obsidia and Rhodos",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2147,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "05cb36b1-1dbe-4a87-b688-1f21e2067331",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "dpvj7e60G0odujWL"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6825,
+                            "y": 2345
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "35. Cloakroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2148,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "b04d3290-b568-40f8-8710-df4f85514b46",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "nxIMznZ0sy9lm7vN"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8120,
+                            "y": 7070
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13b. Giants’ Home",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2152,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "3ca94b04-dad2-4fbd-be7f-4375f851f60d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "q3XDIDaJIBMOtNOy"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6615,
+                            "y": 2135
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13c. Treasure Alcove",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2156,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "8f990c69-4faf-4580-bd05-93ee5fa242a9",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "JiYVDI1gbrsyE4TD"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5705,
+                            "y": 2205
+                        },
+                        {
+                            "x": 7525,
+                            "y": 7350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13d. Cave of Rest",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2158,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "ddb70902-09b4-4a4f-ad57-d4fd1d937de4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "Y6DwgcvVCyqI01Zh"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6895,
+                            "y": 1435
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14a. Adult Cave Bears",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2160,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "042c3824-02fa-46db-975d-d1ac46320e8a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "KuplLSAsvMiFLVgW"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4025,
+                            "y": 1995
+                        },
+                        {
+                            "x": 7175,
+                            "y": 8295
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14b. Young Cave Bears",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2162,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "fc1244ab-fb71-4ff7-95c8-65fedd06291e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "wiuzhOAM3N1ExTOm"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3815,
+                            "y": 1575
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15a. Unfinished Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2164,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "49bc803a-117c-4fd1-96be-c5cd67b4ec0d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "ZfrNvFdsf8XchWdi"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3045,
+                            "y": 1785
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "38. Glittering Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2165,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "af132dfa-fa92-483c-a97f-511d73e78f68",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "Yciw51GYevF9Xl6C"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2870,
+                            "y": 9520
+                        },
+                        {
+                            "x": 1610,
+                            "y": 9520
+                        },
+                        {
+                            "x": 1575,
+                            "y": 10535
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15b. Gym",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2166,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "4a90c921-344f-4699-abc9-573de82ecb7b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "2adLU6K1QXoexpQV"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2555,
+                            "y": 1575
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16a. Ledges",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2168,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "8689a483-00d9-4a38-ae2d-7dfb5ca8a9ea",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "ejnnoQlRYeJhe9XT"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6195,
+                            "y": 3535
+                        },
+                        {
+                            "x": 4585,
+                            "y": 2555
+                        },
+                        {
+                            "x": 1085,
+                            "y": 10325
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "40. Northwest Chamber",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2170,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "c9ec2547-d1f6-4f1d-b00a-489d209c96de",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "4Kcyhf5vDLC8M4Gz"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1050,
+                            "y": 8750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16b. Cavern Floor",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2175,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCaverns",
+                            "contentChunkId": "76ba03bf-baa8-422d-a444-444a88962176",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "DFmb0ZZ7l5bpHJom"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4865,
+                            "y": 3745
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "41. Northeast Chamber",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2184,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "ee9c2934-c73e-4955-b176-fa421442841d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "aPj03JePCC6Ojo6R"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3395,
+                            "y": 8785
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "42. Southeast Chamber",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2186,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "dfebed1f-99ef-4167-98a9-f7a9235c2632",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "gdHzrV9EH1vl4Idx"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3395,
+                            "y": 10325
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "43. Otto’s Den",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2196,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "d4b18f44-4cc9-4f4e-83eb-3f1d6514ccfd",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "mFftV1IfGUVe0leI"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2275,
+                            "y": 9415
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "44. Wizard’s Armory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2203,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "b120b32d-41c1-4b90-9d2d-b78bcaaf737a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "3FIA0kLANjZposKG"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3290,
+                            "y": 9940
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "45. Alchemist’s Laboratory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2209,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "afb3d3a4-6007-48e8-b568-5c73ae61500b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "zdz6HlemOI3aaizr"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1225,
+                            "y": 9835
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "46. Madd­goth’s Throne",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2212,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "e16d0fa1-64a4-4ff8-bd4a-3a3ecfeb0800",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "N59796NFun4vy8oy"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2555,
+                            "y": 10605
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "47. Roof and Battlements",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2218,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "223f1746-60e4-4fbb-b6fb-97377f5f081b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "hlTbGNFRi5ChEfOP"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7105,
+                            "y": 9205
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "25a. Homunculus Lair",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2221,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "50eb658e-315f-491d-a973-b7490deed55c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "12bUD9iMvZPXgV7T"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1295,
+                            "y": 6685
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "25b. Madd­goth’s Study",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2230,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "33a34fcc-b361-4ca0-907a-258896531ec0",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "GRRyeWcwRkhk8zAV"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1575,
+                            "y": 6685
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "26a. Building Blocks",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2232,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "041482bd-46e3-47ee-b639-366bb9fd9da1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "YEZJ3E7dMvNjeJq9"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2275,
+                            "y": 6475
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "26b. Old Clay",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2235,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "1ed28b94-626b-4b33-8b8a-3de047d0aada",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "BYjJZ4SO4udOcNy6"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2485,
+                            "y": 6440
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "27a. Dining Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2238,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "dbbee899-4f0e-4a09-be4f-01e87809fce7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "tE6x6HlTvpCtHMjN"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3220,
+                            "y": 7490
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "27b. Kitchen",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2241,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "c6c71cbd-9ef5-45de-b142-bf07d9258f20",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "wK4q9ImJBlvp4VWN"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2800,
+                            "y": 7070
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "27c. Pantry",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2243,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "79b1d66d-b3ba-4b90-b246-4777a30587b1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "J2kGsEWMeDOn8dX7"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3325,
+                            "y": 6825
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "27d. Potent Potables",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2245,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "2d3ecfcd-c08b-4751-b5c8-9b714cf84867",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "7sLlDoCkn5NMgZOK"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3325,
+                            "y": 7000
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "34a. Master Bedchamber",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2252,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "346e1f60-15e5-4ab2-a9f8-2002c3339151",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "8DrnSkLP9V8FNgxB"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6440,
+                            "y": 7315
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "34b. Closet",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2254,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "d6649ec6-76b9-4ad1-b5da-9f6a06012396",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "mZm8QESLkvu2gX3b"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6440,
+                            "y": 7770
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "36a. Gathered Intelligence",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2256,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "51130032-56d0-4322-b789-fdbf9463a283",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "mgyBkpeGxMXLBpMs"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8085,
+                            "y": 7455
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "36b. Secure Records",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2260,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "074f08d4-c09b-4a64-a8bf-c6a64c927d32",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "RwDKBZKzPxUVXJWF"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7735,
+                            "y": 7770
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "43a. “Homunculi Unwelcome”",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2265,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "551c3be5-d111-4404-8d98-1fcf77f8f9dd",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "F9buUHPzdDRSGH5n"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2415,
+                            "y": 8855
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "43b. Otto’s Secret Stash",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2268,
+                            "bookCode": "wdotmm",
+                            "slug": "maddgoths-castle#TheCastle",
+                            "contentChunkId": "82211564-5540-4dad-b8c1-d8a432d83580",
+                            "note": true,
+                            "img": false,
+                            "parentId": 600,
+                            "linkId": "x5QO8B3F0JmT5qxH"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2695,
+                            "y": 8855
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrensmaps-wdmm.maps",
+                "scene": "rVRLBJstnQ3x8VfI"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 07"
+}
