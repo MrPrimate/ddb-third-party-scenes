@@ -1,0 +1,4968 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "wdotmm",
+            "tokens": [
+                {
+                    "_id": "knl3JDY01yg51EVA",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 5600,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "UPpHNmBVHlD4YMsf",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4830,
+                    "y": 5810,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "12yluEytZzJ1LHcR",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4690,
+                    "y": 5670,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "x01wHCm2Bwd9PAmg",
+                    "name": "Shambling Mound",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3010,
+                    "y": 7630,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17011,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Shambling Mound"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "A2p3VvRsXjyUXtac",
+                    "name": "Shambling Mound",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 7840,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17011,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Shambling Mound"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "t6hhisZC1UcPkLwe",
+                    "name": "Shambling Mound",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2870,
+                    "y": 7840,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17011,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Shambling Mound"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "0DImuhLR6yBXfKCh",
+                    "name": "Flesh Golem",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2870,
+                    "y": 11130,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16863,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flesh Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "cFNLg6br2avkdRIm",
+                    "name": "Wight",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2520,
+                    "y": 11550,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17059,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Wight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1eG9uuqTAlIGUi8z",
+                    "name": "Wight",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 11690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17059,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Wight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "09patBN15FqJSeXr",
+                    "name": "Karstis",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 12460,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16947,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mage"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Karstis",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 3
+                                },
+                                "spell5": {
+                                    "value": 1
+                                }
+                            },
+                            "details": {
+                                "type": {
+                                    "subtype": "Mulhorandi human"
+                                },
+                                "alignment": "LE"
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "8MmUNDi7PvuQh8Bh",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2870,
+                    "y": 12180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "0tYlj5nu3EaHACFa",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2590,
+                    "y": 12180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "HF5ZqlHUPm78YrYq",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3010,
+                    "y": 12390,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "4K3t9SCm95DfkZ5O",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 12320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ASUpPzo140Wu7lDT",
+                    "name": "Ghost",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5250,
+                    "y": 10010,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16871,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Ghost"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "qPOOjgovnaU1XfHA",
+                    "name": "Swarm of Insects",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4760,
+                    "y": 9870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17029,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Swarm of Insects"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "SJi7TohsaOEmrsU7",
+                    "name": "Dirzanna Freth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5390,
+                    "y": 11760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17134,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Drow Elite Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Dirzanna Freth",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "q6eXGGkGsSHlOa2d",
+                    "name": "Arachnafein Zaphrorzza",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5670,
+                    "y": 11760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17134,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Drow Elite Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Arachnafein Zaphrorzza",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "1qDttQmfoqAC5b42",
+                    "name": "Xirk Dezpeti’il",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6860,
+                    "y": 12320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17134,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Drow Elite Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Xirk Dezpeti’il",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "q5Xi7CnyAg2muIP7",
+                    "name": "Agorra Duskaxe",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 9170,
+                    "y": 12460,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16850,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Duergar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Agorra Duskaxe",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "yt7tWUMj6cUBWeMX",
+                    "name": "Excrutha",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9380,
+                    "y": 12530,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17019,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Spirit Naga"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Excrutha",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 3
+                                },
+                                "spell5": {
+                                    "value": 2
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "0ygCMyOYPwoxtXqM",
+                    "name": "Serakath",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9310,
+                    "y": 12670,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17019,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Spirit Naga"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Serakath",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 3
+                                },
+                                "spell5": {
+                                    "value": 2
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "EJWcdfX8mLnLrW3K",
+                    "name": "Troll",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9030,
+                    "y": 10150,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17040,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Troll"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "cgzDdZvl7oTrEfbY",
+                    "name": "Troll",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9030,
+                    "y": 10290,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17040,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Troll"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kheAiNUdfMnopXW5",
+                    "name": "Bone Naga",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 9310,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17118,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bone Naga"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "FGLXuGGNUhxvseEU",
+                    "name": "Yuan-ti Pureblood",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 7770,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17123,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Yuan-ti Pureblood"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 19
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "FrNLtwSBYzL0bfuA",
+                    "name": "Yuan-ti Pureblood",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 7840,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17123,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Yuan-ti Pureblood"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 16
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "TamPm1leeA4HX2Fn",
+                    "name": "Yuan-ti Pureblood",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 7910,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17123,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Yuan-ti Pureblood"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 8
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "51WspceULpgWi6pt",
+                    "name": "Yuan-ti Pureblood",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 7980,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17123,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Yuan-ti Pureblood"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 5
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "nspnIdekB87h8iEq",
+                    "name": "Hexacali",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 8260,
+                    "y": 7770,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17019,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Spirit Naga"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Hexacali",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 3
+                                },
+                                "spell5": {
+                                    "value": 2
+                                }
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 35
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "5kuADcD7g0fZoAo2",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6020,
+                    "y": 7420,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1IieUi32yizmvJ6e",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5810,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Q5DH5Vl4ahjWTzOu",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6160,
+                    "y": 7560,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "tOGaRqfPAW1iPFAw",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6440,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "5RgHmMvMncJXwi3o",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6370,
+                    "y": 7350,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "CD1tqek3n3VKoICh",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6090,
+                    "y": 7140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "wyry4wX0uQJtzugX",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6650,
+                    "y": 7210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "h1C03d3ksj4L3Upo",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5740,
+                    "y": 7210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kZcPuvGUXm6ezyem",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6370,
+                    "y": 7210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "t0q8vetYgy94bj2s",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6020,
+                    "y": 7280,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "0jWS51dxKFRyQ6io",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6300,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "RE0yEyaEYRYAjSbk",
+                    "name": "Torbit",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5810,
+                    "y": 6090,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 272306,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Torbit"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "4TmMYH3ySowxFFpQ",
+                    "name": "Yuan-ti Abomination",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6230,
+                    "y": 5110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17121,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Yuan-ti Abomination"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JxHjkXu570zImpY6",
+                    "name": "Yuan-ti Abomination",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6090,
+                    "y": 5110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17121,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Yuan-ti Abomination"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "M2nXuR5NNEc60Jq0",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7700,
+                    "y": 4970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "lift1QCPfke9STZp",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7560,
+                    "y": 4760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "pDQhi8Fqy8VDJCrD",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7840,
+                    "y": 4970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "8eX4rLJblViwzd9u",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7840,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "3EElfuIB46k1VmQA",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7770,
+                    "y": 5390,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Vb11h7REOywqQx7M",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7910,
+                    "y": 5390,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "mNd0HIGN7HgqcvTO",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7980,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "83I4PC0cSUMy61w1",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8050,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "RO5kTvb4CiX0CwfK",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8260,
+                    "y": 4760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Z7pyJ8gA0In4e5At",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 4620,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "zh2GfEp1pODNP33h",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7910,
+                    "y": 4550,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "uBkKKopaA54hhXok",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7840,
+                    "y": 4620,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ZTuYPmRexkJgLMcM",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8050,
+                    "y": 4480,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "7We36v28ghFXvcQo",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 4410,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JHsTIxcpp5Mqj9ns",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8050,
+                    "y": 4270,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Rzv3rJ5634M2Ht4Y",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7910,
+                    "y": 4340,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "sP52DqOYE7Kx3gRw",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7910,
+                    "y": 4410,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "aQqdXE0L9VQlBUbb",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7770,
+                    "y": 4900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "d31ZxTyfwxWIgcd6",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 4830,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "H4Ck0HtiDvSnE8HN",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8190,
+                    "y": 4970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "qhxLQGvZwWn0TdpU",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7980,
+                    "y": 4620,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "7mki95DCiJAg94SP",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 4760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ij2d5kOJQECujEAA",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8050,
+                    "y": 5040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "REiVGNR2gGzFc5tg",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7840,
+                    "y": 5110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Gyw0eM0a3qLXj3r5",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7770,
+                    "y": 5040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ErcZY0igmNRuUPCF",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7840,
+                    "y": 4690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "GYLDNoH1PL6M8a69",
+                    "name": "Hydra",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 8610,
+                    "y": 3780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16929,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hydra"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JrggX3Hz9RxQYUWq",
+                    "name": "Kuketh",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 9310,
+                    "y": 3430,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17113,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Death Slaad"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Kuketh",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "BvaHAk5o8bt83Ty4",
+                    "name": "Kuketh",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 9310,
+                    "y": 3500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Kuketh"
+                    }
+                },
+                {
+                    "_id": "Pc0yPBpOgNXbjF4Q",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6020,
+                    "y": 3780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "32oqt3Os8ITZAeoX",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6090,
+                    "y": 3850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "pc05aTYpt6LNICK4",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5810,
+                    "y": 3850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "zWiN9fHyLJOvwVjI",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5880,
+                    "y": 3920,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "lxg0NgnKJnsDU17o",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5950,
+                    "y": 3780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "PPFS6xzzfzajb0ck",
+                    "name": "Giant Frog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6020,
+                    "y": 3640,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16884,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Frog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "PprvVTs4lj8tmstv",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5880,
+                    "y": 3850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Fm4WshrXhPCxgI1X",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5950,
+                    "y": 3710,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "zJBzK9e4A5stLiCx",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5880,
+                    "y": 3780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "fzcYxNodiI5uitJj",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6020,
+                    "y": 3710,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "VaAVNxUYQzbLWabE",
+                    "name": "Carrion Crawler",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6090,
+                    "y": 3500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17138,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Carrion Crawler"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "q7wCdTSpiUitLKZB",
+                    "name": "Carrion Crawler",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6300,
+                    "y": 3570,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17138,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Carrion Crawler"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "eerEydyajSEF8eCY",
+                    "name": "Carrion Crawler",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6510,
+                    "y": 3500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17138,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Carrion Crawler"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "goOPzbZJ2JEG0vOA",
+                    "name": "Carrion Crawler",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6440,
+                    "y": 3710,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17138,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Carrion Crawler"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "XqM9dDdO69zz2Esr",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 4550,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ETslRx4WkZ3ymVRe",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 4620,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ePphyik5SigICwno",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 4550,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "CoVjEN3FuqrIwanu",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4970,
+                    "y": 4620,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ae5s112mucLr5hTI",
+                    "name": "Giant Toad",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 4270,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16896,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Toad"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "3z2ggga6oDGIj0va",
+                    "name": "Giant Toad",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5320,
+                    "y": 4410,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16896,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Toad"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "sQHPiFJyEJA6ejrc",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4130,
+                    "y": 3640,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JAxCvlwsW1oneTjY",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4200,
+                    "y": 3500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "79Ke5m0En8HjPF0d",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4410,
+                    "y": 3360,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "TLEjKRW64citoM3B",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4410,
+                    "y": 3570,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "HiRSXIzCqWcKY682",
+                    "name": "Giant Toad",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 4340,
+                    "y": 3710,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16896,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Toad"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "wef41uVL7UI5yIbX",
+                    "name": "Bullywug",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4060,
+                    "y": 3430,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17120,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bullywug"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                }
+            ],
+            "notes": [
+                {
+                    "label": "01. Precipice",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2045,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "8aa741f1-d303-42fb-b2dd-f5db0c0889ce",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "nH7FIRfXZ6xPKnMm"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3955,
+                            "y": 5215
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Bullywug Sentries",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2048,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "b0d36abc-5e63-452c-8e0e-f5fab261bdec",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "51QaK06YW2sPySav"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4165,
+                            "y": 6195
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03. Arch Gate to Level 6",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2051,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "90f25b93-8e80-416c-ac1d-3e76c2e5990f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "hYWMkja6dcfu1YTl"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2905,
+                            "y": 6545
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04. Dangerous Shrubbery",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2059,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "e56923b7-1396-45bb-9a1b-9a1e45656d58",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "rPVUBFINde5nG089"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3115,
+                            "y": 7315
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05. Dry Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2061,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "d38ad4b3-bc2c-4261-bbb1-62f5c057a356",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "j43wjGYrX2U3lODY"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4795,
+                            "y": 7665
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06. Reflections",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2066,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "176f0f68-9a9c-422a-853b-c6c85083be75",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "E8aC0IR5B6kV0Rm8"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3395,
+                            "y": 9205
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07. Warded Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2068,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "b7e45022-8f6b-46f4-8b31-7ead5036875f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "DrSFCVzlq0N2iIvR"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4270,
+                            "y": 10570
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08. Dweomercore Hideout",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2077,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "002ca444-8692-4a4b-9ae5-82c1add6bca4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "njXyxiP5FrI3QerT"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3395,
+                            "y": 10745
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09. Temple of the Great Snake",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2089,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "25ff4c84-88f2-48a1-b442-b8fd90f2ed2c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "xtPZPmEonppWYUJM"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4865,
+                            "y": 9485
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10. Rainfall Caverns",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2097,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "e7bce345-66e9-42aa-bd8a-18af184191b0",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "b3ZUFbnSx9w7gdiE"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5635,
+                            "y": 9975
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11. Watch Post",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2105,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "86e02e2f-63c3-4a33-bcfe-ecadb52af5cc",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "4rg09zNOz9q0r2cz"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5285,
+                            "y": 11585
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12. Fishery",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2107,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "64b651e3-ad05-45dc-9bff-6d922498d1fd",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "Jply8MfmOLoCUekZ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4865,
+                            "y": 11795
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13. Detention Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2110,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "fd4c367d-a1d9-4437-9e68-1bcabe2ce83f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "0fPfDFwXvW8tH3CF"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6895,
+                            "y": 12250
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14. Fungal Farm",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2113,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "6d59c77b-0b7b-491d-8034-1c327108a9ed",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "U22ocvFG5D0Gmpm3"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7945,
+                            "y": 10675
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15. Lair of the Spirit Nagas",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2135,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "124e7bb2-3efb-41a7-9ce1-d6c4ff904789",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "oSKVwaFZcfd4G1K4"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8365,
+                            "y": 11445
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16. Lair of the Bone Naga",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2138,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "277106d6-1288-4985-be37-14b0467d7a38",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "H8U3VI0onG0jKrBp"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7980,
+                            "y": 9800
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17. Battlefield Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2151,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "8177508a-715d-4170-ba6b-9347f87a51c1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "tUItdE79VjwQMTGx"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8575,
+                            "y": 8925
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "18. Serpent Gate",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2159,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "db45a01b-4dcd-4be8-968d-875d1fc02a6f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "W1UrOSBbhcfylqgd"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9275,
+                            "y": 7455
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "19. Yuan-ti Temple",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2177,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "e9884481-98bb-48ea-95ad-adc993cd3668",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "8Ku1M2K7NUCwCqQM"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6195,
+                            "y": 7385
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "20. Blacktongue Isle",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2181,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "72bc805d-deae-4b60-81ec-12634695cdfa",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "p4hqwSR6BUFrZCFO"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7980,
+                            "y": 4900
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21. Lord of Fetid Obliteration",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2191,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "e0c25419-a2b9-4f21-b8b5-61240e2fd4da",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "fAZNW4brFgBOqtVE"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8505,
+                            "y": 4235
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "22. Stables",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2200,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "73c5ac8b-10e7-472c-ab69-1bcec740f479",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "nMB7KhNkVbtrveIC"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6195,
+                            "y": 4165
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "23. Bullywug Camp",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2202,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "40a87b7b-fc20-432c-b83c-0ce430277179",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "gaYXzfordz9KiQHg"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4900,
+                            "y": 4900
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "24. Kelp Farm",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2205,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "ad0baaae-c550-4196-98eb-e5bd06d17558",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "GmVUq3OKCtCKFdEx"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4515,
+                            "y": 3255
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04a. Final Rest of Thubid Duskaxe",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2208,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "3dfbb461-0a4d-4e62-a91f-781d22e2e758",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "n9X0prpO4AR21AHe"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2765,
+                            "y": 7315
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04b. Shambling Mounds",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2210,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "6558aa1f-51a1-4f11-9c1f-cf8b0179bd6a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "gGBux9XLkeAIjRSA"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3045,
+                            "y": 7875
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08a. Guards",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2213,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "f0230c53-1806-4ce0-b375-f100c692590f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "D19S5wNDKvJ6x3lG"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3255,
+                            "y": 11235
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08b. Karstis’s Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2216,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "3a276f17-e7eb-46d3-a99d-15a3727f9477",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "VCUkd2EC4hjFFDfQ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3115,
+                            "y": 12285
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10a. Venom Pool",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2219,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "a5771f87-4dc5-4abd-8d38-d639feba64f4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "vPG7Rstuv70LRIyT"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6125,
+                            "y": 9485
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10b. Hissing Stone",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2222,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "f3880877-1c4c-4de3-8671-b872e5498bf9",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "modIRW1FakMGiPL9"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7035,
+                            "y": 9275
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11a. Flooded Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2224,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "2c1ddb93-c0a2-4621-b48e-2ea0d7753c3d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "vv5QuoQro0ZZavcP"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5390,
+                            "y": 11340
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11b. Watchers in the Dark",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2228,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "5fcd5dde-685f-4179-9c00-bac63d3edc30",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "a7IlDE4M7sr6vBzv"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5845,
+                            "y": 11935
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15a. Arena",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2231,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "10fee24c-4696-459e-a45c-c4f288c1eac1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "e73QJG6CXYhj5tzq"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9415,
+                            "y": 11515
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15b. Naga Thrones",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2233,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "bd7984ed-4368-4d74-8d76-6fac01954e6d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "CMX2ZIoJM9Tzz0tO"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8855,
+                            "y": 12425
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15c. Steamy Den",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2241,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "37d1249a-37f3-4b01-bdab-bb719defee43",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "hzAxluMs869ucnpU"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9485,
+                            "y": 12390
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15d. Unused Laboratory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2243,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "8079916a-db3a-4cdc-891a-aeb5e4aec1b6",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "nLXGcQjdn02sJZQW"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8015,
+                            "y": 12425
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15e. Spring",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2245,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "859d91ac-4d87-4ce4-bce9-7af8773f4f39",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "6wg1FcDYxL5w9NPG"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9590,
+                            "y": 10745
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15f. Troll Guard Post",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2247,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "6c2299b2-be33-4e2c-adac-c212f88d884f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "tBQMMUAj1xvnPmvD"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9205,
+                            "y": 10115
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17a. Bones in the Mud",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2249,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "e0cb089c-6431-483c-b89e-2b7fdc023f72",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "u7lGfjsrHvZRr0GT"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9030,
+                            "y": 8750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17b. Death of a Naga",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2254,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "a3a357d3-4d32-4c16-8e0a-ffdb631260c1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "Rj1CWKWrPFx5QdJm"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8505,
+                            "y": 7735
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17c. Mirror Gate to Level 10",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2258,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "587bba6c-5338-4799-b83b-df9d8be81bf5",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "l7eOgV79NX9Sn2et"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8505,
+                            "y": 6195
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "18a. Trapped Approach",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2261,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "adb6c295-24ce-4898-8edf-21bcc4470222",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "Hils57XWtTq7pTOQ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9485,
+                            "y": 8225
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "18b. Standing Gate to Level 11",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2264,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "92b6b29b-9cfa-4082-ad52-5fe9092b9e09",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "cCQnXhCbNuSrPOMF"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9555,
+                            "y": 8925
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "19a. Amphibious Guards",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2266,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "569852a1-2346-4b84-aaa6-ae43d979f61f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "z1RDimNkV49l095q"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5950,
+                            "y": 7350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "19b. Narthex",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2269,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "e8dee04c-b135-41b7-943f-0a146dbc496b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "pSriKIsdaFgnXStS"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6440,
+                            "y": 6440
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "19c. Nave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2274,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "f1b568e3-c331-4da7-a687-991bb2d3d530",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "ROtl6MWZkb5KRG92"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5880,
+                            "y": 6335
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "19d. Apse",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2280,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "abc4b28a-147e-408f-ae98-8b3995e7fd14",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "u2kfaD9J0u62yvGF"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6370,
+                            "y": 4970
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21a. Hydra Den",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2282,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "e0443ff8-3bee-4d03-8dad-d78c4708bc34",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "wf3yc1rMVx0zVimD"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8960,
+                            "y": 3885
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21b. Kuketh’s Lair",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2285,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "208ce09c-963e-4c83-90e9-3e1f1150feeb",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "gGJzNL9rgq82DtY2"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9240,
+                            "y": 3290
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21c. Secret Vault",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2288,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "762a5c71-f4bb-4b64-88d5-e85d796ec02d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "lFuUxgKNa1w4VwVU"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8505,
+                            "y": 2975
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "22a. Giant Frogs",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2290,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "c492bd61-0bec-4ea4-b72b-975629d0327e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "co4alu32yq9catZn"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5775,
+                            "y": 3815
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "22b. Carrion Crawlers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2295,
+                            "bookCode": "wdotmm",
+                            "slug": "slitherswamp#ExploringThisLevel",
+                            "contentChunkId": "04f9e7b6-d91e-4564-b7b5-59e34e76a549",
+                            "note": true,
+                            "img": false,
+                            "parentId": 601,
+                            "linkId": "8PrKnE0BM3Isgs3Z"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6475,
+                            "y": 3465
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrensmaps-wdmm.maps",
+                "scene": "mJSZhtPamLRrl6eS"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 08"
+}
