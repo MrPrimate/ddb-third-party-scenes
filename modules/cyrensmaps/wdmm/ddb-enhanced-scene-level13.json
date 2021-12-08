@@ -1,0 +1,3925 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "wdotmm",
+            "tokens": [
+                {
+                    "_id": "LMv9IhLzGinnXE0N",
+                    "name": "Bore Worm",
+                    "width": 4,
+                    "height": 4,
+                    "scale": 1,
+                    "x": 8050,
+                    "y": 8750,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Bore Worm"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "NwrMHsjhWcaQzFyM",
+                    "name": "Scaladar",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 7210,
+                    "y": 8750,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183857,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Scaladar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "AuPGfI9mKroCFf7k",
+                    "name": "Scaladar",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 6370,
+                    "y": 8330,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183857,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Scaladar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "iUu5dpaBS94gIUtp",
+                    "name": "Scaladar",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 6090,
+                    "y": 9240,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183857,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Scaladar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ISmZbFOj0jVXoDNv",
+                    "name": "Scaladar",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 7630,
+                    "y": 8050,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183857,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Scaladar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "t5iru2WGw6UpTzyn",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7560,
+                    "y": 7770,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "AvD6424D1ZLRWDOO",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6790,
+                    "y": 7910,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "pnYrRrOHPhapgpSX",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7420,
+                    "y": 8330,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "0XD9nx8IkffL2R3a",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7140,
+                    "y": 8610,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "aLRQAD2x3CJLbLVc",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6930,
+                    "y": 9170,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "iEWXbu9GuotQDBnn",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6650,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "SRL2ZCa23CMyWBxo",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6370,
+                    "y": 8820,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "zYxc3OYs6OBBz2Ar",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6860,
+                    "y": 8330,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "wV15peyGS6Oqj7yS",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6440,
+                    "y": 8120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "EnPq3MC960Gxd682",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6090,
+                    "y": 8540,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "xPtUfIAqo6pkuWau",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6930,
+                    "y": 8750,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "O6Z6Ak6oNEMvL9qq",
+                    "name": "Arbalest",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7280,
+                    "y": 8050,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Arbalest",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "jMoOKnEK2gkuisZ6",
+                    "name": "Kurlog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7700,
+                    "y": 10150,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17160,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin Captain"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Kurlog",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "SblNQTK5dOzknWhN",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7700,
+                    "y": 10080,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "E7URuWVKAl0i4AFb",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7700,
+                    "y": 10220,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "5KiYvraRpxgVRvIa",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7700,
+                    "y": 10360,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Bu0t0pYSlbBtqUfU",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7630,
+                    "y": 10360,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kqu0710vBbYdY8jR",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7770,
+                    "y": 10150,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "qyf1i7FmTOjiukXK",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7700,
+                    "y": 10290,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ACnpRRF4ZdiFI2mS",
+                    "name": "Rust Monster",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 10150,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17001,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rust Monster"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "79tjnsU1BxQgp5Kp",
+                    "name": "Rust Monster",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 10220,
+                    "y": 7140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17001,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rust Monster"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "tm0OpoRepgkrzZVr",
+                    "name": "Rust Monster",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 10080,
+                    "y": 7140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17001,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rust Monster"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "dILoXWwmaYf7h5ZB",
+                    "name": "Giant Wasp",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 10080,
+                    "y": 6860,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16898,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Wasp"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Metal Wasp",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 24,
+                                    "max": 24
+                                },
+                                "ac": {
+                                    "flat": 16,
+                                    "calc": "flat"
+                                },
+                                "senses": {
+                                    "darkvision": 60
+                                }
+                            },
+                            "traits": {
+                                "di": {
+                                    "value": [
+                                        "poison",
+                                        "psychic"
+                                    ]
+                                },
+                                "ci": {
+                                    "value": [
+                                        "charmed",
+                                        "frightened",
+                                        "paralyzed",
+                                        "petrified",
+                                        "poisoned"
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "a2S6jqVqL5k0qvy3",
+                    "name": "Giant Wasp",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 10360,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16898,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Wasp"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Metal Wasp",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 24,
+                                    "max": 24
+                                },
+                                "ac": {
+                                    "flat": 16,
+                                    "calc": "flat"
+                                },
+                                "senses": {
+                                    "darkvision": 60
+                                }
+                            },
+                            "traits": {
+                                "di": {
+                                    "value": [
+                                        "poison",
+                                        "psychic"
+                                    ]
+                                },
+                                "ci": {
+                                    "value": [
+                                        "charmed",
+                                        "frightened",
+                                        "paralyzed",
+                                        "petrified",
+                                        "poisoned"
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "Ev7DXCyWMepoooWW",
+                    "name": "Giant Wasp",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 10640,
+                    "y": 7210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16898,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Wasp"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Metal Wasp",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 24,
+                                    "max": 24
+                                },
+                                "ac": {
+                                    "flat": 16,
+                                    "calc": "flat"
+                                },
+                                "senses": {
+                                    "darkvision": 60
+                                }
+                            },
+                            "traits": {
+                                "di": {
+                                    "value": [
+                                        "poison",
+                                        "psychic"
+                                    ]
+                                },
+                                "ci": {
+                                    "value": [
+                                        "charmed",
+                                        "frightened",
+                                        "paralyzed",
+                                        "petrified",
+                                        "poisoned"
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "D5Lb9btlxTcN6RlW",
+                    "name": "Giant Wasp",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 10290,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16898,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Wasp"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Metal Wasp",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 24,
+                                    "max": 24
+                                },
+                                "ac": {
+                                    "flat": 16,
+                                    "calc": "flat"
+                                },
+                                "senses": {
+                                    "darkvision": 60
+                                }
+                            },
+                            "traits": {
+                                "di": {
+                                    "value": [
+                                        "poison",
+                                        "psychic"
+                                    ]
+                                },
+                                "ci": {
+                                    "value": [
+                                        "charmed",
+                                        "frightened",
+                                        "paralyzed",
+                                        "petrified",
+                                        "poisoned"
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "htudLxDBIL5MMuqe",
+                    "name": "Giant Wasp",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 10010,
+                    "y": 7420,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16898,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Wasp"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Metal Wasp",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 24,
+                                    "max": 24
+                                },
+                                "ac": {
+                                    "flat": 16,
+                                    "calc": "flat"
+                                },
+                                "senses": {
+                                    "darkvision": 60
+                                }
+                            },
+                            "traits": {
+                                "di": {
+                                    "value": [
+                                        "poison",
+                                        "psychic"
+                                    ]
+                                },
+                                "ci": {
+                                    "value": [
+                                        "charmed",
+                                        "frightened",
+                                        "paralyzed",
+                                        "petrified",
+                                        "poisoned"
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "B3muaLgUmw9rPNVZ",
+                    "name": "Rust Monster",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4620,
+                    "y": 4900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17001,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rust Monster"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "DAD9mSZmaQ6JKZd3",
+                    "name": "Rust Monster",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6440,
+                    "y": 4480,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17001,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rust Monster"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "zRtPZmruxv6tnw9H",
+                    "name": "Rust Monster",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7070,
+                    "y": 5670,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17001,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rust Monster"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "0cupWgE0sH8dckMZ",
+                    "name": "Rust Monster",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5320,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17001,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rust Monster"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "2HiAPUAC7tCkDseO",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5600,
+                    "y": 4690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "E0ZE6WhpqX4NKnxt",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5670,
+                    "y": 4690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "GrHCVyM4ENYVNr47",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5810,
+                    "y": 4690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "5Piwa0LNxuWx4VZy",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5740,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "YKwDKhvRLkQkKYBB",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5880,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "CH3nTlI2btXSlXpf",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5950,
+                    "y": 5110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "KSn2JPCJGt2F0TZh",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5460,
+                    "y": 4900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "wBQiRCxgwqAUnbEi",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6020,
+                    "y": 4760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "nJcwBNB5JRuaZIXO",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6090,
+                    "y": 5040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "jG4Kl4dHNFgxS4jL",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5460,
+                    "y": 4970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "EJE2a2Xe7YFWGACN",
+                    "name": "Scaladar",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 3780,
+                    "y": 2520,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183857,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Scaladar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "uEU9i2jhzbWGixJo",
+                    "name": "Scaladar",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 2660,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183857,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Scaladar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "PVbV9kakvdOmzEdn",
+                    "name": "Scaladar",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 1890,
+                    "y": 3430,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183857,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Scaladar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "fTFL9I77BAlPIg1z",
+                    "name": "Giant Badger",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 8120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16874,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Badger"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "USuSjYajc3xQFROY",
+                    "name": "Zox Clammersham",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2730,
+                    "y": 8960,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 274961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Zox Clammersham"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "WM36rH0G2DUv8ZUv",
+                    "name": "Rex",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 8820,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17012,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Shield Guardian"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Rex",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "LJvrgE6xRbdTPSlE",
+                    "name": "Azer",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2030,
+                    "y": 11340,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16794,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Azer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "isLMmL3nB1ouPaZC",
+                    "name": "Azer",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2030,
+                    "y": 12460,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16794,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Azer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "VT1kc0XmAAhY55Ku",
+                    "name": "Azer",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2590,
+                    "y": 12950,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16794,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Azer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "3wMAQqe66pIVHr8C",
+                    "name": "Azer",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3780,
+                    "y": 13160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16794,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Azer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Yf7yMwPg32PYqTU5",
+                    "name": "Azer",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3920,
+                    "y": 11550,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16794,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Azer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1xsVqKMsm6yecSku",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 11620,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "XyKKwITzTkUVJcHm",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3290,
+                    "y": 11690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "BP8Q4CXMf8steMPY",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 11760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Ay1ErRg68hZntX71",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3290,
+                    "y": 11830,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "0U1OGBZyf99YnUqL",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3290,
+                    "y": 12040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "5J9dGvyikMwlCxrW",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 12180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "2AFnopYBBAg6gfUu",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2940,
+                    "y": 12180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "9JLnLDrR6e9GrbVB",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2940,
+                    "y": 12040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "rF5vTG7O1oHXesRV",
+                    "name": "Lava Child",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 11970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183824,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lava Child"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1MePlb0O4Zb4wKjf",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7700,
+                    "y": 13440,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kT2r1vRsjM9UFb6W",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7840,
+                    "y": 13440,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "RVGTtVWddejmrFTk",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7770,
+                    "y": 13510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "3ShVdIrFUCdr4Aks",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7700,
+                    "y": 13510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "5n4sa4ium5NRPtRJ",
+                    "name": "Yargoth the Breaker",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7770,
+                    "y": 13370,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17161,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin Warlord"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Yargoth the Breaker",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "yInoqOO2zwhfnZxa",
+                    "name": "Death Dog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7840,
+                    "y": 13230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16838,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Death Dog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "OAqVrtOVoplqPE8s",
+                    "name": "Death Dog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7630,
+                    "y": 13300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16838,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Death Dog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "nZTmk4HTfcSD1Byz",
+                    "name": "Death Dog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7630,
+                    "y": 13440,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16838,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Death Dog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "mlxvs4Cbvl9IXCcf",
+                    "name": "Death Dog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7910,
+                    "y": 13300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16838,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Death Dog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "hywGg3E8UljLFBSN",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6720,
+                    "y": 11550,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "dJYnkaavsfri3l2w",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6790,
+                    "y": 11550,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Qp13BjawcVuIyXbg",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6860,
+                    "y": 11620,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "VnOu5o8oPYWs0UIh",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6860,
+                    "y": 10990,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Ft7iZ42LvnEg9uAp",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6930,
+                    "y": 10850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "bUdUBboSvDRv4PST",
+                    "name": "Hobgoblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6860,
+                    "y": 10850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16925,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hobgoblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "RYu0bRKvMpGxEG91",
+                    "name": "Rust Monster",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6510,
+                    "y": 11060,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17001,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rust Monster"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "A54DMKTB6eu7hSH9",
+                    "name": "Rust Monster",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6510,
+                    "y": 11200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17001,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rust Monster"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "CxCeZjDybTtVzJAa",
+                    "name": "Rust Monster",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6510,
+                    "y": 11270,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17001,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rust Monster"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "68XEnRw7xFENjBQL",
+                    "name": "Rust Monster",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6510,
+                    "y": 11340,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17001,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rust Monster"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Ts65FGdUCSY6HlLs",
+                    "name": "Chanterella",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9800,
+                    "y": 10710,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17184,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sovereign"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 0
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Chanterella"
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "01. Tunnels and Trenches",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2064,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "fbfefa25-89d3-4cec-9879-744f34215637",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "Z3k5LIzOyGZL90ce"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8015,
+                            "y": 9135
+                        },
+                        {
+                            "x": 6125,
+                            "y": 7735
+                        },
+                        {
+                            "x": 4725,
+                            "y": 11305
+                        },
+                        {
+                            "x": 5215,
+                            "y": 13615
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Vast Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2078,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "9279cbb6-ad99-4ea0-a91c-078efadfac1f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "LHAszA2K0jP6up0m"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6475,
+                            "y": 9415
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03. Junkyard",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2089,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "162809fc-6828-451e-9f17-ca9d6dddf5ae",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "MBaxNjwSbKQa9EgF"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 10115,
+                            "y": 7245
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04. Pretty Big Hate Machine",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2106,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "ef841a5c-56c2-4621-a038-3cb2604cd8f3",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "MhwsQGqTDa8p8Lo5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9135,
+                            "y": 5075
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05. Scrap Metal Warren",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2114,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "4c6d0662-e1ed-475c-a6ff-e550e36ffc52",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "2yMPXlM97Ivga9MQ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5845,
+                            "y": 4935
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06. Back Tunnel",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2118,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "d0efc828-5b77-4490-b764-8b682b9b6345",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "wD37uRhEsGBIzBWn"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1925,
+                            "y": 2905
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07. Clammersham Palace",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2150,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "4109b703-bc59-495f-9002-ac3ea75f4661",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "4gIP1gP106zyRD9U"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4515,
+                            "y": 7875
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08. Smithy",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2160,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "eea05e5e-76dc-4d3b-b4c4-9268b45c40d1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "2XPPhhFBvCdqeGIx"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3185,
+                            "y": 11935
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09. Metal Pools",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2165,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "58783628-9503-4e9a-b556-33ed7f045d02",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "tC8rFgV8g9rNAdAN"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3010,
+                            "y": 14315
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10. Resting Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2167,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "2e9a85f8-8a40-4883-8927-65d7303e7ff8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "SnoUDJzReh1Kxo1w"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5215,
+                            "y": 14455
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11. Hobgoblin Base Camp",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2180,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "e17d0f68-1884-4873-a873-d21cb8b65b90",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "3w2HKmw2bn2P77ur"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7245,
+                            "y": 11445
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12. Paradise Lost",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2193,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "d968ff06-0c66-4544-bf60-a327174076dd",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "YAo2K1MCLsdWT76L"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8785,
+                            "y": 12005
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02a. Simulacrux",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2199,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "6f4de94f-12a5-4a88-b755-293b832b74e3",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "HYOhbPBtLsbYXwXW"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7105,
+                            "y": 8855
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02b. Hobgoblin Vanguard",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2202,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "733d45a6-0cb9-4147-b6ea-454381d382af",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "WCKDIGtqvGy7Tq37"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8225,
+                            "y": 10185
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02c. Detritus",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2205,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "c88953ec-3e16-42c1-9c3c-f4b6da12b2b1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "NYStw79VQMKeJhvN"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6545,
+                            "y": 10395
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07a. Junk Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2208,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "7aed3527-2464-4fe0-b5af-e3e8411a9414",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "sDMEw03GukNfwxig"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3745,
+                            "y": 7315
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07b. Living Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2218,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "a80072d7-acdb-4379-96c3-8c318fd5cf5d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "phlnLFzkH46CtaMj"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2275,
+                            "y": 8015
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07c. Tinker Shop",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2227,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "54bf6f10-9ed6-4e55-a153-14314ec85915",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "bhZV0Y1cLcAqjnNk"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3115,
+                            "y": 8995
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11a. Stalactites and Stalagmites",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2231,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "f1e6d506-0ea7-433a-8407-654aba80977b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "RbQWbjpAgyif6ZoK"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7525,
+                            "y": 12635
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11b. Fire and Rust",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2238,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "9d8e132a-b239-4777-a430-f965429ee03f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "msgX7qZeTx4K7LqA"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6825,
+                            "y": 10885
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12a. Southern Forest",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2241,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "3d9138d8-d3aa-4c11-b17f-78ce9dcfdb5f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "4drbrgBMSDvE5xXu"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9905,
+                            "y": 13475
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12b. Central Forest",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2243,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "28a51426-e754-4f7b-8362-d7b3209ca060",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "UxylccNbejTldlgB"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 10395,
+                            "y": 11795
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12c. Northern Forest",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2249,
+                            "bookCode": "wdotmm",
+                            "slug": "trobriands-graveyard#ExploringThisLevel",
+                            "contentChunkId": "7dc8ab0b-dda2-4ee4-920e-92dd9178d83d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 606,
+                            "linkId": "bigjUbHQOeJj6CEQ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9835,
+                            "y": 10605
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrensmaps-wdmm.maps",
+                "scene": "BQCNVN88Av1QOjJs"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 13"
+}
