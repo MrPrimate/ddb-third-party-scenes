@@ -1,0 +1,4755 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "wdotmm",
+            "tokens": [
+                {
+                    "_id": "oY8UQaoqTv1O3cAf",
+                    "name": "Crystal Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2800,
+                    "y": 5950,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 275719,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Crystal Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "xYYZaadFc4JoMjh2",
+                    "name": "Ilmei",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3430,
+                    "y": 7140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Ilmei",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 2
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "A6dH8uDzI5ItV8dH",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3010,
+                    "y": 6930,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "42Qac2MTOrujVKwd",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "mcKFncouR36lb7bw",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3710,
+                    "y": 7350,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "FeRWcXeZIgM6K04R",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3710,
+                    "y": 6720,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Kj3rkrMxg7q9Gxaf",
+                    "name": "Arbez",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4060,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Arbez"
+                    }
+                },
+                {
+                    "_id": "qkpNsCVDLP8KdLI0",
+                    "name": "Deslarr",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6160,
+                    "y": 5390,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17150,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Knight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Deslarr"
+                    }
+                },
+                {
+                    "_id": "k37VDq3EBhagKHLi",
+                    "name": "Ashranthax",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6020,
+                    "y": 5320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17074,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Young Red Dragon"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Ashranthax"
+                    }
+                },
+                {
+                    "_id": "3dl9UKwb7DlDV79a",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2450,
+                    "y": 4690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "nWuiWevZ1ogdm2oK",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2380,
+                    "y": 4690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "4hS0tee9sGCcWNtw",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2170,
+                    "y": 4690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "rVNpo0DGLMLcHXm7",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 4690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "YDqlUgKHiSXqXvPj",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 4900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "eVPK5rkPuIRyaMYg",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 4970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "4YbZQJpGQUa6Ia7n",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "mIWIpaA5kA7T6mlj",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2170,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JTY0hXsfUwvT0qqD",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2380,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JCGjeT6yjAAyf1DN",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2450,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "DrdYYFIm2hB8EN68",
+                    "name": "Marquox",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7000,
+                    "y": 4620,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17104,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mind Flayer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Marquox"
+                    }
+                },
+                {
+                    "_id": "C4ZNZ4q6tx74MATi",
+                    "name": "Mirrk",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7560,
+                    "y": 6510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Mirrk"
+                    }
+                },
+                {
+                    "_id": "gaj9zJ7KI9pBUIxD",
+                    "name": "Surlock",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5600,
+                    "y": 5740,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Surlock"
+                    }
+                },
+                {
+                    "_id": "VD1FFYphiveJtrCJ",
+                    "name": "Crystal Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7770,
+                    "y": 5110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 275719,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Crystal Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "3ekJ36nmR0GFBTKz",
+                    "name": "Crystal Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7980,
+                    "y": 5460,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 275719,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Crystal Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JuOfXrSFzF1lvcWo",
+                    "name": "Eshant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8750,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17150,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Knight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Eshant",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "EgckjVpMfisHut5i",
+                    "name": "Theru",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8820,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Theru",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 2
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "zhCDj2yGJf4qbrQK",
+                    "name": "Crystal Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7280,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 275719,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Crystal Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Yw2e0Ff2f0T2EUvw",
+                    "name": "Urlon",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7000,
+                    "y": 7420,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Urlon"
+                    }
+                },
+                {
+                    "_id": "7ZPl8BhovT4ClnST",
+                    "name": "Crystal Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 7770,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 275719,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Crystal Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "YonRkoE4d8qqCdx2",
+                    "name": "Red Dragon Wyrmling",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5390,
+                    "y": 12320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16993,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Red Dragon Wyrmling"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "MnidRgmAvLBcs4a4",
+                    "name": "Blazutranc",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 4200,
+                    "y": 10010,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17074,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Young Red Dragon"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Blazutranc"
+                    }
+                },
+                {
+                    "_id": "igSa2oP8vI2A4ada",
+                    "name": "Meteoranzym",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 4480,
+                    "y": 9870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17074,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Young Red Dragon"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Meteoranzym"
+                    }
+                },
+                {
+                    "_id": "cBq4kWiNcfi70T4k",
+                    "name": "Jerath",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3710,
+                    "y": 9660,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17150,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Knight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Jerath"
+                    }
+                },
+                {
+                    "_id": "99dq10KwuV9yjTqA",
+                    "name": "Infernexus",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5810,
+                    "y": 9240,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17074,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Young Red Dragon"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Infernexus"
+                    }
+                },
+                {
+                    "_id": "aNcnFHW731qDy7vt",
+                    "name": "Kaaltav",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6230,
+                    "y": 9450,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17150,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Knight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Kaaltav"
+                    }
+                },
+                {
+                    "_id": "658VAbIBjVevkWEK",
+                    "name": "Astyrranthor",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 7700,
+                    "y": 14210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 275717,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Astyrranthor"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "fg8ucs3IgHAB60EO",
+                    "name": "Kritinaya",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 16030,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17150,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Knight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Kritinaya"
+                    }
+                },
+                {
+                    "_id": "4snZ7RK4gCBBceYq",
+                    "name": "Ir’rigo",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8470,
+                    "y": 16030,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17150,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Knight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Ir’rigo"
+                    }
+                },
+                {
+                    "_id": "PiGNyryEAuy3F7mj",
+                    "name": "Vheza",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8470,
+                    "y": 10500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Vheza"
+                    }
+                },
+                {
+                    "_id": "gFaMVF9Kvt34ybYw",
+                    "name": "Evir",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8960,
+                    "y": 10710,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Evir"
+                    }
+                },
+                {
+                    "_id": "Wr5JzV8LDGcuROpb",
+                    "name": "Hraznin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8960,
+                    "y": 10780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Hraznin"
+                    }
+                },
+                {
+                    "_id": "CS8D7xbh3vSBPt2Y",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7560,
+                    "y": 18480,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "x19qIUp1uN7L0mDj",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7420,
+                    "y": 18690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Xuh8frRBiHctKUz8",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7980,
+                    "y": 18340,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "dDVbmupThdqND9jW",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7910,
+                    "y": 18690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kuhJTOPKg2PUVtTg",
+                    "name": "Raajna",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7910,
+                    "y": 17570,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17150,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Knight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Raajna"
+                    }
+                },
+                {
+                    "_id": "iPnGCubF5Ebe4pOd",
+                    "name": "Smoakcant",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7980,
+                    "y": 17500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17074,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Young Red Dragon"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Smoakcant"
+                    }
+                },
+                {
+                    "_id": "M0cBQBKfiwzdyw8b",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7280,
+                    "y": 17010,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "CXBmz6WJOHghMk1i",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7140,
+                    "y": 17850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "DQcNfjls3jki6Y3s",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7140,
+                    "y": 17920,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "F6noKRxz6NTyCObi",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7350,
+                    "y": 17920,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "wq3sHjlJeBjWWO3r",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7350,
+                    "y": 17990,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "5dpntSOrZb4ZfGVP",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7350,
+                    "y": 17780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "54sEQhQK3fR3pyAC",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7210,
+                    "y": 17150,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JHc5Jinsurw6Q6Wm",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7280,
+                    "y": 17080,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "tEuWNq8rex6KE7af",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7350,
+                    "y": 17220,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "f4ZUGmPNuwmvpIur",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7490,
+                    "y": 17290,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Dm2ZGuZdJpjnNbq9",
+                    "name": "Al’chaia",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7280,
+                    "y": 11200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17150,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Knight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Al’chaia",
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 140,
+                                    "max": 140
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "oeHZVohfCRjlzoL1",
+                    "name": "Zolcharrx",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7000,
+                    "y": 11200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17074,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Young Red Dragon"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Zolcharrx"
+                    }
+                },
+                {
+                    "_id": "OUnb1PeEuEkcVf26",
+                    "name": "Kr’rison",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6370,
+                    "y": 19040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17150,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Knight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Kr’rison"
+                    }
+                },
+                {
+                    "_id": "41nftXknbOWiOY5o",
+                    "name": "Vlaadric",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6440,
+                    "y": 19110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17150,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Knight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Vlaadric"
+                    }
+                },
+                {
+                    "_id": "RuPWrM9WNeVN5sfa",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6370,
+                    "y": 16240,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "8NVBQCMJESX8Wl1R",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6370,
+                    "y": 16310,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "iYe26XQxmD5Buxxa",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6510,
+                    "y": 16240,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "qydjkPbeOXD2Ndpv",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6510,
+                    "y": 16310,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "9Wb3zM4LAKIp7JVI",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 16100,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1090kuEUFWcwGg6p",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5110,
+                    "y": 16100,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "qFEVqBDoliTdeTkQ",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5180,
+                    "y": 16100,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "nqgkTEkLvXBRz01T",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 16170,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "2WgQP45PXbzuDXXy",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5110,
+                    "y": 16170,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "c033mOkWrzC3jtaV",
+                    "name": "Githyanki Gish",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5180,
+                    "y": 16170,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "NUsBWLFePZsAn4eH",
+                    "name": "Salarrl",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4340,
+                    "y": 18200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Salarrl"
+                    }
+                },
+                {
+                    "_id": "rc2bcQMG6NG88tkb",
+                    "name": "Ezria",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3220,
+                    "y": 16450,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17152,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githzerai Zerth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Ezria",
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 32
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "TMlgz9EEyaierpqI",
+                    "name": "Yeluit",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3290,
+                    "y": 17150,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17104,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mind Flayer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "name": "Yeluit",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "Cu42gxRQWBpai7m1",
+                    "name": "Tel’zact",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3430,
+                    "y": 17150,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17104,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mind Flayer"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": null,
+                    "actorData": {
+                        "name": "Tel’zact",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "rHslQNDmgwtWMAfg",
+                    "name": "Aruut",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 16520,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Aruut"
+                    }
+                },
+                {
+                    "_id": "IJpOLQ56w033NkZo",
+                    "name": "Yangol",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 16590,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 97386,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Gish"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Yangol"
+                    }
+                },
+                {
+                    "_id": "wt37OPCdDu4FxXiZ",
+                    "name": "Saziq",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2520,
+                    "y": 17290,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17150,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Knight"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Saziq"
+                    }
+                },
+                {
+                    "_id": "nzINmot8yKbJzveM",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 17290,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "UcAn1n0BE50WCdP2",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 17360,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "e3EeccnwfS8UMMRe",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 17430,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ENmg7qosAdUywqnG",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 17570,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "fp5H6uypjMqQdAQ9",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2590,
+                    "y": 17570,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "TYLe4M2QRhkJ4Zd3",
+                    "name": "Githyanki Warrior",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2590,
+                    "y": 17500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17149,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Githyanki Warrior"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                }
+            ],
+            "notes": [
+                {
+                    "label": "01. Entry Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2074,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "291664cc-50db-49a7-bfa0-6239a7afb842",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "kfMFbIwaw8gu0Unp"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2975,
+                            "y": 5985
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Western Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2084,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "a17bf3dd-43a1-415b-b81f-ff37caa88178",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "VTNwzfO9m8NklMIr"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3465,
+                            "y": 6475
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03. Main Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2097,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "dc72b58e-c371-469d-854b-14aad2b0d07d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "sjQW6833XOQqYkjY"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4585,
+                            "y": 5775
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04. Barracks",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2099,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "2a175732-1571-4741-9b93-b4c5253e2b73",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "WhcIwwVluhmTHysA"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2485,
+                            "y": 5005
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12. Dragons’ Domain",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "2f178145-7c28-41cd-aaa0-a3aef970ac15",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "IRQ4jDJW37MbztC3"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5915,
+                            "y": 9765
+                        },
+                        {
+                            "x": 5915,
+                            "y": 11095
+                        },
+                        {
+                            "x": 5845,
+                            "y": 12320
+                        },
+                        {
+                            "x": 5425,
+                            "y": 12285
+                        },
+                        {
+                            "x": 4340,
+                            "y": 11095
+                        },
+                        {
+                            "x": 4270,
+                            "y": 9940
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13. Jerath’s Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2105,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "e136108c-4818-490d-baa9-3a5aff9d777f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "ZftjcOLgUab5RX6k"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3920,
+                            "y": 9625
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05. Prison Cell",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2106,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "a43f5cd0-d777-481a-a2ab-ecc8664aa7d6",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "qwEzdtIpuGGBZuYC"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7035,
+                            "y": 4585
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14. Infernexus’s Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2110,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "bbdd5dda-13ea-49cb-8483-18ae9c0a6e61",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "pCDMXgvcJ6RiW3Yj"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5915,
+                            "y": 9205
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06. Eastern Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2114,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "53cb8377-1690-4a21-bb9b-9bfc3edee9ea",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "1BZGxyYFwZXkwSJg"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6965,
+                            "y": 5985
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07. Anti-Illithid Defense",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2117,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "f635aba8-308e-4d39-95df-ae87672c27d3",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "QgDWIV1sIDQJBMBc"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8015,
+                            "y": 5355
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15. Githyanki Trainees",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2121,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "b23fc4e6-923f-4150-8f78-3e1892cbecef",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "0PqEDms31RZun0b9"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6545,
+                            "y": 9765
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08. Officer Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2122,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "488f38c7-7b78-4282-a943-0a2301552900",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "lRrcagvbu80oQHor"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8855,
+                            "y": 6125
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09. Trophy Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2124,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "c0de4b3d-3eb7-43db-8cac-cbcea6e7731c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "QD9vCSvWaaOPkQFq"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8575,
+                            "y": 7525
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16. Nursery",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "e814f580-1eb3-43b9-8200-a5bca00cdfb9",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "F7FiIHUW7NohZQbl"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8085,
+                            "y": 15715
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10. Golem Laboratory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2134,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "396380f0-89ce-4b3a-a9f8-29a5e509896f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "L7vEIcdhe07mDT8l"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7385,
+                            "y": 7490
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17. War Wizards",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2140,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "ac6a3a38-1d5b-4107-b596-b65c70dc3217",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "hsNW5nNLc4XK8TGf"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8715,
+                            "y": 10990
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11. Stardock Gate",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2141,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "8ad0d507-6243-409b-98ad-9df679cb1d10",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "UGEfM0rwZESRFUMz"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5145,
+                            "y": 7105
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02a. Ilmei’s Watch",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2145,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "bb4f98ce-2e7a-4c71-80b7-beb4cf692565",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "7vQDrYs2CdqfbbxR"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3360,
+                            "y": 7175
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02b. Dragon Engravings",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2147,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "74433a48-c270-4ce9-8da8-27579216041c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "qVLgNKLW3l7bouSs"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3815,
+                            "y": 6265
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "18. Library",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2148,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "3c39b7cc-ee7a-40ef-b358-f709825786c2",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "fDQvzWoDZlYd3wFO"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8785,
+                            "y": 11935
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02c. Illithid Heads",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2149,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "b434e213-d819-4182-9053-dd44046aaaf9",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "YIYjLRhNVHp2T79i"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4585,
+                            "y": 6545
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03a. Arbez’s Watch",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2155,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "12bcd15b-8bcc-45c1-98fb-2cafb392d973",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "shelZspZWdT4acli"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4235,
+                            "y": 5285
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "19. Warehouse",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2158,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "dd6ca6db-ac59-45cf-a21c-e1be0e519021",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "ZJYcV0GtJ8JDSolO"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8295,
+                            "y": 18515
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03b. Surlock’s Watch",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2160,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "c9896131-54ed-4ae1-982a-0cf4d33c9454",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "bMc35xE9GjWvJSVP"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5705,
+                            "y": 5705
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06a. Mirrk’s Watch",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2164,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "e519e0c0-9eb3-41ac-aee6-5615665b6d67",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "cZP9hpqOcBTl4x7s"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7595,
+                            "y": 6405
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06b. Scrying Chamber",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2166,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#CrystalDungeon",
+                            "contentChunkId": "9ae72ecd-180d-4a5e-92b7-15384f46b4b5",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "JHaxIssUm9y9rPTY"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7385,
+                            "y": 5285
+                        },
+                        {
+                            "x": 8365,
+                            "y": 19285
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21. Warrior Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2176,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "8355b1d9-5de8-4f6a-93c4-da75db1004cf",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "9hCfngZ3DspqgSFw"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7595,
+                            "y": 17535
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "22. Al’chaia’s Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2187,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "e20da9a9-c9b9-474a-b33f-7a8026d86bc1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "EwK8DRFKdtDcUiVU"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7385,
+                            "y": 11095
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "23. Observation Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2190,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "83c6efe9-ffa2-4877-9518-e0117c779454",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "dnnb0Fzfgzy4wCiZ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7035,
+                            "y": 13265
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "24. Knights’ Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2196,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "3a5d8cb9-b0ee-4c18-9490-27d78365c386",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "gFQuopwHpaFPf3U4"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6580,
+                            "y": 19005
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "25. Memorial Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2198,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "888a9552-4b3c-44fa-95fb-114cd8c0feff",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "nsISzLqveOr41mDZ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6685,
+                            "y": 18235
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "26. Kitchen",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2203,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "3ea67686-5629-45dc-8811-52278d9b9f58",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "jR2Azx9cK7XZ8WXD"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6545,
+                            "y": 16485
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "27. Mess Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2206,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "5e3eaff3-8794-40ea-8d0a-701dab559f1b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "pMm6AG2lAC7VqNfK"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5320,
+                            "y": 16345
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "28. Armory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2213,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "cf30474d-97c7-4bdb-9766-d6670f73eab8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "dSAiPpE6FgVmFZvU"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4795,
+                            "y": 18025
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "29. Prison",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2232,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "9d88eba6-63a1-466d-bdfa-fb898b50d250",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "xhybykAqFdHMrAXd"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3395,
+                            "y": 16800
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "30. Warrior Training",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2239,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "6c7250e0-cc44-4af0-8b48-0400a77ac2a7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "ZGqpBrQXEy7HnjoW"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2835,
+                            "y": 17465
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "31. Observation Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2242,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "65b5d6c4-b32c-4e76-ad0c-49bebe4bac34",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "XIy4g5pBvuVPXXdK"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2800,
+                            "y": 12145
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "32. Graduation Chamber",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2247,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "5d54ef8f-5ebc-472e-b2a0-b689d7650091",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "wP09f2bLyNtrQz9V"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4235,
+                            "y": 12775
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12a. Arch Gate",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2251,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "206226c5-0297-4e4f-ae72-0763cd49ae00",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "PZ1jjwGcH5ANV0a9"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5985,
+                            "y": 11095
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12b. Tiamat Shrine",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2255,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "7a1f1050-f1d4-4797-b9e6-0cfe1ff14d5e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "JzfFI4F7FPk7BxYt"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5985,
+                            "y": 9765
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12c. False Hatchery",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2259,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "43a52186-36dd-42aa-8993-3ee12a5e9399",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "S0YWcMr2NxPYsMIk"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5915,
+                            "y": 12320
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12d. Dragon Hatchery",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2262,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "b07a0c52-d008-43e4-896c-94f3559efd5f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "CcuI0Wot6ueoc2oA"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5495,
+                            "y": 12285
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12e. False Hoard",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2267,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "7aefe257-7530-4b8e-9cc2-37c6eca3e8b8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "iX44ueqMp4yITJ9L"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4410,
+                            "y": 11095
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12f. Dragons’ Hoard",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2272,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "f2dbd1ba-292a-44dc-8677-bf9a76fd774f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "35Gmi3l5TRsWGOJc"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4340,
+                            "y": 9940
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15a. Training Area",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2276,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "a0e17640-bd0a-43db-a546-f5e445e308e1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "A2RZQPLZHFJKnsNZ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6510,
+                            "y": 10185
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15b. Tutor’s Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2279,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "0ead364d-5ce2-4e91-a133-1a88804a6204",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "qGgsOsOaZQfBsR9h"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6405,
+                            "y": 9380
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15c. Githyanki Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2281,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "4ca45ea2-0fc4-4a6a-a664-01ca7aa3e0de",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "LBObudUtTWGxxp8V"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6755,
+                            "y": 9415
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16a. Sleeping Area",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2285,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "4bd41443-b496-4682-9fcb-16689feb8f49",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "nt2XovKC1BBU481h"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7875,
+                            "y": 15575
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16b. Nursery Guardians",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2288,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "b042ad2b-0e51-46b7-8597-b9e95cc8c847",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "8NWDn5Q273brxCHB"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8365,
+                            "y": 15925
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17a. Gish Study",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2292,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "b8e3fd47-9bcf-43af-b15a-f80916256b74",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "V8aVS1ZThK3V9znB"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8575,
+                            "y": 10605
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17b. Gish Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2294,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "512bda20-ea65-4dd0-95d0-89b029aaeb41",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "Cm3VQrlHlDAP3KW1"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9135,
+                            "y": 10815
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17c. Arcane Training Ground",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2296,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "1194d9ab-9147-47d7-95d8-5b20c40566ff",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "eOEMOM73XEGtxz8c"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8435,
+                            "y": 11165
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "18b. Map Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2300,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "d57b6eff-f1a8-48b9-8f5f-e2971babdeff",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "KibUIY2D36bl8b53"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8715,
+                            "y": 12320
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "18a. Book Collections",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2304,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "62054d91-1747-478a-a1a5-f02cc5ab0bf7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "V4uPAYoEvFdjAu8N"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9345,
+                            "y": 11655
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "18c. Reading Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2308,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "88e0e651-e77e-4ff3-a104-4333757368ba",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "Ntwjchi87x4ErULw"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9030,
+                            "y": 12705
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "19a. Loading Dock",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2312,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "2fd4ac57-fa3a-4825-b97d-033d23df2596",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "bq3SqwAEPoCjdjSA"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7805,
+                            "y": 18585
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "19b. Cold Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2316,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "f1fe7c91-3d33-442e-86d5-c3d7e25275d4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "JXHCLWf3yC4UV31z"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8715,
+                            "y": 18550
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21a. Guard Post",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2319,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "3672326a-d2cb-456b-b464-933202bd0a1d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "SG3R1exFuCOJLhrV"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8015,
+                            "y": 17675
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21b. Warriors’ Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2324,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "0a415aa6-25ab-42fc-8f87-d58117336a2c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "EYUMAFjaYytgczbb"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7385,
+                            "y": 17325
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "28a. Armor Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2326,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "d0a98483-81af-4d61-8918-1ae97921224f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "KhPjHScxypFVOjtW"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4900,
+                            "y": 18340
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "28b. Smithy and Weapon Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2329,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "e66abce2-9444-450c-aa88-15c0379a3e90",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "7gfraZtK9FyWC5dD"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4375,
+                            "y": 18095
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "29a. Empty Cell",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2331,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "1b89cbe9-453f-439b-83d3-2619e72f2cad",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "G0xABkU1VsupvUaf"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3640,
+                            "y": 16100
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "29b. Ezria’s Cell",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2336,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "591729b8-abc5-460a-b498-62eaeb7d517e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "PiLgxvl9oa1Hx0gB"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3675,
+                            "y": 16555
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "29c. Imprisoned Illithids",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2339,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "d001097e-a38b-4de1-b6f5-f0931dfb8326",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "6FZhn5uMcLoPaYXx"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3605,
+                            "y": 16975
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "29d. Guard Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2344,
+                            "bookCode": "wdotmm",
+                            "slug": "crystal-labyrinth#Stardock",
+                            "contentChunkId": "ea52c0b1-fb41-4812-aaca-d8aed537c4b5",
+                            "note": true,
+                            "img": false,
+                            "parentId": 609,
+                            "linkId": "zpRCsQM1NQwHIcXZ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2765,
+                            "y": 16695
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrensmaps-wdmm.maps",
+                "scene": "zBvJs5gODLSA7pCq"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 16"
+}
