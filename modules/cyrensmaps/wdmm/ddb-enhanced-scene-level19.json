@@ -1,0 +1,3659 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "wdotmm",
+            "tokens": [
+                {
+                    "_id": "uO2fv4wUORNxcGkI",
+                    "name": "Huge Gray Ooze",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 4970,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276567,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Huge Gray Ooze"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ESDIVM7qnWJtcSCh",
+                    "name": "Intelligent Black Pudding",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 4970,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276570,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intelligent Black Pudding"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Wwh8H3usk3HlxLNW",
+                    "name": "Intelligent Black Pudding",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5110,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276570,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intelligent Black Pudding"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "RalyvKiVVKcM6zmk",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 7770,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "QoxC3PV05krx28RD",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5110,
+                    "y": 7770,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "pj6appNet3ryyQ3W",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 7840,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "isr40rFgaGxH5cOI",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5110,
+                    "y": 7840,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "IXedgfMYTqdjULHE",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5180,
+                    "y": 7840,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "cLYTH7WGXl2bkdGR",
+                    "name": "Ichthyglug",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 10290,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17143,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Marid"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Ichthyglug"
+                    }
+                },
+                {
+                    "_id": "UsdHNLbsrxIVF2f8",
+                    "name": "Swarm of Quippers",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 10080,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17031,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Swarm of Quippers"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Oufg0yQoUC8J4bVc",
+                    "name": "Swarm of Quippers",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2940,
+                    "y": 10080,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17031,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Swarm of Quippers"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "0ZIQYzHdYZt9JGQx",
+                    "name": "Swarm of Quippers",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3010,
+                    "y": 10430,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17031,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Swarm of Quippers"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "wjpyMXuAGMwHrGAt",
+                    "name": "Swarm of Quippers",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2870,
+                    "y": 10570,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17031,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Swarm of Quippers"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "znkGKGiAGHa8xjSn",
+                    "name": "Swarm of Quippers",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2590,
+                    "y": 10500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17031,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Swarm of Quippers"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kGpX5MXL5lP5Rwfv",
+                    "name": "Swarm of Quippers",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2520,
+                    "y": 10220,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17031,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Swarm of Quippers"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "aOJ3GPVWiw9bjNEo",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5180,
+                    "y": 8400,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "sPXp5cpKiUnvWQo9",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5250,
+                    "y": 8470,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Rukha",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 60,
+                                    "max": 60
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "DR6AoPwDvgqc33FF",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5390,
+                    "y": 8470,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "GjssKR5neUqme7LZ",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5320,
+                    "y": 8540,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "NZ7VAxE4FHt1DHhh",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5320,
+                    "y": 8610,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "hLYwVDK4BU9jjpsW",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5180,
+                    "y": 8680,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "BfC8hk1jhLpD6T4Z",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5110,
+                    "y": 8470,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "iIbSdAlvgSygAOyp",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 8540,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "5nxpdQfF1vYXQED9",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5180,
+                    "y": 8610,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "VNKmdOJReOyGUXz4",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5250,
+                    "y": 8680,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "e68tMYuQqDqfpE3C",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5040,
+                    "y": 8610,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "AhalMYqXfLhQfUr5",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5110,
+                    "y": 8680,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "7Sy3Y8ziqxwm2k4l",
+                    "name": "Urm",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 6930,
+                    "y": 10010,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17173,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mud Mephit"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Urm"
+                    }
+                },
+                {
+                    "_id": "AFITnBwYolkgNwum",
+                    "name": "Intelligent Black Pudding",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9170,
+                    "y": 10080,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276570,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intelligent Black Pudding"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "QuuLRcdV4zSajd8m",
+                    "name": "Intelligent Black Pudding",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9240,
+                    "y": 10220,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276570,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intelligent Black Pudding"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "rPI2PmTcfhpmynCM",
+                    "name": "Intelligent Black Pudding",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9310,
+                    "y": 10080,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276570,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intelligent Black Pudding"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "9v8cCdBCTULSiHB0",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 10,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "qcVIOb667IGPjdmR",
+                    "name": "Nalfeshnee",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 7140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16963,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Nalfeshnee"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "bS29vQXhwVIzcwUH",
+                    "name": "Nalfeshnee",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 8260,
+                    "y": 7210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16963,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Nalfeshnee"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "pxBfmKUsqjSX73Mc",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 8960,
+                    "y": 4900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 10,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "mhVLC6cqf5pIYJ8I",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9100,
+                    "y": 4900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 10,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "OqmDvr8JTIaMPk9d",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9100,
+                    "y": 5110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 10,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "edNNhOCmYvV2UPby",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9380,
+                    "y": 5040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "PolJoJ9GH62rWdkB",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9450,
+                    "y": 5110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1BAjH0tZoy5hq941",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9450,
+                    "y": 4970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "vpWpphlp3dDUktjr",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9380,
+                    "y": 4900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "KsSIzuwWSPV5FXK0",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9520,
+                    "y": 4900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "YjHePPwUsbpzrqZz",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9520,
+                    "y": 4760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "N8XJHsAEK4AVOUI5",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9450,
+                    "y": 4830,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "M8U27yq71EJW1sdk",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9520,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "qmP3abpr17llrq3P",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9450,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "xH1niWsTynTUoiJ1",
+                    "name": "Gas Spore",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9380,
+                    "y": 5320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17147,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gas Spore"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "qu8dif8NHvNlT8Vf",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 4620,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "lylFWiJxAXhPzRAl",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8190,
+                    "y": 4690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "nmvaOJ9R5Ct9CtuJ",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8190,
+                    "y": 4760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "7pGBuqYXvDFBWM3m",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 4830,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "3gip0M3quDeOFB1M",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7980,
+                    "y": 4900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "S1ls7eHsxZmJUgts",
+                    "name": "Galeb Duhr",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8890,
+                    "y": 3570,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17148,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Galeb Duhr"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "vBW8uIq5Vt9seFdp",
+                    "name": "Galeb Duhr",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 9170,
+                    "y": 3500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17148,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Galeb Duhr"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "9vs9ohlMxMVUA4VT",
+                    "name": "Galeb Duhr",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 9030,
+                    "y": 3360,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17148,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Galeb Duhr"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "uwkuVTuRTOsxxXAd",
+                    "name": "Galeb Duhr",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8750,
+                    "y": 3430,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17148,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Galeb Duhr"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ZYMKELd9DsKCsMHf",
+                    "name": "Galeb Duhr",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8890,
+                    "y": 3290,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17148,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Galeb Duhr"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "YFWo7LTVlwyPltN5",
+                    "name": "Jarûk",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 9310,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17142,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Dao"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Jarûk"
+                    }
+                },
+                {
+                    "_id": "EOz8H3V9yOZXE1DA",
+                    "name": "Medusa",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 9380,
+                    "y": 3780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16954,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Medusa"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "lfsUYCfDkK8iUdse",
+                    "name": "Medusa",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 9450,
+                    "y": 3780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16954,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Medusa"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "GLWF1L9hvKyF4pAG",
+                    "name": "Intelligent Black Pudding",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7000,
+                    "y": 3290,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276570,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intelligent Black Pudding"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 20,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "BZA3YzzlV830isaV",
+                    "name": "Intelligent Black Pudding",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 7140,
+                    "y": 3500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276570,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intelligent Black Pudding"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 20,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "mmO1TzTanw9eEi1z",
+                    "name": "Intelligent Black Pudding",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6930,
+                    "y": 3500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276570,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Intelligent Black Pudding"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 20,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "PC5R3DRlkiyoqHEu",
+                    "name": "Gray Slaad",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4480,
+                    "y": 5880,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17114,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gray Slaad"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "BpcfehanRajaK0Uf",
+                    "name": "Gray Slaad",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5460,
+                    "y": 5320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17114,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gray Slaad"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "tk9w9t8uxr32Es0n",
+                    "name": "Gray Slaad",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4340,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17114,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gray Slaad"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "L0QL2hZSwPzTk6KX",
+                    "name": "Gray Slaad",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4690,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17114,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gray Slaad"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ZuHr6vJnTr5zZklC",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5390,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "abilities": {
+                                "str": {
+                                    "value": 17
+                                },
+                                "dex": {
+                                    "value": 17
+                                },
+                                "con": {
+                                    "value": 16
+                                },
+                                "int": {
+                                    "value": 13
+                                },
+                                "wis": {
+                                    "value": 8
+                                },
+                                "cha": {
+                                    "value": 14
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 127,
+                                    "max": 127,
+                                    "formula": "17d8 + 51"
+                                },
+                                "senses": {
+                                    "blindsight": 60
+                                }
+                            },
+                            "traits": {
+                                "dr": {
+                                    "value": [
+                                        "acid",
+                                        "cold",
+                                        "fire",
+                                        "lightning",
+                                        "thunder"
+                                    ]
+                                },
+                                "languages": {
+                                    "value": [],
+                                    "custom": "Slaad; Telepathy 60ft"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "LC5R0nOmOFAJkMNK",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4410,
+                    "y": 5950,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "abilities": {
+                                "str": {
+                                    "value": 17
+                                },
+                                "dex": {
+                                    "value": 17
+                                },
+                                "con": {
+                                    "value": 16
+                                },
+                                "int": {
+                                    "value": 13
+                                },
+                                "wis": {
+                                    "value": 8
+                                },
+                                "cha": {
+                                    "value": 14
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 127,
+                                    "max": 127,
+                                    "formula": "17d8 + 51"
+                                },
+                                "senses": {
+                                    "blindsight": 60
+                                }
+                            },
+                            "traits": {
+                                "dr": {
+                                    "value": [
+                                        "acid",
+                                        "cold",
+                                        "fire",
+                                        "lightning",
+                                        "thunder"
+                                    ]
+                                },
+                                "languages": {
+                                    "value": [],
+                                    "custom": "Slaad; Telepathy 60ft"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "zhWMHa6PmhgEOP3o",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4410,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "abilities": {
+                                "str": {
+                                    "value": 17
+                                },
+                                "dex": {
+                                    "value": 17
+                                },
+                                "con": {
+                                    "value": 16
+                                },
+                                "int": {
+                                    "value": 13
+                                },
+                                "wis": {
+                                    "value": 8
+                                },
+                                "cha": {
+                                    "value": 14
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 127,
+                                    "max": 127,
+                                    "formula": "17d8 + 51"
+                                },
+                                "senses": {
+                                    "blindsight": 60
+                                }
+                            },
+                            "traits": {
+                                "dr": {
+                                    "value": [
+                                        "acid",
+                                        "cold",
+                                        "fire",
+                                        "lightning",
+                                        "thunder"
+                                    ]
+                                },
+                                "languages": {
+                                    "value": [],
+                                    "custom": "Slaad; Telepathy 60ft"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "7nQAC5EICaC3r1gn",
+                    "name": "Orog",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4620,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17189,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Orog"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "abilities": {
+                                "str": {
+                                    "value": 17
+                                },
+                                "dex": {
+                                    "value": 17
+                                },
+                                "con": {
+                                    "value": 16
+                                },
+                                "int": {
+                                    "value": 13
+                                },
+                                "wis": {
+                                    "value": 8
+                                },
+                                "cha": {
+                                    "value": 14
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "value": 127,
+                                    "max": 127,
+                                    "formula": "17d8 + 51"
+                                },
+                                "senses": {
+                                    "blindsight": 60
+                                }
+                            },
+                            "traits": {
+                                "dr": {
+                                    "value": [
+                                        "acid",
+                                        "cold",
+                                        "fire",
+                                        "lightning",
+                                        "thunder"
+                                    ]
+                                },
+                                "languages": {
+                                    "value": [],
+                                    "custom": "Slaad; Telepathy 60ft"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "PYrUVzql7fUGWGop",
+                    "name": "Miniature giant space hamster",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 4760,
+                    "y": 11865,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16991,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Rat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Miniature giant space hamster",
+                        "data": {
+                            "details": {
+                                "cr": "0"
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "neau3yhXSiJy8vhS",
+                    "name": "N’ghathrod",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3500,
+                    "y": 11970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17175,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mind Flayer Arcanist"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "N’ghathrod"
+                    }
+                },
+                {
+                    "_id": "43Ie8opQSiRcZNND",
+                    "name": "Huge Gray Ooze",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 5180,
+                    "y": 3430,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276567,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Huge Gray Ooze"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                }
+            ],
+            "notes": [
+                {
+                    "label": "01. The Resplendent Grotto of Ichthyglug the Voluminous",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2113,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "fe98e531-1f6b-4e0f-8107-67c7908dca6c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "8acXSLhyH7A6lxmy"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4305,
+                            "y": 9275
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Space Orogs",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2117,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "e8582abe-ddb4-4a84-aa48-b60959e343e1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "SSKnqmwSDb5m3Tyf"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5250,
+                            "y": 8575
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03. Ooze There?",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2123,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "af578164-46e9-4a25-bddb-0f17c9815c16",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "PAUSHRtYDujnJ1uU"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6125,
+                            "y": 8050
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04. The Weeping Eye",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2132,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "723ec161-2cdb-463e-9c64-041500a2044d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "52FCPavfF22lUupJ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6965,
+                            "y": 10640
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05. In the Grip of Ghaunadaur",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2140,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "b6c80273-ebbb-4f3b-be0f-a1ab6990177f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "2yFHdJMKUQNWMPYS"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9205,
+                            "y": 10395
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06. Cave with a View",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2142,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "208cc91a-d883-44e5-aa88-246b4f0963ed",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "DOxqRjOpHbxHypN9"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4795,
+                            "y": 6615
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07. Standing Gate to Level 21",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2153,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "7e3c6fd9-30cf-499e-a0ee-7df3fbbc58c8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "GqY0DrY3XcnnG51k"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8330,
+                            "y": 7105
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08. Thanks for the Memories",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2160,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "bfe0e91b-cfd5-4008-b835-2d153948c06a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "hVyvo9gzIDu3aLyp"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9345,
+                            "y": 5215
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09. High Ground",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2164,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "d5129473-0dc0-43dd-93ff-262ff8f087f4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "ErBO1l0pvzakqV8b"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8435,
+                            "y": 4935
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10. Culvert",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2166,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "45a6965d-9c50-423d-9c03-c29551dd721b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "6XaIxS1GSDJDBmPJ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7840,
+                            "y": 4060
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11. The Glittering Caverns of Jarûk the Prismatic",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2183,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "6076d0ea-3525-46ae-aeb6-a859da69e11b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "gn37gtOkNyGgfu3q"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8890,
+                            "y": 3430
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12. Ghaunadaur Shrine",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2191,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "d5134c69-a171-4486-b607-98c839680741",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "skZL1auwIOFcOxRb"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7245,
+                            "y": 3395
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13. The Scavenger",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2237,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "4608951e-8367-44aa-b69a-7dabcfed63bb",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "7Dn9HKVJUkDKvy1I"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4865,
+                            "y": 5775
+                        },
+                        {
+                            "x": 4445,
+                            "y": 11585
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14. Ooze Den",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2239,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "b980c90a-e95a-4512-919e-5d0551fdff0c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "uUJgH9A4LNfKgLnq"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5215,
+                            "y": 3710
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15. Standing Gate to Level 17",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2242,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "23b76e7c-2d1e-4d7b-bb47-9c30f93b35d3",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "L8onk12dGFW5IJj6"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2695,
+                            "y": 8365
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16. Tunnel to Level 20",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2244,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "2d05c0aa-5bce-43a5-ad11-d0fca6610520",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "2yoORirNz6Ps14kG"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3710,
+                            "y": 4095
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "01a. Shipwreck",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2249,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "96de63db-631b-49a4-a820-d11a34fbe629",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "z5OHrAuJOb92vlut"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4725,
+                            "y": 9555
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "01b. Curtains of Water",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2255,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "868d875a-8430-4871-a02e-9399589a5348",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "2cxVcdJMwOSF0uCZ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4025,
+                            "y": 9765
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "01c. Ichthyglug’s Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2268,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "2939865c-7316-45ed-a1f3-ee7791231530",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "IWM2gNtsHPHIS2o5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2730,
+                            "y": 10605
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03a. The Great Ooze March",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2270,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "5c427b17-cb5d-4073-b097-0b5f1d101aa6",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "SCzl5y56JHGdhcJ2"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6195,
+                            "y": 8050
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03b. Ooze Halaster",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2272,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "5deeecf1-3e45-4e00-b7be-1584a7bd0775",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "JC1hvyb1KwgdkQCZ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7385,
+                            "y": 8015
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05a. Pudding Pit",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2274,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "00c6c666-f5dc-4760-a8fb-bc8f376d9d7b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "K7PlPtiIqi8nDylp"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9275,
+                            "y": 10395
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05b. Standing Gate to Level 12",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2278,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "fc111716-19cd-47e3-8e96-3f6adedc7061",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "HoKvr9ZpvGnS0c15"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9380,
+                            "y": 9485
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11a. Fortune Favors the Boulders",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2281,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "3f35b81f-7f3f-4387-a11a-1221102785a7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "bCLg90Gq3O10TJxU"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8960,
+                            "y": 3430
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11b. Jarûk’s Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2293,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "11ca5ab5-9e9a-47cb-bd20-e87895b1b992",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "vWHtBy5Rt8OJKQIT"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9485,
+                            "y": 4165
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13a. Upper Deck",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2299,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "5eebcfda-deca-48ad-8a9e-90d67573159c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "77jUnMKHZ1XmYVko"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4935,
+                            "y": 5775
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13b. Cargo Hold",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2311,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "dc7654dc-258b-4b29-89c5-2870b0ed9202",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "ocslTP9Za9s9ZGNt"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5355,
+                            "y": 12005
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13c. Galley and Mess Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2316,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "72e7639c-481f-4618-be5c-2b8cebf392a4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "yakHkeJpjbSu7F6w"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5040,
+                            "y": 11865
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13d. Captain’s Stateroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2321,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "a88beb94-0ef3-4b24-8bd0-a069dffc33e1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "hCSE9n4ImHnsBKxf"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4515,
+                            "y": 11830
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13e. Starboard Crew Cabin",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2323,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "c73288a4-76ec-4806-b7ef-766c798092b7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "dtLjM8a20fVdU3kT"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4165,
+                            "y": 11690
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13f. Port Crew Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2325,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "d77d8fe1-e299-4ebc-9d05-48aef8ea23be",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "a6XwHWaRDQxtkLaO"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4060,
+                            "y": 12390
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13g. Bridge",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2330,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "cb2a93e7-de09-4bc2-8e5b-579d6420f6be",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "ao8qvioxgqbjrit3"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3885,
+                            "y": 11795
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13h. Oh Captain, My Captain!",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2332,
+                            "bookCode": "wdotmm",
+                            "slug": "caverns-of-ooze#ExploringThisLevel",
+                            "contentChunkId": "97dfab7d-ce6f-4dfe-82eb-2b8e53c884a8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 612,
+                            "linkId": "xBwYbyAqscDmaQ1x"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3150,
+                            "y": 11970
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrensmaps-wdmm.maps",
+                "scene": "YWxfbeA2s6cgU5uk"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 19"
+}
