@@ -1,0 +1,4718 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "wdotmm",
+            "tokens": [
+                {
+                    "_id": "bzeveFD8LJBx1eTq",
+                    "name": "Akarrth Shadowdusk",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4550,
+                    "y": 4760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16789,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Archmage"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Akarrth Shadowdusk",
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 3
+                                },
+                                "spell5": {
+                                    "value": 3
+                                },
+                                "spell6": {
+                                    "value": 1
+                                },
+                                "spell7": {
+                                    "value": 1
+                                },
+                                "spell8": {
+                                    "value": 1
+                                },
+                                "spell9": {
+                                    "value": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "2pkrlYgnzFwDxoCn",
+                    "name": "Gz’zarp",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 4620,
+                    "y": 4760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17099,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Beholder"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Gz’zarp"
+                    }
+                },
+                {
+                    "_id": "Q0dEuLdnmiR2Q8tu",
+                    "name": "Grell",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4760,
+                    "y": 4760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17157,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Grell"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "nXODMZp8o0s6QVOB",
+                    "name": "Grell",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4760,
+                    "y": 4830,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17157,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Grell"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "h1l7NUliv1dzelKm",
+                    "name": "Nothic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4830,
+                    "y": 4760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17092,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Nothic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "CfEzUpEzEDfsZiCO",
+                    "name": "Nothic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4830,
+                    "y": 4830,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17092,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Nothic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "S0aIjimTuMxX8W59",
+                    "name": "Mad Golem",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 5320,
+                    "y": 3850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276626,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mad Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "aHbB6l9VsVqUMIJS",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3430,
+                    "y": 4690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "XBq4HZG8ANstJU28",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3640,
+                    "y": 4830,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "42W3p0SqxQpgrri8",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3920,
+                    "y": 5530,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "t4fECBSxiyx7Q3HL",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3290,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "AXEbhGY6h1H8dviw",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3080,
+                    "y": 5040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "tDT4voSoOKb20XBS",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3010,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kHNBgEWy7SUuL5Io",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2730,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "E9dSZwApIg0vOEsL",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2730,
+                    "y": 4340,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "QjQ0ayD3p4qLOPia",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3220,
+                    "y": 4480,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "AFlwkwzWXjO1pOLv",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3150,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "22S6e1Q7VlDNfpHj",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3220,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kJy2DlosbTinbJ1V",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3430,
+                    "y": 5320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "0L26v9FsazVPPlqs",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2590,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "MfIpi6pQ8qdZJvyC",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2660,
+                    "y": 7210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "SVJdLzn83pVzYDpJ",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2870,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "gl6ocCTzmhSup45g",
+                    "name": "Giant Fire Beetle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2870,
+                    "y": 6930,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16883,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Fire Beetle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "3yTPnp2y0NOajKzg",
+                    "name": "Giant Centipede",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2660,
+                    "y": 6860,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16877,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Centipede"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Mmkk7kUtZZwonEZ6",
+                    "name": "Giant Centipede",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2520,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16877,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Centipede"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "IZhlmGAqjmOptpfc",
+                    "name": "Giant Centipede",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2450,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16877,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Centipede"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "PTWVk30doQoZfIGa",
+                    "name": "Giant Centipede",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2800,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16877,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Centipede"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "P13E5ZrWS6P51qsH",
+                    "name": "Giant Centipede",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2800,
+                    "y": 7210,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16877,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Centipede"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "n3KH7h44rDAUkxVT",
+                    "name": "Giant Centipede",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2940,
+                    "y": 6860,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16877,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Centipede"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "asDiGdDjuzY9vO74",
+                    "name": "Myconid Sprout",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2730,
+                    "y": 6580,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17181,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sprout"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "L0Uu8LCWgWK7tu21",
+                    "name": "Myconid Sprout",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2660,
+                    "y": 6440,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17181,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sprout"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "XDkYcemvaHWSrrjN",
+                    "name": "Myconid Sprout",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2730,
+                    "y": 6370,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17181,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sprout"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "evEy8giAk5eIlSC4",
+                    "name": "Myconid Sprout",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2870,
+                    "y": 6440,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17181,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sprout"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Q6yl6coRo8F2tUjA",
+                    "name": "Myconid Sprout",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2590,
+                    "y": 6650,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17181,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sprout"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "HZpVulMMwiC5i2Fl",
+                    "name": "Myconid Sprout",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2800,
+                    "y": 6650,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17181,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sprout"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "svrI49ybvBbzSYIx",
+                    "name": "Myconid Sprout",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2660,
+                    "y": 6580,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17181,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sprout"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "TwiRs96Oin9Rb8rQ",
+                    "name": "Myconid Sprout",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2800,
+                    "y": 6510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17181,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sprout"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "lUIe8aQ6O4PU6LIC",
+                    "name": "Myconid Sprout",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2660,
+                    "y": 6370,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17181,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sprout"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "aAJ13NpTK3NG051H",
+                    "name": "Myconid Sprout",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2520,
+                    "y": 6650,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17181,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sprout"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "822gim9SedWmNjXf",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2590,
+                    "y": 6580,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "DBgBoCacrjBoBF3k",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2590,
+                    "y": 6510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Dv8DL5Rh9HJzyHTh",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 6510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "6d8l1xeWQHVb3I0M",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 6510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "I6LQhHY6K0prwjAk",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 6440,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "i7KFyflN5glLadhO",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2800,
+                    "y": 6440,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "53E8UM8Smx7kFWfN",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2800,
+                    "y": 6580,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "dBNJ6yzRJjuoavRY",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2870,
+                    "y": 6510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "eBDiIGlCINc7QUBj",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 6650,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "eiCYiMnWM4gnkxv4",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 6650,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "arjnPsdExWtb1TmF",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 6720,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "eKstGnVTqzCKUlah",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 6720,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "jHSDZzKcNmCYUZIw",
+                    "name": "Myconid Adult",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2800,
+                    "y": 6720,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17183,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Adult"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "2YcMfTaWK1lo1cHe",
+                    "name": "Floot",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3290,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17184,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Myconid Sovereign"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "tint": "",
+                    "actorData": {
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Floot"
+                    }
+                },
+                {
+                    "_id": "95UDaF62gUXh9EIT",
+                    "name": "Quaggoth Spore Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2380,
+                    "y": 7910,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17182,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quaggoth Spore Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "iaUHsUDSmrR3FDKV",
+                    "name": "Quaggoth Spore Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2590,
+                    "y": 7980,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17182,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quaggoth Spore Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "yiBEJa3Kwk1BfXjV",
+                    "name": "Quaggoth Spore Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 8050,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17182,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quaggoth Spore Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "msesgpLLTVOBaTbO",
+                    "name": "Quaggoth Spore Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2520,
+                    "y": 8050,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17182,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Quaggoth Spore Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "aJwfyHo4xj9RHnOo",
+                    "name": "Mummy",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2450,
+                    "y": 12110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mummy"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "v1EwNQvXqiyKc15p",
+                    "name": "Mummy",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 12180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mummy"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "v91pk8VQ79h3wbEs",
+                    "name": "Mummy",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2800,
+                    "y": 12250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mummy"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "IeyPEWrq0cp7S6o6",
+                    "name": "Mummy",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2520,
+                    "y": 12180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mummy"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "gNNfTseOBr9cEmJ3",
+                    "name": "Mummy",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2520,
+                    "y": 12320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mummy"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "PUMY8tCCr6Sa2tOV",
+                    "name": "Mummy",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 12390,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mummy"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1yWTmpQ8s5YDUquM",
+                    "name": "Mummy",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2450,
+                    "y": 12180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mummy"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "3SnHBqFlyE3OVCnM",
+                    "name": "Mummy",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 12250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mummy"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "wtFNwzXGgzK7OAbM",
+                    "name": "Gorka Tharn",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3150,
+                    "y": 12180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276630,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gorka Tharn"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "rPScnOz8jfOooIiI",
+                    "name": "Klom Xornbane",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3780,
+                    "y": 10360,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16850,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Duergar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Klom Xornbane"
+                    }
+                },
+                {
+                    "_id": "IvyQK0Dr7Hs4caVR",
+                    "name": "Skrac Blackskull",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3920,
+                    "y": 10360,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16850,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Duergar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Skrac Blackskull"
+                    }
+                },
+                {
+                    "_id": "kRjZzsoNVAf85HIe",
+                    "name": "Anchok Muzgardt",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3990,
+                    "y": 10430,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16850,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Duergar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Anchok Muzgardt"
+                    }
+                },
+                {
+                    "_id": "kZJoOOo2sXFZZ70k",
+                    "name": "Akith Xornbane",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3920,
+                    "y": 10500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16850,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Duergar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Akith Xornbane"
+                    }
+                },
+                {
+                    "_id": "vsQtUgfql0Ztp6Eh",
+                    "name": "Garlynth Ironhead",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3850,
+                    "y": 10500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16850,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Duergar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Garlynth Ironhead"
+                    }
+                },
+                {
+                    "_id": "zNrj7t35CuJ7K0xs",
+                    "name": "Xarta Muzgardt",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3780,
+                    "y": 10430,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16850,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Duergar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Xarta Muzgardt"
+                    }
+                },
+                {
+                    "_id": "VxHM1xgGzfRvkHWA",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4970,
+                    "y": 10360,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "jOQjF2wwodF6PSbY",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4760,
+                    "y": 10500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "4oWl55SftKrNKvdm",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 10570,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "WrKc6OBn1IsvsZUW",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4830,
+                    "y": 10360,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kSCvZ8vhwejvNXyZ",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 10290,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "KkkyTpaE4fv6bAGm",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4970,
+                    "y": 10150,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "dGPfo1ySZicsO4W5",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4060,
+                    "y": 12110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "u4TnUFJr7ZsgetYO",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4270,
+                    "y": 12040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "PqqXD97HuoeKm9qX",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4060,
+                    "y": 12040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "FPB8KBHUeVW3CIxf",
+                    "name": "Stone Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 4970,
+                    "y": 10780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17025,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Stone Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "OJRspi2DWdNwTj7w",
+                    "name": "Stone Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 4060,
+                    "y": 11690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17025,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Stone Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "lYGex8E2SqoaA813",
+                    "name": "Haungharassk",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 5530,
+                    "y": 11970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276637,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Haungharassk"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "zyL7SSZt5ObiRnZH",
+                    "name": "Stone Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6020,
+                    "y": 9800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17025,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Stone Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "7DsumYUKSGLAB6Xp",
+                    "name": "Stone Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 5880,
+                    "y": 10150,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17025,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Stone Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "l4PanIdzuRdpRjTN",
+                    "name": "Beholder",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6510,
+                    "y": 10850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17099,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Beholder"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "slCjLCHTE4GO4IU7",
+                    "name": "Hammer-handed Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 8260,
+                    "y": 5740,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276644,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Hammer-handed Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kDBGzj6Ak4gMMvzy",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6090,
+                    "y": 8190,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "h94XALjh2IPAhOkv",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5740,
+                    "y": 8050,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "0pzj92ESWrwsrrEw",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5880,
+                    "y": 8470,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ouZWRcIvJHxhQneU",
+                    "name": "Sabatene Xilzzrin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 9100,
+                    "y": 11900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17043,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Vampire"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Sabatene Xilzzrin"
+                    }
+                },
+                {
+                    "_id": "U4W1RulCqZcbscNp",
+                    "name": "Tebran Madannith",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 9100,
+                    "y": 12110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17043,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Vampire"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Tebran Madannith"
+                    }
+                },
+                {
+                    "_id": "Z3GRWF0ULz1I4BWA",
+                    "name": "Animated Staff of Frost",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8680,
+                    "y": 11690,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 276665,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Animated Staff of Frost"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "hHdTGexVtM4GqQOs",
+                    "name": "Ezzat",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8750,
+                    "y": 12320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16943,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Lich"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Ezzat"
+                    }
+                },
+                {
+                    "_id": "ZqVidqO2EAKiBd0a",
+                    "name": "Ipses",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 8820,
+                    "y": 12320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16986,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Pseudodragon"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Ipses"
+                    }
+                },
+                {
+                    "_id": "VglgfVqoP5rbYfdJ",
+                    "name": "Marilith",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 8260,
+                    "y": 9450,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16952,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Marilith"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                }
+            ],
+            "notes": [
+                {
+                    "label": "01. Desiccating Symbol",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2093,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "3b9e4971-2118-4ef9-ac1c-bed228bacda2",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "p0tYTOXsKDsmHBXs"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3745,
+                            "y": 3885
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15. Outer Door and Foyer",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2101,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#StalagmiteTower",
+                            "contentChunkId": "d21d6cd3-8399-4d97-8f7b-e30d049d9734",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "AVTRdRCaiKXaXTwZ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9100,
+                            "y": 11795
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Mad Golem’s Lair",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2104,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "68d28e69-0ccd-40ed-b5ce-5e0eed195e0f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "z7B1rWwZiK6ROu4Q"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5425,
+                            "y": 3815
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03. Sunken Paradise",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2109,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "8cecaaee-48ae-452a-b838-ea183db35a6c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "9CMAygnIBJEiBQ27"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3535,
+                            "y": 5005
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16. Animated Staff",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2113,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#StalagmiteTower",
+                            "contentChunkId": "122c15b1-ecd6-44f8-871d-fa0b9f6cd0fd",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "jxTvJOYsMk3xOSlA"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8575,
+                            "y": 11550
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04. Myconid Colony",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2125,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "2f1d2c49-fe7e-42db-858b-f81982c86a8d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "XBQs2n6Do2SSLCCK"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2975,
+                            "y": 7245
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05. Giggling Chasm",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2127,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "f8853718-988d-493a-ae07-9a8922b00e50",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "opXJQGUBH027XZ3D"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2660,
+                            "y": 9135
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17. Lich’s Study",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#StalagmiteTower",
+                            "contentChunkId": "ef1d7ea7-9bd2-4208-ba86-84d0459165a6",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "dViAkvmiDDFMDR0D"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8435,
+                            "y": 12425
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "18. Gnomes’ Landing",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#StalagmiteTower",
+                            "contentChunkId": "d51e458d-8bdc-43dd-9db2-ea9d6497a731",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "ATv2Hxr4Xi4nypCZ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8435,
+                            "y": 10465
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "19. Ezzat’s Scrying Mirror",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2133,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#StalagmiteTower",
+                            "contentChunkId": "6de54716-2a22-4e41-a217-14c85580d514",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "OajVxobMAnWvQO6P"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8855,
+                            "y": 11235
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "20. Laboratory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2139,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#StalagmiteTower",
+                            "contentChunkId": "79866f78-ddf2-47d2-85ed-49fd7574f544",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "RUbhT9ksoJRtE7da"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9170,
+                            "y": 10640
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21. Lit Landing",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2141,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#StalagmiteTower",
+                            "contentChunkId": "d3121c5d-31fb-4c13-8dd1-9d98a56a564f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "ARAAZ26FQhUSvV5t"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8995,
+                            "y": 9345
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06. Lair of the Mummy Lord",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2145,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "fb2e2631-4d07-46f8-8095-4a31e8f95755",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "4sfL8jf5xzbxcqaX"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3255,
+                            "y": 11095
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07. Crypt Raiders",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2151,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "0960f47e-742e-4c86-9645-c3a08ec3aaa0",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "bayvS3eQvs5m9WOj"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3955,
+                            "y": 10255
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "22. Rooms of Magic",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2153,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#StalagmiteTower",
+                            "contentChunkId": "6e80472b-1e86-4ef9-be98-8c66618a440d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "H4mNU2WXVImerydp"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8785,
+                            "y": 9905
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "23. Ezzat’s Phylactery",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2160,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#StalagmiteTower",
+                            "contentChunkId": "bfbb61a9-0df8-4980-a21c-e1227c570205",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "nsswEGOEsXvjmBPC"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8785,
+                            "y": 8365
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "22a. Magic Circle",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2163,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#StalagmiteTower",
+                            "contentChunkId": "78a89af0-3205-4c07-84bd-28e547a85c2a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "DEfTDr3nLTK20M3O"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8855,
+                            "y": 9905
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "22b. Ezzat’s Spellbook",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2170,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#StalagmiteTower",
+                            "contentChunkId": "706cba8e-3254-4ca0-8d8f-842eb6956566",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "xaqBslLwG0g0PtMC"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8295,
+                            "y": 9345
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08. Made of Stone",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2171,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "298a785f-c0ab-40ca-96f8-3676074f873e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "WQKbjCwl4FgLkCxn"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4375,
+                            "y": 11585
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09. Way to the Gate",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2181,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "1a5be597-ed60-47a3-8e88-0b900563199a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "0Ijahao8sGxlt8dx"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6125,
+                            "y": 9975
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10. Mad Mage’s Puzzle",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2185,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "9878a598-3c8c-49af-bb9c-aa6268e9eb94",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "WrwKW6JlHNeb7ss6"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7105,
+                            "y": 8085
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11. Weird Magic",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2203,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "8cc6ce24-e445-4de3-aee0-79a2f174e70d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "LxNyhkZMiOG39qgo"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8575,
+                            "y": 5845
+                        },
+                        {
+                            "x": 8995,
+                            "y": 6125
+                        },
+                        {
+                            "x": 7665,
+                            "y": 5425
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12. Old Behir Lair",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2219,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "c27e3001-f875-4075-94ef-ed2f6a09386f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "MYbt7huqGRWh472I"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9065,
+                            "y": 4165
+                        },
+                        {
+                            "x": 8645,
+                            "y": 3465
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13. Runestone Caverns",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2239,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "87094c0a-b898-49ac-acb9-dda82e6d5a67",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "v7uunofIr5PPQ8Rs"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7000,
+                            "y": 4340
+                        },
+                        {
+                            "x": 5985,
+                            "y": 8295
+                        },
+                        {
+                            "x": 4795,
+                            "y": 8645
+                        },
+                        {
+                            "x": 4935,
+                            "y": 7455
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14. The Runestone",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2249,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "233ae249-ac30-444a-81dd-d6cfad19d073",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "L4IkoXY4CzenvK8t"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5845,
+                            "y": 6265
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04a. Melding Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2255,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "bbe61f6e-691f-40f4-a754-7cc07b651914",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "djaQmnHGBoQ9WfiE"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2870,
+                            "y": 6370
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04b. Friendly Sovereign",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2259,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "b7b48f07-58e8-446c-9407-e8ae7657245f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "RIXx7A5tNWMlt8Gk"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3465,
+                            "y": 6265
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04c. Quaggoth Spore Servants",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2262,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "fde392bd-4c25-4671-9f69-3d1302cef466",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "2rKu3cFW0xBeMhk2"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2730,
+                            "y": 7805
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06a. Toothy Maw",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2265,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "1b032509-7eec-408b-a368-c5b40ffd36b1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "6QHHLjxcOKjw89LO"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2975,
+                            "y": 11165
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06b. Mass Grave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2267,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "7f63b9e1-577e-4af1-9fc3-18bbe7bbc2a7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "GNfOBJKbLv2tT6NI"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3815,
+                            "y": 11095
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06c. Mummy Lord’s Crypt",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2278,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "11c6bf30-df39-443a-84fe-5973b14d3f12",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "I6zrf68u35uBJcBe"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2835,
+                            "y": 12180
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08a. Gargoyles and Golems",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2282,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "9a412426-cad7-42c8-968a-a95035488810",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "alU5HVSCPDLpppAn"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4445,
+                            "y": 11585
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08b. Natural Frieze",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2284,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "c4bea937-6ee8-430f-9e29-a40e510c1fa1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "VJcp3zuFitpKSKH0"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5145,
+                            "y": 11375
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08c. Acid Tentacles",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2288,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "67d218ac-6c61-41cb-86a6-85c96efaf931",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "OGMClucU4RHavglx"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5075,
+                            "y": 12075
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08d. Golden Haungharassk",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2296,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "35609a08-af50-4ef1-b981-2caaf9aa6683",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "rwfdVaVPFF8UBQEV"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5705,
+                            "y": 11935
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09a. Stonecloak Sentries",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2299,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "53069e0c-fae6-4c84-9b20-0b9f14755e30",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "P1p7ObEHga5dk9oV"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6195,
+                            "y": 9975
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09b. Arch Gate to Level 15",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2304,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "9b78a00a-f1cf-4ef0-8adf-eba0925ee43d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "2AXv3YtSZvXvu85q"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6965,
+                            "y": 10325
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11a. Hammer Time",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2309,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "ae1b3aac-4ca9-40f5-b116-4a99b2133180",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "v0uXIBTaTvJ4kqau"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8645,
+                            "y": 5845
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11b. Statue of Transformation",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2316,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "24023ce1-cfee-4653-8bc8-414651da2ce3",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "bDre9IchJkZfs9KM"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9065,
+                            "y": 6125
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11c. Unreliable Oracle",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2320,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "50838d4a-26ad-4361-a565-4a9bf11c6c20",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "ZyyUJcgXICcB1XX2"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7735,
+                            "y": 5425
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12a. Bones and Stones",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2328,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "8d4a61e6-6953-4245-bf88-cc6ffeb06f7b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "Kqx4HKKyyGxtJxov"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8715,
+                            "y": 3465
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12b. Treasure Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2331,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "11a5ae19-9391-402a-9d13-2d39de65c9d0",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "Q2Y3rMaEkqFIXn8C"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9135,
+                            "y": 4165
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12c. Column of Eyes",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2334,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "8e8d5a1c-aefb-47be-b32e-17c0ec83f9f7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "5A6dQ7Uhs2nRXt6A"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9135,
+                            "y": 3605
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13a. Main Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2338,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "1bd2ce0a-4f1c-480e-a372-9d60c13680a5",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "ATQNTeNj5WVglAx0"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5005,
+                            "y": 7455
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13b. Glaring Gargoyles",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2340,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "88f13bf5-f483-4448-a510-80b2a7d0996b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "C9zZfofc8KBVNb9n"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6055,
+                            "y": 8295
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13c. Moldy Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2342,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "98d5f3d1-2439-4701-9d7e-92df2447ef70",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "dzeIqGtX0gwOG3vV"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4865,
+                            "y": 8645
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13d. Rotting Xorn Carcass",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2345,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "64bf5fdd-8de7-40e7-a16b-72067a98cf93",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "SrYmVwzyy4Lx9fYT"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5005,
+                            "y": 5075
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13e. Old Campsite",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2347,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "54d05e4d-1ada-48b1-8f3c-39d2e5555884",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "kL7grSXn5V0cnmOM"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7245,
+                            "y": 6020
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13f. Halaster’s Head",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2349,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "10174c04-0207-4e85-9261-e6745ded5039",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "f2t59a3nkDrllX0M"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6125,
+                            "y": 3605
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13g. Gusting Chasm",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2352,
+                            "bookCode": "wdotmm",
+                            "slug": "runestone-caverns#RunestoneCaverns",
+                            "contentChunkId": "6fab52ad-d08b-4e61-9b81-85a344673233",
+                            "note": true,
+                            "img": false,
+                            "parentId": 613,
+                            "linkId": "BfTpwkNeM1mdwtli"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7070,
+                            "y": 4340
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrensmaps-wdmm.maps",
+                "scene": "IgLytutVSB9XPpA1"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 20"
+}
