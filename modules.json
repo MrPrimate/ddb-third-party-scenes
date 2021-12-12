@@ -52,10 +52,10 @@
         },
         "modules/cyrensmaps/wdmm": {
             "name": "Cyrens Maps: Undermountain",
-            "description": "Cyrens Maps: Install the module from <a href=\"https://www.patreon.com/posts/undermountain-58691075\">https://www.patreon.com/posts/undermountain-58691075</a> and once activated let it auto import all the scenes. Then use this enhancer to enhance the imported adventure.<br><br> Current levels supported: 1 - 22.",
+            "description": "Cyrens Maps: Install the module from <a href=\"https://www.patreon.com/posts/undermountain-58691075\">https://www.patreon.com/posts/undermountain-58691075</a> and once activated let it auto import all the scenes. Then use this enhancer to enhance the imported adventure.",
             "path": "modules/cyrensmaps/wdmm",
             "module": "cyrensmaps-wdmm",
-            "released": false,
+            "released": true,
             "books": [
                 "wdotmm"
             ],
@@ -177,6 +177,26 @@
                 },
                 {
                     "name": "Level 22",
+                    "description": "",
+                    "book": "wdotmm"
+                },
+                {
+                    "name": "Level 23",
+                    "description": "",
+                    "book": "wdotmm"
+                },
+                {
+                    "name": "Skullport - Lower & Middle",
+                    "description": "",
+                    "book": "wdotmm"
+                },
+                {
+                    "name": "Skullport - Skull Island",
+                    "description": "",
+                    "book": "wdotmm"
+                },
+                {
+                    "name": "Skullport - Upper",
                     "description": "",
                     "book": "wdotmm"
                 }

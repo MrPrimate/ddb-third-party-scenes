@@ -1,0 +1,3521 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "wdotmm",
+            "tokens": [
+                {
+                    "_id": "75tq0vTwvKT6PGQe",
+                    "name": "Helmed Horror",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8400,
+                    "y": 6090,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17159,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Helmed Horror"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "sNuFUonLisHUfbRz",
+                    "name": "Helmed Horror",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8330,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17159,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Helmed Horror"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "E6D2w4GZ5PGn3vKa",
+                    "name": "Helmed Horror",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8190,
+                    "y": 6300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17159,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Helmed Horror"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "E9MODvdftb9HNHBT",
+                    "name": "Helmed Horror",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7980,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17159,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Helmed Horror"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "H1R2WBlXvcA6mSq0",
+                    "name": "Helmed Horror",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7910,
+                    "y": 6020,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17159,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Helmed Horror"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JNn5vPz0W4PaxzYY",
+                    "name": "Helmed Horror",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 5810,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17159,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Helmed Horror"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "gBUMBxv6x7uLKwlZ",
+                    "name": "Invisible Stalker",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8750,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16934,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Invisible Stalker"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "zFNzpEJ2hFEw0XBn",
+                    "name": "Invisible Stalker",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8820,
+                    "y": 4130,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16934,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Invisible Stalker"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "4quLevzTlj7sljCi",
+                    "name": "Invisible Stalker",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8890,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16934,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Invisible Stalker"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "TiMd0OeTNeA52k6f",
+                    "name": "Invisible Stalker",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8960,
+                    "y": 4130,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16934,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Invisible Stalker"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "BlRCvm6ku4JrLgWu",
+                    "name": "Pit Fiend",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6930,
+                    "y": 3570,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16979,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Pit Fiend"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "KKPPVVhMrMaW5DrH",
+                    "name": "Aryx",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3010,
+                    "y": 3220,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16840,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Deva"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Aryx"
+                    }
+                },
+                {
+                    "_id": "gHGA4CL9q9lviszv",
+                    "name": "Flameskull",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 4690,
+                    "y": 6020,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17091,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flameskull"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "kzuOZXKXRTkooHBP",
+                    "name": "Flameskull",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 4830,
+                    "y": 6020,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17091,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flameskull"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "g4bw7kLqsZviGIf7",
+                    "name": "Flameskull",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 4970,
+                    "y": 6020,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17091,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flameskull"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "4zPbwwHKsWV4gCGp",
+                    "name": "Flameskull",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 4690,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17091,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flameskull"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "YOCBWqJNVE4W1Ws2",
+                    "name": "Flameskull",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 4830,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17091,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flameskull"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "EppPxhtsCArmhFqO",
+                    "name": "Flameskull",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 4900,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17091,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flameskull"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Yx7xjp9qEqId3TBW",
+                    "name": "Flameskull",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 4830,
+                    "y": 6300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17091,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flameskull"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "bODrw6rp37XtOCDd",
+                    "name": "Scaladar",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 5600,
+                    "y": 4830,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183857,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Scaladar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "vbtlfYDpmwt4qkco",
+                    "name": "Scaladar",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 5390,
+                    "y": 4830,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183857,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Scaladar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "1dvZvriXK2OvkXII",
+                    "name": "Trobriand",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6160,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 278033,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Trobriand"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ruHl63J04cgLvfAn",
+                    "name": "Trobriand",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6020,
+                    "y": 5040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16789,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Archmage"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Trobriand"
+                    }
+                },
+                {
+                    "_id": "sBVQroyngbkOB2Vf",
+                    "name": "Arcturia",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3080,
+                    "y": 6580,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 278045,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Arcturia"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "siKw50XNkmVLAm3D",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3290,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "3Im6nJbtz7mDXgaP",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3430,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "uVui70XsoQqMgI4D",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3360,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "59RgEHx0qUQw4GQL",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3290,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "gjHVWvwmWIguZQhx",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2800,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "VdR2uzIVLTBSqSdq",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2800,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "13uLtdGoIzx5mg1y",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Fsf9zZuMxV2LlFLV",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "dtN1gI3mrXZrEKX3",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2870,
+                    "y": 6580,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "P005ZuDOCY4MPUV0",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2870,
+                    "y": 6720,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "mTmflh7nN6yYfpID",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3220,
+                    "y": 6580,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "j7R4vI76sMpa6smK",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3220,
+                    "y": 6720,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mimic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "g9wrvw6PVG7KO6Ti",
+                    "name": "Rabbithead",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3150,
+                    "y": 3780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Commoner"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Rabbithead"
+                    }
+                },
+                {
+                    "_id": "bV531eF4MuW9bXio",
+                    "name": "Storkhead",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3360,
+                    "y": 6510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17330,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Champion"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Storkhead"
+                    }
+                },
+                {
+                    "_id": "Tjk7fEPyARoFfbgy",
+                    "name": "Dingohead",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 6090,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17330,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Champion"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Dingohead"
+                    }
+                },
+                {
+                    "_id": "17VViDYQmgust71T",
+                    "name": "Iguanahead",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 6510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17330,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Champion"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Iguanahead"
+                    }
+                },
+                {
+                    "_id": "r25OPYxx9XaYnueH",
+                    "name": "Commoner",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3360,
+                    "y": 6090,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Commoner"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JnmvHvkjIZrcYAml",
+                    "name": "Mothhead",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 6510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Commoner"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Mothhead"
+                    }
+                },
+                {
+                    "_id": "y8HB6bYqZ7gQdqef",
+                    "name": "Aardvarkhead",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2940,
+                    "y": 6020,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Commoner"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Aardvarkhead"
+                    }
+                },
+                {
+                    "_id": "J752gNwwcZeWgxjn",
+                    "name": "Shrewhead",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2940,
+                    "y": 6510,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Commoner"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Shrewhead"
+                    }
+                },
+                {
+                    "_id": "JMUAMQ1YRKYSCZsO",
+                    "name": "Ultroloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6160,
+                    "y": 8820,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17126,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Ultroloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "hAL1ecLUSIZKqgoQ",
+                    "name": "Ultroloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6650,
+                    "y": 8820,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17126,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Ultroloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "yqloUziNfb5bBWlj",
+                    "name": "Ultroloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6650,
+                    "y": 9590,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17126,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Ultroloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "gb2KJvPB3Xza4Z3m",
+                    "name": "Ultroloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6160,
+                    "y": 9590,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17126,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Ultroloth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "ZG2h8MX61mJMcaco",
+                    "name": "Branta Myntion",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3675,
+                    "y": 10885,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17129,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Demilich"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Branta Myntion"
+                    }
+                },
+                {
+                    "_id": "uLbYbjJxJPYCSavy",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 12040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "4Yk14Ipbay9HOwtH",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2730,
+                    "y": 12180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "cVWBEkKo00trqmyq",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 12110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "9oHXHszSydqbp8P7",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2660,
+                    "y": 11970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "AxUKzXwAkhiahMr2",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2520,
+                    "y": 12110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "xx3V3sV6Mw99DTeE",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2870,
+                    "y": 11970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "muybVh6AGtaECkEQ",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5250,
+                    "y": 11900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "jqh2hC6Ncrb48kdU",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5250,
+                    "y": 12040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "44JeSgsI6KQrWoMa",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5460,
+                    "y": 11900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "vwT4XOSXQgHz6Icf",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5460,
+                    "y": 12040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "gutghlvVZ0gLLps3",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5320,
+                    "y": 11970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "tApMLWodRqbm34TL",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5320,
+                    "y": 12110,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Y489uxyYXPtJsH0s",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5390,
+                    "y": 11900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Kbis6NOTbVzOJNY8",
+                    "name": "Living Unseen Servant",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5530,
+                    "y": 12040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Living Unseen Servant"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "EgBOOVSaJDllU2kR",
+                    "name": "Halaster Blackcloak",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8540,
+                    "y": 12250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 183818,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Halaster Blackcloak"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "Ba5Qx2Vlz2QBxlW0",
+                    "name": "Nalkara",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 8470,
+                    "y": 11480,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17212,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Empyrean"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Nalkara"
+                    }
+                },
+                {
+                    "_id": "GkU8qEZOfg72frMX",
+                    "name": "Flesh Golem",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7910,
+                    "y": 11970,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16863,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flesh Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "aNZj6d8m2aadmrQJ",
+                    "name": "Flesh Golem",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 8120,
+                    "y": 12180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16863,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Flesh Golem"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "zBiKiEF6IqcqwIw5",
+                    "name": "Crow",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 8925,
+                    "y": 12005,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16992,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Raven"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Crow"
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "01. No Retreat",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2116,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "a24d242c-fb99-494f-9577-d98bbff02c6d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "buwCNWxsGE2CHliE"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8365,
+                            "y": 5040
+                        },
+                        {
+                            "x": 2975,
+                            "y": 10955
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Reversed Library",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2125,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "4840dc10-5015-4f77-a463-7c05a6eb77af",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "vn621oCjPVy4Xw9d"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7735,
+                            "y": 5145
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "24. Potion Brewery",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2127,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "2d5dd72d-3379-45b0-a580-da0ca39f8911",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "F27Fe4ImNPveSxIK"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3955,
+                            "y": 11165
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03. Talking Heads",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2129,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "a13978b8-9e9b-4e29-9799-d99b2d41fe0f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "vEILblo4OSiIRpQo"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7175,
+                            "y": 5145
+                        },
+                        {
+                            "x": 2975,
+                            "y": 12075
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04. Helmed Horrors",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "c1030b08-6f91-41e6-95b4-7e6771486af5",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "IaQDWakhZExWe3ri"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8225,
+                            "y": 5845
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "26. Gate to Icewind Dale",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2132,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "0f2b7794-0d76-4663-a6ab-0af38751f7e8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "cY6JaTJGtaYgPNuv"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3955,
+                            "y": 12075
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05. Magical Repository",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2135,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "1e4b9de5-3a89-4039-a5cd-d96ecacba221",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "IuMyiyugI4vwXKpr"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9205,
+                            "y": 4375
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "27. Rantantar’s Wand",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2140,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "707a8d44-95a8-4979-8d8d-4c3276971f38",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "EMaNe9SyeolhjF6P"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6615,
+                            "y": 12075
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06. Wizardly Wards",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2149,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "0c378ed8-465d-4733-affb-c7ee88c4bcbd",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "TLmSl7fQH1n8PYVQ"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7385,
+                            "y": 4165
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "28. Hidden Treasure",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2154,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "e7ea8177-16e3-4c5b-9e84-b4b9bf2b644c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "R7xXpCrEZxoBMhet"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6195,
+                            "y": 11445
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07. Teleportation Pillars",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2155,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "f891e207-d41c-4a0d-a223-e7c1d38217b0",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "PvsMxqnsoADOoYMO"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6405,
+                            "y": 3745
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08. Teleportation Pillars",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2161,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "098725cc-513d-4941-9a7d-6c9d3f0c4637",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "8ZxR6Jvb1ow1ZUke"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5005,
+                            "y": 3745
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "29. Apprentice Portraits",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2165,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "5e7889d0-e943-4b7e-850d-fcc53cf54369",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "da7lHBtG9QCCGgnl"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5635,
+                            "y": 11095
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "30. Scrying Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2169,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "2637bb36-915b-4bde-9b63-983e93db106d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "E4LuBKaNH5UXVkG1"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6615,
+                            "y": 11095
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09. Vaults",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2170,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "dff1b59d-cacd-476e-8bda-0d6c7f14b6f2",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "Ab9qh7vYJhOicH3o"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4235,
+                            "y": 3115
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "31. Art Studio",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2174,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "a7e295a3-8a21-4214-9532-adb8613aa06d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "trcaySy3xD8snK6a"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5635,
+                            "y": 12005
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "32. Jhesiyra’s Warning",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2177,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "7e04bb6e-1ce8-4b1b-a81a-88ee2d2561cb",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "wf3sT9Ytk0tIpa4T"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7945,
+                            "y": 11095
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10. Arcane Display",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2184,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "4eae6515-b04f-4169-bbdb-e0cd4a5a2e1c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "7hoIgIaZEraBVagB"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4305,
+                            "y": 4585
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11. Trobriand’s Workshop",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2195,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "1e773756-155c-477b-b6ee-a51c200a0f05",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "sqONAIYvV0DT73dE"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5355,
+                            "y": 5705
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "33. Mad Mage Showdown",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2196,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "2d7a8f36-4d7b-4f04-9b58-e26f1ad1875c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "anjPJzfylFeXSvzW"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8855,
+                            "y": 11445
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12. Gate to the Stone Bridge",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2199,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "9e558d80-d6e8-4917-a6a8-9f20d2f08a47",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "ieGE9OZ801U9KPjH"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5635,
+                            "y": 7245
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "34. Flying Saucer",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2207,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "df0b12ed-32f5-410f-982d-ee1bbc870457",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "6m9WBtW8HqIv81yB"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9100,
+                            "y": 11095
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "35. Exercise Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2211,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "59d92a5d-2901-49e4-ae0a-9fd59fd37634",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "jNsAcBmCa2B5jkdE"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 8295,
+                            "y": 12075
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "36. Gate to Triboar",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2214,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#HalastersTower",
+                            "contentChunkId": "6b215edf-4fff-4789-9a87-cf0c55238326",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "xvI7kctpOlS30dzc"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9275,
+                            "y": 12075
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13. The Metal Mage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2222,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "fa8a2ae5-2ef0-41e3-a3c1-ce2239af21d4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "eHSdlzUS8g8QZk3t"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6265,
+                            "y": 7525
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14. Man with the Rabbit’s Head",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2228,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "c0136fe9-bafb-4f77-abad-930337787970",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "IM7SDITUBfYJs8w7"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3325,
+                            "y": 3885
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15. Gate to Neverlight Grove",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2231,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "abdcec89-bd19-4ee4-8f7d-8007a223b0df",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "IOUYuRwl06NVLwDO"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2765,
+                            "y": 3255
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16. Broom Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2233,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "573e82bf-d832-40f1-b18f-ef0434874d2f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "g14GIpnweMazEg5b"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3465,
+                            "y": 4795
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17. Arcturia’s Court",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2262,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "9ec0dfab-089d-4869-b3cd-dd5aa181e017",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "Puw5verZgIIF2jOW"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3605,
+                            "y": 6195
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "18. Animated Hallway",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2264,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "d396cef4-b725-47de-ba77-8f8b6ca4721e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "aZ7RjaptiJ5N0Dt1"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3955,
+                            "y": 6825
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "19. Double Door Roulette",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2268,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "ede76679-f8b2-452b-a20f-e0f5d04978ca",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "YvEz2X5DM01C8IE1"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4235,
+                            "y": 8365
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "20. Hidden Helm",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2280,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "cf8e7da5-8e12-469f-9b9e-3521b212cdcf",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "vjqla65P4y9WnufT"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5145,
+                            "y": 9135
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06a. Lightning Pillars",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2295,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "a036000a-6efe-4ec8-9547-45868f4c6ec8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "fklw68BbWQV7OSKY"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7455,
+                            "y": 4165
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06b. Angelic Shield",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2302,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "57826737-ccb4-461c-8f1a-1160365064d5",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "6hdp0BBhYS1CQ4JM"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7245,
+                            "y": 3255
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06c. Components Storeroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2304,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "70c97b7f-598c-4317-bfa8-f64b927a4bac",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "rAfV4n35SAHr5fb9"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7735,
+                            "y": 3255
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09a. Hall of Staffs",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2307,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "4c0ecce9-dff6-40d0-b633-546d7900234b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "NYOGpG0uLb4qf7sX"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4305,
+                            "y": 3115
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09b. Diabolical Shield",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2311,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "03461150-9589-42c6-998d-028c316e395f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "wfojjp0eRrNoQe78"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3325,
+                            "y": 3045
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10a. Zigzagging Gallery",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2316,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "db297f0c-9c16-44fd-9036-b3c4265d7f99",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "MwKf7hWlvsUBk8iu"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4375,
+                            "y": 4585
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10b. Shield Trap",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2323,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "f23240f6-7ef2-423f-8e82-6a993c82609d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "InW6yIMSSIGuyHF1"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5145,
+                            "y": 5775
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11a. Work in Progress",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2325,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "be0790a3-7623-4d3f-ae36-e16494738cc1",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "EfkZCw9Wlwoxx283"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5425,
+                            "y": 5705
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11b. Scaladar",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2327,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "6d8d64fa-d622-41d5-8e1f-04ea6147028a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "sp2KNYUETULw2Oj3"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5845,
+                            "y": 5145
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11c. Trobriand’s Body",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2332,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "840b09bf-4ad5-456a-814f-73fd77cef06e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "pyoYeTj94TsFRA4C"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6195,
+                            "y": 4865
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21a. Acid and Glass",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2338,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "49e2a7f9-2291-4f10-aca3-3812bd15e625",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "U3PlQqARnKdalsmq"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6475,
+                            "y": 8925
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "21b. Nimoar’s Shield",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2342,
+                            "bookCode": "wdotmm",
+                            "slug": "mad-wizards-lair#TheDungeon",
+                            "contentChunkId": "e6e6ebb1-0d4a-459c-9259-30cbe59db872",
+                            "note": true,
+                            "img": false,
+                            "parentId": 616,
+                            "linkId": "sPt2GMzqCp6onQx8"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7035,
+                            "y": 9065
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrensmaps-wdmm.maps",
+                "scene": "MAFr7RLpkKSyn9dJ"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 23"
+}

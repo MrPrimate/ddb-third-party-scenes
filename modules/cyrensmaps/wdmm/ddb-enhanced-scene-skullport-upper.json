@@ -1,0 +1,701 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "wdotmm",
+            "tokens": [
+                {
+                    "_id": "M4AUnjjRvyhIQXsn",
+                    "name": "Gharz Stonedark",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 9030,
+                    "y": 2800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16850,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Duergar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Gharz Stonedark"
+                    }
+                },
+                {
+                    "_id": "huGlZSHV2yLejeDK",
+                    "name": "Kobold",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 8960,
+                    "y": 2870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16939,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Kobold"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "l68AXxHmIlwZcyXr",
+                    "name": "Kobold",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 9030,
+                    "y": 2870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16939,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Kobold"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "btSJ0Hxv2fx9q1Tz",
+                    "name": "Kobold",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 9100,
+                    "y": 2870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16939,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Kobold"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "R1xmyAEOLYpSfDJV",
+                    "name": "Kobold",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 9100,
+                    "y": 2800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16939,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Kobold"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "xHU5woPwQf2XOmaT",
+                    "name": "Kobold",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 9100,
+                    "y": 2730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16939,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Kobold"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "nAU1cFx1BBZEM189",
+                    "name": "Kobold",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 9030,
+                    "y": 2730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16939,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Kobold"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "5oVf3bK8CIZuG2w7",
+                    "name": "Kobold",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 8960,
+                    "y": 2730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16939,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Kobold"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "JgVOQewwz3IvaEGX",
+                    "name": "Kobold",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 8960,
+                    "y": 2800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16939,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Kobold"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "iavvQ6kkR6uIHpik",
+                    "name": "Ygarra Urmbaalt",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6370,
+                    "y": 4410,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16850,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Duergar"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "data": {
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Ygarra Urmbaalt"
+                    }
+                },
+                {
+                    "_id": "flPta6zeXcAYlMC4",
+                    "name": "Giant Spider",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 10360,
+                    "y": 6090,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16895,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Giant Spider"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {}
+                },
+                {
+                    "_id": "RDs1BkzW4OV9fEmR",
+                    "name": "Nightshade",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 7210,
+                    "y": 5460,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mummy"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Nightshade"
+                    }
+                },
+                {
+                    "_id": "SGssSfh6Iusg5zkr",
+                    "name": "Garryth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5320,
+                    "y": 5670,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16843,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Doppelganger"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Garryth"
+                    }
+                },
+                {
+                    "_id": "bacf2MMZAwGtcLC6",
+                    "name": "Felrax",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 11200,
+                    "y": 5670,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16947,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "name": "Mage"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "lightAlpha": 0.25,
+                    "lightAngle": 360,
+                    "lightAnimation": {
+                        "speed": 5,
+                        "intensity": 5
+                    },
+                    "actorData": {
+                        "name": "Felrax"
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "24. Thaglar’s Foundry",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2153,
+                            "bookCode": "wdotmm",
+                            "slug": "skullport#ExploringtheTown",
+                            "contentChunkId": "b8fe7a3e-7788-45d5-bc61-16a79b05595c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 617,
+                            "linkId": "TEBFRNZvIWEnzG77"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 11970,
+                            "y": 3080
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "31. Dalagor’s Fortress",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2175,
+                            "bookCode": "wdotmm",
+                            "slug": "skullport#ExploringtheTown",
+                            "contentChunkId": "f280a73b-2974-4070-8659-c5b2b0797cc3",
+                            "note": true,
+                            "img": false,
+                            "parentId": 617,
+                            "linkId": "J3RynCI5ncBDwNys"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 11165,
+                            "y": 5635
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "32. Dumathoin’s Jest",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2180,
+                            "bookCode": "wdotmm",
+                            "slug": "skullport#ExploringtheTown",
+                            "contentChunkId": "d2f47b55-3a69-4420-bbcd-a17e409834c9",
+                            "note": true,
+                            "img": false,
+                            "parentId": 617,
+                            "linkId": "uNuHu2MpVVR0Cuvh"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6580,
+                            "y": 4585
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "33. The Overflowing Urn",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2183,
+                            "bookCode": "wdotmm",
+                            "slug": "skullport#ExploringtheTown",
+                            "contentChunkId": "f3a9b5ad-cb0f-4311-84f5-eb98d6f325d8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 617,
+                            "linkId": "UetOiouZ1n29QzM4"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5110,
+                            "y": 5705
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "34. Nightshade’s Caress",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2185,
+                            "bookCode": "wdotmm",
+                            "slug": "skullport#ExploringtheTown",
+                            "contentChunkId": "d68082db-71ef-42eb-b5b8-83bd15cf47c6",
+                            "note": true,
+                            "img": false,
+                            "parentId": 617,
+                            "linkId": "D9jaokfY724Ul9KW"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 7455,
+                            "y": 5425
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "35. The Worm’s Gullet",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2188,
+                            "bookCode": "wdotmm",
+                            "slug": "skullport#ExploringtheTown",
+                            "contentChunkId": "44833844-9c58-40c1-8be9-39a530363b60",
+                            "note": true,
+                            "img": false,
+                            "parentId": 617,
+                            "linkId": "2NCGCiyZBxtPnKUL"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 9065,
+                            "y": 3080
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "36. Tanor’thal Refuge",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2190,
+                            "bookCode": "wdotmm",
+                            "slug": "skullport#ExploringtheTown",
+                            "contentChunkId": "9000737c-6cf8-417e-bc61-c677b81cfa2e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 617,
+                            "linkId": "RCwVaOVO7GAIQWne"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 10640,
+                            "y": 5950
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrensmaps-wdmm.maps",
+                "scene": "ml5fc30axU53roIF"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Skullport - Upper"
+}
