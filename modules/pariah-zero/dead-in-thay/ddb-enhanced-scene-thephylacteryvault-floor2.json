@@ -1,0 +1,1249 @@
+{
+    "flags": {
+        "stairways": [
+            {
+                "_id": "j3jdex7ua4iquype",
+                "scene": "5zqHTPmIl8R2VaLy",
+                "name": "sw-pr5co2jf",
+                "x": 1760,
+                "y": 2280,
+                "width": null,
+                "height": null,
+                "disabled": false,
+                "hidden": false,
+                "animate": false,
+                "partnerSceneLabel": false
+            },
+            {
+                "_id": "8vsa6dxakcugfghg",
+                "scene": "PF978jWEKVKc2s3c",
+                "name": "sw-v8zzjw5g",
+                "x": 1160,
+                "y": 1400,
+                "width": null,
+                "height": null,
+                "disabled": false,
+                "hidden": false,
+                "animate": false,
+                "partnerSceneLabel": false
+            },
+            {
+                "_id": "ofpjp3qb5f65le6c",
+                "scene": "5g30PZxz1fxZLPae",
+                "name": "sw-u1is7jss",
+                "x": 2280,
+                "y": 1440,
+                "width": null,
+                "height": null,
+                "disabled": false,
+                "hidden": false,
+                "animate": false,
+                "partnerSceneLabel": false
+            }
+        ],
+        "ddb": {
+            "bookCode": "dit",
+            "foundryVersion": "9.242",
+            "tokens": [
+                {
+                    "_id": "UnYP6o6Djjx9tOgw",
+                    "name": "Four-Armed Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1600,
+                    "y": 1120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 294945,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "version": "2.8.1",
+                            "name": "Four-Armed Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {}
+                },
+                {
+                    "_id": "LhQisuCGC1z3saei",
+                    "name": "Four-Armed Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1680,
+                    "y": 1120,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 294945,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "version": "2.8.1",
+                            "name": "Four-Armed Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {}
+                },
+                {
+                    "_id": "XYeNlIAgFrCQTDZw",
+                    "name": "Four-Armed Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1200,
+                    "y": 1920,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 294945,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "version": "2.8.1",
+                            "name": "Four-Armed Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {}
+                },
+                {
+                    "_id": "6WorVHUjCQbOvEur",
+                    "name": "Four-Armed Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1200,
+                    "y": 1840,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 294945,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "version": "2.8.1",
+                            "name": "Four-Armed Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {}
+                },
+                {
+                    "_id": "yafTG0Fzno6xR18K",
+                    "name": "Four-Armed Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2080,
+                    "y": 1920,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 294945,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "version": "2.8.1",
+                            "name": "Four-Armed Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {}
+                },
+                {
+                    "_id": "fQZMpFbYpHToNW3B",
+                    "name": "Four-Armed Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2080,
+                    "y": 1760,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 294945,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "version": "2.8.1",
+                            "name": "Four-Armed Gargoyle"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {}
+                },
+                {
+                    "_id": "OsWdphpa5pBKrbco",
+                    "name": "Kazit Gul",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.5,
+                    "x": 1680,
+                    "y": 1520,
+                    "disposition": -1,
+                    "flags": {
+                        "splatter": {
+                            "bloodColor": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 17129,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "flatAC": true,
+                            "version": "2.8.1",
+                            "name": "Demilich"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {}
+                }
+            ],
+            "notes": []
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": true,
+                "walls": true,
+                "drawings": true,
+                "config": true,
+                "compendium": "dead-in-thay.dead-in-thay-scenes",
+                "scene": "3fm4474jY7eFX4pt"
+            },
+            "version": "2.8.14"
+        }
+    },
+    "name": "The Phylactery Vault - Floor 2",
+    "navName": "",
+    "width": 2240,
+    "height": 1920,
+    "grid": 80,
+    "gridDistance": 5,
+    "gridType": 1,
+    "gridUnits": "ft",
+    "shiftX": 0,
+    "shiftY": 0,
+    "padding": 0.25,
+    "initial": {
+        "x": 1726,
+        "y": 1609,
+        "scale": 1
+    },
+    "backgroundColor": "#999999",
+    "walls": [
+        {
+            "c": [
+                2559.6991935096416,
+                2309.4205027521407,
+                2559.6991935096416,
+                2309.4205027521407
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                2559.6991935096416,
+                2309.4205027521407,
+                2718.0991935096417,
+                2151.020502752141
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                817.2991935096408,
+                2309.420502752142,
+                817.2991935096408,
+                2309.420502752142
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                817.2991935096408,
+                2309.420502752142,
+                2559.6991935096416,
+                2309.4205027521407
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                2559.6991935096416,
+                2309.4205027521407,
+                2559.6991935096416,
+                2309.4205027521407
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                658.899193509639,
+                2151.0205027521424,
+                817.2991935096408,
+                2309.420502752142
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                817.2991935096408,
+                2309.420502752142,
+                817.2991935096408,
+                2309.420502752142
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                658.899193509639,
+                2151.0205027521424,
+                1609.2991935096409,
+                567.0205027521386
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1609.2991935096409,
+                567.0205027521386,
+                1609.2991935096409,
+                567.0205027521386
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1609.2991935096409,
+                567.0205027521386,
+                1609.2991935096409,
+                567.0205027521386
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1609.2991935096409,
+                567.0205027521386,
+                1846.8991935096387,
+                567.0205027521386
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1846.8991935096387,
+                567.0205027521386,
+                1846.8991935096387,
+                567.0205027521386
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1846.8991935096387,
+                567.0205027521386,
+                1846.8991935096387,
+                567.0205027521386
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1846.8991935096387,
+                567.0205027521386,
+                2718.0991935096417,
+                2151.020502752141
+            ],
+            "light": 20,
+            "move": 20,
+            "sight": 20,
+            "sound": 20,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1070,
+                2040,
+                1420,
+                2020
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1420,
+                2020,
+                1440,
+                1960
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1440,
+                1960,
+                1400,
+                1890
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1300,
+                1700,
+                1240,
+                1700
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1240,
+                1700,
+                1030,
+                1980
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1030,
+                1980,
+                1070,
+                2040
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1940,
+                1950,
+                1960,
+                2010
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1960,
+                2010,
+                2310,
+                2040
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                2310,
+                2040,
+                2340,
+                1980
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                2340,
+                1980,
+                2150,
+                1690
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                2150,
+                1690,
+                2090,
+                1690
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1750,
+                1280,
+                1840,
+                1280
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1840,
+                1280,
+                1880,
+                1220
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1880,
+                1220,
+                1720,
+                880
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1720,
+                880,
+                1650,
+                880
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1650,
+                880,
+                1480,
+                1220
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1480,
+                1220,
+                1520,
+                1280
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1690,
+                1070,
+                1660,
+                1130
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1660,
+                1130,
+                1710,
+                1130
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1710,
+                1130,
+                1690,
+                1070
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1690,
+                1070,
+                1690,
+                880
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1710,
+                1130,
+                1860,
+                1250
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1660,
+                1130,
+                1500,
+                1250
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1200,
+                1920,
+                1240,
+                1880
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1240,
+                1880,
+                1260,
+                1920
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1260,
+                1920,
+                1200,
+                1920
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1200,
+                1920,
+                1050,
+                2010
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1240,
+                1880,
+                1270,
+                1700
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1260,
+                1920,
+                1430,
+                1990
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                2110,
+                1920,
+                2140,
+                1870
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                2140,
+                1870,
+                2180,
+                1920
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                2180,
+                1920,
+                2110,
+                1920
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                2110,
+                1920,
+                1950,
+                1980
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                2180,
+                1920,
+                2320,
+                2010
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                2140,
+                1870,
+                2120,
+                1690
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1940,
+                1950,
+                1980,
+                1880
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1980,
+                1880,
+                2010,
+                1820
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 1,
+            "ds": 2,
+            "flags": {}
+        },
+        {
+            "c": [
+                2010,
+                1820,
+                2040,
+                1780
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 1,
+            "ds": 2,
+            "flags": {}
+        },
+        {
+            "c": [
+                2040,
+                1780,
+                2090,
+                1690
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1400,
+                1890,
+                1340,
+                1780
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 1,
+            "ds": 2,
+            "flags": {}
+        },
+        {
+            "c": [
+                1340,
+                1780,
+                1300,
+                1700
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        },
+        {
+            "c": [
+                1750,
+                1280,
+                1620,
+                1280
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 1,
+            "ds": 2,
+            "flags": {}
+        },
+        {
+            "c": [
+                1620,
+                1280,
+                1520,
+                1280
+            ],
+            "light": 10,
+            "move": 20,
+            "sight": 10,
+            "sound": 10,
+            "dir": 0,
+            "door": 0,
+            "ds": 0,
+            "flags": {}
+        }
+    ],
+    "drawings": [],
+    "weather": "",
+    "darkness": 0,
+    "tokenVision": true,
+    "globalLight": false,
+    "globalLightThreshold": null,
+    "lights": [
+        {
+            "x": 1680,
+            "y": 1600,
+            "rotation": 0,
+            "walls": false,
+            "vision": false,
+            "config": {
+                "alpha": 0.5,
+                "angle": 0,
+                "bright": 75,
+                "coloration": 1,
+                "dim": 0,
+                "gradual": false,
+                "luminosity": 0.5,
+                "saturation": 0,
+                "contrast": 0,
+                "shadows": 0,
+                "animation": {
+                    "speed": 5,
+                    "intensity": 5,
+                    "reverse": false
+                },
+                "darkness": {
+                    "min": 0,
+                    "max": 1
+                },
+                "color": null
+            },
+            "hidden": false,
+            "flags": {}
+        }
+    ]
+}
