@@ -201,6 +201,183 @@
                     "book": "wdotmm"
                 }
             ]
+        },
+        "modules/pariah-zero/dead-in-thay": {
+            "name": "Pariah Zero: Dead in Thay",
+            "description": "Pariah Zero: Dead in Thay: Install the module by pasting the link <a href=\"https://www.pariahzero.net/VTT/Dead-in-Thay/module.json\">here</a>.",
+            "path": "modules/pariah-zero/dead-in-thay",
+            "module": "dead-in-thay",
+            "released": false,
+            "books": [
+                "dit"
+            ],
+            "scenes": [
+                {
+                    "name": "Augmentation Chambers - Ooze Grottos",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Clay Golem Kilns - Golem Laboratories",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Culling Pens - Ooze Grottos",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Dark Gardens - Blood Pens",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Dread Legion Outpost - Master's Domain",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Fiendish Arena - Abyssal Prisons",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Flesh Golem Mortuaries - Golem Laboratories",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Forest of Death - Forests of Slaughter",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Forest of Illusion - Forests of Slaughter",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Forest of Recovery - Forests of Slaughter",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Forest of Weakness - Forests of Slaughter",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Halls of Conditioning - Abyssal Prisons",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Halls of Obedience - Master's Domain",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Immortal Caverns - Ooze Grottos",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Iron Golem Foundries - Golem Laboratories",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Lake of Madness - Far Realm Cysts",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Pools of Devotion - Predator Pools",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Prison of Filth - Far Realm Cysts",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Spawning Pools - Ooze Grottos",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Spawn Pools - Predator Pools",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Stone Golem Quarries - Golem Laboratories",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Swine Run - Blood Pens",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Temple of Anguish - Temples of Extraction",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Temple of Chaos - Abbysal Prison",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Temple of Nature - Temples of Extraction",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Temple of Oppression - Temples of Extraction",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Temple of Turmoil - Temples of Extraction",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Temples of Despair - Master's Domain",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "The Phylactery Vault - Floor 1",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "The Phylactery Vault - Floor 2",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "The Phylactery Vault - Floor 3",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "The Phylactery Vault - Floor 4",
+                    "description": "",
+                    "book": "dit"
+                },
+                {
+                    "name": "Vermin Halls - Blood Pens",
+                    "description": "",
+                    "book": "dit"
+                }
+            ]
         }
     }
 }
