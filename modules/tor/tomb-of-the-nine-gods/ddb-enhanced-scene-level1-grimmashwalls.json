@@ -1,0 +1,2150 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "toa",
+            "foundryVersion": "9.249",
+            "tokens": [
+                {
+                    "_id": "hUYvbSj2WNblg2eg",
+                    "name": "Nepartak",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.5,
+                    "x": 5131.177643806703,
+                    "y": 2848.57167889995,
+                    "disposition": -1,
+                    "flags": {},
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 47,
+                                    "max": 47,
+                                    "temp": null,
+                                    "tempmax": null
+                                },
+                                "movement": {
+                                    "fly": 40,
+                                    "hover": true
+                                }
+                            },
+                            "details": {
+                                "gender": "",
+                                "age": "",
+                                "height": "",
+                                "weight": "",
+                                "eyes": "",
+                                "skin": "",
+                                "hair": "",
+                                "notes1name": "",
+                                "notes2name": "",
+                                "notes3name": "",
+                                "notes4name": ""
+                            }
+                        }
+                    },
+                    "light": {
+                        "alpha": 1,
+                        "angle": 0,
+                        "bright": 15,
+                        "coloration": 1,
+                        "dim": 35,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "gWZiIDPF83oYiPXT",
+                    "name": "stained glassed window",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.3,
+                    "x": 1751.4794311523438,
+                    "y": 2847.2064208984375,
+                    "disposition": -1,
+                    "flags": {
+                        "monks-tokenbar": {
+                            "include": "default"
+                        },
+                        "monks-little-details": {
+                            "token-highlight": "",
+                            "bloodsplat-colour": ""
+                        },
+                        "levels": {
+                            "tokenHeight": 0
+                        },
+                        "autorotate": {
+                            "enabled": null
+                        },
+                        "dnd5e-helpers": {
+                            "coverLevel": 3
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 10,
+                                    "max": 10
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "alpha": 0.25,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ijdbQlG32YI5QzbB",
+                    "name": "stained glassed window",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.3,
+                    "x": 1751.4794311523438,
+                    "y": 2847.2064208984375,
+                    "disposition": -1,
+                    "flags": {
+                        "monks-tokenbar": {
+                            "include": "default"
+                        },
+                        "monks-little-details": {
+                            "token-highlight": "",
+                            "bloodsplat-colour": ""
+                        },
+                        "levels": {
+                            "tokenHeight": 0
+                        },
+                        "autorotate": {
+                            "enabled": null
+                        },
+                        "dnd5e-helpers": {
+                            "coverLevel": 3
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 10,
+                                    "max": 10
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "alpha": 0.25,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "bbOVIcWYQrOky3vc",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2800,
+                    "y": 4300,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "t0PEqdevAFutm2mT"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 42,
+                                    "max": 42
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Gargoyle"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "LkJKQV7ZSRS71l7N",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3400,
+                    "y": 4000,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "t0PEqdevAFutm2mT"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 50,
+                                    "max": 50
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Gargoyle"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "u484DVNopbCFc50Z",
+                    "name": "Gargoyle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3800,
+                    "y": 4000,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 16868,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Gargoyle"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "t0PEqdevAFutm2mT"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 46,
+                                    "max": 46
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Gargoyle"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "egMGJzzt9Hyhh8vQ",
+                    "name": "Mummy",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3800,
+                    "y": 1500,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "o3zgUkIIvAJlgwwc",
+                                "xy": {
+                                    "x": 3200,
+                                    "y": 1344
+                                },
+                                "center": {
+                                    "x": 3232,
+                                    "y": 1376
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Mummy"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "WtRHdKYnLbZnVnNi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 59,
+                                    "max": 59
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Mummy"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "FNBGVhYQG9P9Roeu",
+                    "name": "Nepartak",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.5,
+                    "x": 5100,
+                    "y": 2900,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "yS6zmfblZ1RsCw2U",
+                                "xy": {
+                                    "x": 4032,
+                                    "y": 2240
+                                },
+                                "center": {
+                                    "x": 4064,
+                                    "y": 2272
+                                },
+                                "rotation": 90,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17091,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Flameskull"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "j6Rh91AhpLOzZmRo"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 42,
+                                    "max": 42
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            },
+                            "spells": {
+                                "spell1": {
+                                    "value": 3
+                                },
+                                "spell2": {
+                                    "value": 2
+                                },
+                                "spell3": {
+                                    "value": 1
+                                }
+                            }
+                        },
+                        "name": "Nepartak"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "MnGw0JehrOLwQTQX",
+                    "name": "Swarm of  Undead Spiders",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4800,
+                    "y": 2500,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "4lkGWXSl8eZReKmQ",
+                                "xy": {
+                                    "x": 3776,
+                                    "y": 1984
+                                },
+                                "center": {
+                                    "x": 3808,
+                                    "y": 2016
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 301414,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Swarm of Insects (Spiders)"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "wXT7P3rKAnXYvzbh"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 30,
+                                    "max": 30
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Swarm of Insects (Spiders)"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "nXM5PaEfva11igmV",
+                    "name": "Swarm of Undead Spiders",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4600,
+                    "y": 3300,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "pX6cgNZqziCsO84e",
+                                "xy": {
+                                    "x": 4096,
+                                    "y": 1984
+                                },
+                                "center": {
+                                    "x": 4128,
+                                    "y": 2016
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 301414,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Swarm of Insects (Spiders)"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "wXT7P3rKAnXYvzbh"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 26,
+                                    "max": 26
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Swarm of Insects (Spiders)"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "hl9oM312ZZRoQ7RQ",
+                    "name": "Swarm of Undead Spiders",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5400,
+                    "y": 2900,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "7ERMQvBcbKIbBovE",
+                                "xy": {
+                                    "x": 4160,
+                                    "y": 2176
+                                },
+                                "center": {
+                                    "x": 4192,
+                                    "y": 2208
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 301414,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Swarm of Insects (Spiders)"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "wXT7P3rKAnXYvzbh"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 20,
+                                    "max": 20
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Swarm of Insects (Spiders)"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "uHouJorFiAf7z99R",
+                    "name": "Swarm of Undead Spiders",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5400,
+                    "y": 3300,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "4lkGWXSl8eZReKmQ",
+                                "xy": {
+                                    "x": 3712,
+                                    "y": 1984
+                                },
+                                "center": {
+                                    "x": 3744,
+                                    "y": 2016
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 301414,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Swarm of Insects (Spiders)"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "wXT7P3rKAnXYvzbh"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 28,
+                                    "max": 28
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Swarm of Insects (Spiders)"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "0mhtLybbl7rz0j3D",
+                    "name": "Swarm of Undead Spiders",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 3300,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "4lkGWXSl8eZReKmQ",
+                                "xy": {
+                                    "x": 3712,
+                                    "y": 1984
+                                },
+                                "center": {
+                                    "x": 3744,
+                                    "y": 2016
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 301414,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Swarm of Insects (Spiders)"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "wXT7P3rKAnXYvzbh"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 21,
+                                    "max": 21
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Swarm of Insects (Spiders)"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "1U9xcd5CuXJArfqC",
+                    "name": "Swarm of Undead Spiders",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5400,
+                    "y": 2500,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "4lkGWXSl8eZReKmQ",
+                                "xy": {
+                                    "x": 3712,
+                                    "y": 1984
+                                },
+                                "center": {
+                                    "x": 3744,
+                                    "y": 2016
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 301414,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Swarm of Insects (Spiders)"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "wXT7P3rKAnXYvzbh"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 20,
+                                    "max": 20
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Swarm of Insects (Spiders)"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "8aLo3STKrjmxGH2d",
+                    "name": "Mimic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5900,
+                    "y": 1100,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "Y6jKpYGoMURfArEp",
+                                "xy": {
+                                    "x": 4544,
+                                    "y": 1088
+                                },
+                                "center": {
+                                    "x": 4576,
+                                    "y": 1120
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16957,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Mimic"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "GlWp62QGK6UZz8A8"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 67,
+                                    "max": 67
+                                }
+                            }
+                        },
+                        "name": "Mimic"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ZY0isYgz2Zuw5WlI",
+                    "name": "Clumsy Tomb Dwarf",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3700,
+                    "y": 2900,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "Amg4J0AyohvEAVCd",
+                                "xy": {
+                                    "x": 3264,
+                                    "y": 2112
+                                },
+                                "center": {
+                                    "x": 3296,
+                                    "y": 2144
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17059,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Wight"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "r04Vjv1YYgGAKNvu"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 43,
+                                    "max": 43
+                                }
+                            }
+                        },
+                        "name": "Clumsy Tomb Dwarf"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "SuLXE0rRDeF5iTiv",
+                    "name": "Shadow Demon",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2400,
+                    "y": 2700,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "WLhX1USCDmceELcZ",
+                                "xy": {
+                                    "x": 2304,
+                                    "y": 2112
+                                },
+                                "center": {
+                                    "x": 2336,
+                                    "y": 2144
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17131,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Shadow Demon"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "6RvEQyJCoClHBYuZ"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 67,
+                                    "max": 67
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Shadow Demon"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "01. Acererak’s Warning",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2041,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "1a5cbe3b-3988-44ad-9f64-1d7cdde12e2e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "a6YwJQiV5fng1Mtx",
+                            "pin": "31043200"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3600,
+                            "y": 4750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Gallery of Tricksters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2048,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "2b890932-1c4e-420b-ac01-35d127eb8433",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "2USZKJPqfSkDqGJD",
+                            "pin": "36803040"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4250,
+                            "y": 4100
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03. False Entrance",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2055,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "90022993-020d-456f-a312-144c37b2dc2d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "QTVN6laA3fVl1BQP",
+                            "pin": "31682752"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3850,
+                            "y": 3650
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06. Crystal Window",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2095,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "05368ac5-e55e-4112-a89f-e6a88638951d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "1yWxjYqXVoz96XHZ",
+                            "pin": "19522144"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1900,
+                            "y": 2750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07. Grand Staircase",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2114,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "e963e33b-77f8-4065-9551-2b687dd025c9",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "GRA0qxK2KpZy1OKc",
+                            "pin": "28802368"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3550,
+                            "y": 2900
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08. Magical Attraction",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2118,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "53d94fd0-dfe9-46a5-a35a-a11da767cea2",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "bfzzF3h4BHhJ3oxi",
+                            "pin": "18561632"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1750,
+                            "y": 1950
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09. Magic Fountain",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2127,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "5a27dd9d-5c67-4e09-b2bd-87d9e85bdc05",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "zjpWeJkbmE8CvEom",
+                            "pin": "17921216"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1900,
+                            "y": 1150
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10. Obo’laka’s Tomb",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2143,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "250f8bc4-4ebe-4305-962a-3ae5ee9b41c0",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "qR7cwtdTqUn3VqZn",
+                            "pin": "16642112"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1450,
+                            "y": 3050
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "11. Gas Pocket",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2145,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "57df4007-80da-42fb-94da-c3d5c9d1c755",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "OmCtswYfyJxEK8kZ",
+                            "pin": "18242560"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1600,
+                            "y": 3600
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12. Trapped Chest",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2153,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "4f0512ce-d219-42f5-add8-c99a5e4b0763",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "k5lfJFwBa7EcQegZ",
+                            "pin": "16643200"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1250,
+                            "y": 4150
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13. Stone Skull",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2158,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "0f6cda8d-5521-4065-b286-9bf4534be033",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "VrXFbiNFCrnVKaKG",
+                            "pin": "37122176"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4550,
+                            "y": 2800
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14. Moa’s Tomb",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2178,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "d43ef119-f918-4f90-8b1a-5833c13be165",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "fI071jWmJvWRwrJJ",
+                            "pin": "39682368"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5000,
+                            "y": 3050
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "15. Wind Tunnel",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2186,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "0abbb897-3ea0-4fe9-be1d-32fb9c857862",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "WygAvVmuJ8S9lrao",
+                            "pin": "32961696"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3600,
+                            "y": 1950
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "16. Wongo’s Tomb",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2205,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "8d3bf033-8e11-4cd3-afd4-9acade999d6a",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "SZr7kdF0qRnsuhcq",
+                            "pin": "33921344"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3550,
+                            "y": 1450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "17. Underground Waterfall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2211,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "c164568c-85fc-4be8-90c1-2f1496156fde",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "ODnKwc0duwfLOKRH",
+                            "pin": "44801280"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5800,
+                            "y": 1400
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04A. First Puzzle Door",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2220,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "4ab97a5b-2e22-4784-a36f-c83ea83de8c4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "ul1iY69u1F7Keudk",
+                            "pin": "22722976"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2700,
+                            "y": 3950
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04B. Second Puzzle Door",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2230,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "5d56b52c-dc0c-4faa-a6ef-ec939a317a06",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "swt7AKx0UPFZFbRO",
+                            "pin": "24642720"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2700,
+                            "y": 3650
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05A. Poison Darts",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2233,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "c25a2e79-9956-4260-9a91-cc9d56918188",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "bUFOjbTcLzOI1FNS",
+                            "pin": "24642496"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2700,
+                            "y": 3450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05B. Devil Face",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2237,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "be9aed5f-e2b9-4f9b-a3ba-44e17f1771fd",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "DcC3DAoQcJZKZOiw",
+                            "pin": "24642144"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2550,
+                            "y": 2600
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05C. Floor Hatch",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2240,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "5dd91575-e438-44a1-8d34-27ef2cad4b57",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "FFg0m8EUzfWyR1zl",
+                            "pin": "22402208"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2150,
+                            "y": 3000
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07A. We Are Not Alone",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2244,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "506858a0-1758-4abf-8200-f2adf2395411",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "ZXPs76n00QTFVBvI",
+                            "pin": "33922112"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4200,
+                            "y": 2550
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Handout 11",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": 480,
+                            "ddbId": 12061,
+                            "bookCode": "toa",
+                            "slug": "player-handouts",
+                            "contentChunkId": null,
+                            "originDocId": "Wmh0UzIbsGFIJ0mZ",
+                            "originHint": "possibleHandouts",
+                            "originalLink": "./toa/ph11.png",
+                            "note": false,
+                            "img": true,
+                            "duplicate": false,
+                            "linkName": "Handout 11",
+                            "linkId": "PQSgPElJ42wIknOS",
+                            "pin": "23682944"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2500,
+                            "y": 4000
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Handout 17",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": 480,
+                            "ddbId": 12067,
+                            "bookCode": "toa",
+                            "slug": "player-handouts",
+                            "contentChunkId": null,
+                            "originDocId": "Wmh0UzIbsGFIJ0mZ",
+                            "originHint": "possibleHandouts",
+                            "originalLink": "./toa/ph17.png",
+                            "note": false,
+                            "img": true,
+                            "duplicate": false,
+                            "linkName": "Handout 17",
+                            "linkId": "2lFkNGFIfqqQomdK",
+                            "pin": "30723136"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3600,
+                            "y": 4600
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "tors-tomb-of-the-nine-gods.tor_tong_scenes",
+                "scene": "T7lUWcz4I5Nzcy6z"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 1 - Grimmash Walls"
+}

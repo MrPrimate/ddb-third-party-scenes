@@ -1,0 +1,1422 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "toa",
+            "foundryVersion": "9.249",
+            "tokens": [
+                {
+                    "_id": "ZTluF1YgfEUQTtoJ",
+                    "name": "Wraith",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 1700,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "ZF02Fdxa0aXZ0OC3",
+                                "xy": {
+                                    "x": 2208,
+                                    "y": 1104
+                                },
+                                "center": {
+                                    "x": 2242.5,
+                                    "y": 1138.5
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17064,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Wraith"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ghXsCVnhUPUBiHJX"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 63,
+                                    "max": 63
+                                }
+                            }
+                        },
+                        "name": "Wraith"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "9rNv8gm6wK9oheA7",
+                    "name": "Wraith",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2500,
+                    "y": 1600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "PYXJE8XS075lDdNQ",
+                                "xy": {
+                                    "x": 2415,
+                                    "y": 1035
+                                },
+                                "center": {
+                                    "x": 2449.5,
+                                    "y": 1069.5
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17064,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Wraith"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ghXsCVnhUPUBiHJX"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 65,
+                                    "max": 65
+                                }
+                            }
+                        },
+                        "name": "Wraith"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "96y3CN5sRJ3EzgKa",
+                    "name": "Wraith",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2400,
+                    "y": 1500,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "nexHDXj4RpFsJ7n9",
+                                "xy": {
+                                    "x": 2484,
+                                    "y": 1104
+                                },
+                                "center": {
+                                    "x": 2518.5,
+                                    "y": 1138.5
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17064,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Wraith"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ghXsCVnhUPUBiHJX"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 63,
+                                    "max": 63
+                                }
+                            }
+                        },
+                        "name": "Wraith"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ApxkCZTi8IZ4w7TG",
+                    "name": "Tomb Guardian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2622,
+                    "y": 1725,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 286174,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Tomb Guardian"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "a6j3dirns6S1Ss2k"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 102,
+                                    "max": 102
+                                }
+                            }
+                        },
+                        "name": "Tomb Guardian"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "TmmZjLji2TXRRR2f",
+                    "name": "Tomb Guardian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2622,
+                    "y": 1932,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 286174,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Tomb Guardian"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "a6j3dirns6S1Ss2k"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 91,
+                                    "max": 91
+                                }
+                            }
+                        },
+                        "name": "Tomb Guardian"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "cylYwKTafaJR0407",
+                    "name": "Belchorzh",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 1400,
+                    "y": 3400,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "4v83yPhuAqDHncu0",
+                                "xy": {
+                                    "x": 1725,
+                                    "y": 2415
+                                },
+                                "center": {
+                                    "x": 1794,
+                                    "y": 2484
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17099,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Beholder"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "NoPnBxdoLYNLV63D"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 210,
+                                    "max": 210
+                                }
+                            }
+                        },
+                        "name": "Beholder"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "S69yJdQK7M1mbUvz",
+                    "name": "Clay Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2300,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 16825,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Clay Golem"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "eERnuB3GNT443Mmp"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 138,
+                                    "max": 138
+                                }
+                            }
+                        },
+                        "name": "Clay Golem"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "CSd9TA6XgJVaL65p",
+                    "name": "Tomb Guardian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2277,
+                    "y": 2484,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 286174,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Tomb Guardian"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "a6j3dirns6S1Ss2k"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 95,
+                                    "max": 95
+                                }
+                            }
+                        },
+                        "name": "Tomb Guardian"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "29. Jackal Mask",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2042,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "ee2140b5-c86a-492a-89bd-2e503c5d7269",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "B9SZVyPfF9mQZA8s",
+                            "pin": "33811449"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3900,
+                            "y": 2050
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "30. Iron Barrier",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2046,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "69b381d0-f743-485f-be06-8cc6454290a4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "aTJhaKmWISBzXj5A",
+                            "pin": "31052484"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3400,
+                            "y": 3650
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "31. Reflected Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2065,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "3fb9533b-23d9-421d-967d-f1a1f9b9cd87",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "dDzYFOl1OQXriMik",
+                            "pin": "4174.51932"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4700,
+                            "y": 3000
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "32. Rotating Crawlways",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2080,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "9ecbd8b4-4cf2-4bc0-8082-94a346537810",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "SYt2hWQxjGWfkvCT",
+                            "pin": "46921449"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5800,
+                            "y": 1900
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "33. Chamber of Opposition",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2092,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "9e587f11-e514-4505-b202-b35511cd2032",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "icnsOxMDVF9hCw8I",
+                            "pin": "41401207.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5100,
+                            "y": 1950
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "34. Peephole",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2096,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "4f82fe19-e9f1-496f-a8d4-4d50ccf858bd",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "Cm2Ub2lcRTWTFOCF",
+                            "pin": "3967.51104"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4800,
+                            "y": 1550
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "36. Chamber of Respite",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2135,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "fa500c65-9b85-4dd3-b6db-e5be8ce497b9",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "RicxpLsVI65acT6D",
+                            "pin": "46922760"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5900,
+                            "y": 3950
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "37. Winds of Pandemonium",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2152,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "83bc4b60-b20f-424b-8646-8158dc882a69",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "MApgOgPfX7EZ1wm9",
+                            "pin": "35192898"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4000,
+                            "y": 4150
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "38. Revolving Room Trap",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2175,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "4af7d32b-7b19-4958-ac31-09af54e2dba8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "u1sQyR4XP3HZhYZF",
+                            "pin": "2242.52622"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2150,
+                            "y": 3850
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "39. Golem Pit",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2191,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "cfa4aa27-5b3b-421a-a7b3-5bd4d9b946a4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "uF3CrGJihjJgn54r",
+                            "pin": "22083105"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2150,
+                            "y": 4100
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "40. Curse of the Golden Skull",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2196,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "fb615a2b-304d-4625-a164-d4ed8f33f840",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "NvqYMxlryHDXSkow",
+                            "pin": "2311.52070"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2200,
+                            "y": 3050
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "41. Tomb Guardians",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2202,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "86e222f6-2bed-434f-9fe3-c67e7e4957d7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "DZUMSsbzXShrMjcs",
+                            "pin": "26911863"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2900,
+                            "y": 2750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "42. Kubazan’s Tomb",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2232,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "88f27586-bd9b-43c0-945f-8fd0276812a4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "ICdUpMowOi2y86Ad",
+                            "pin": "24841242"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2200,
+                            "y": 2150
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "43. Veils of Fear",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2247,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "622ff409-4ac1-41bf-a94d-097498f2a775",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "TMtoCx59SN2G5bv2",
+                            "pin": "20701863"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1900,
+                            "y": 2750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07C. Acererak’s Third Warning",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2252,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "804c4c13-078a-4423-8607-379ea9040e44",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "eoiFNBYhjg4bTdii",
+                            "pin": "3001.51621.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3400,
+                            "y": 2350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "31A. Hidden Alcoves",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2282,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "13386556-96d4-4458-96a6-5a3b8dbbce6f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "WyLFeNyVG12wqAB8",
+                            "pin": "4381.52311.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5350,
+                            "y": 3400
+                        },
+                        {
+                            "x": 5350,
+                            "y": 2700
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "31B. Curtain of Water",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2288,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "188e0a53-98ba-481c-8f8e-e0b873128a17",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "q1x6aLjLkpYoAuSq",
+                            "pin": "4105.52070"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5150,
+                            "y": 3000
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "35A. Stone Block",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2296,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "758b696d-928d-4717-87cf-8e34b355a70e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "WzArYC1Ac4mhhADC",
+                            "pin": "3760.51207.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4350,
+                            "y": 1800
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "35B. Tomb",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2301,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "12e503cd-c51c-4450-af09-003e09134f77",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "VtnD4mSWVv0Sd7Z9",
+                            "pin": "35191104"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3950,
+                            "y": 1700
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "38A. Control Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2328,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "1bbb1511-e04a-40ea-85b2-d7da64abfd2e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "MCHjV5qKUsA7sbzN",
+                            "pin": "2449.52449.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2300,
+                            "y": 3650
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "38B. Access Tunnel",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2333,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "c5dea7c6-d02a-49f7-a695-33601a8333b7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "q3wERVqbWLdWYEaR",
+                            "pin": "26912622"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2800,
+                            "y": 3800
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "38C. Revolving Drum",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2339,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "aa15510c-bb5b-4910-9fc9-7bf6a9f540d4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "jxmobvi8c56IMqbv",
+                            "pin": "2380.52691"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2200,
+                            "y": 3850
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Revolving Room Effects",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2343,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "882c7131-ed6c-4094-9e81-de83d9338419",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "5GZTuTnfasJSg7lg",
+                            "pin": "2242.52691"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2150,
+                            "y": 3900
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "44A. Eyes of the Beholder",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2347,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "ddd751bd-29f0-480f-8915-87d7c94e9f29",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "LE6Yj1WJ07AKqwez",
+                            "pin": "17252898"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1300,
+                            "y": 4250
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "44B. Inside the Vault",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2354,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "9bd51d2a-78f6-41b9-b690-a879a4e30f07",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "GxntO8jAEY5shHEn",
+                            "pin": "18632553"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1500,
+                            "y": 3750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Black Drape, Iron Sphere",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2363,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "2b5474d7-8bb9-4e93-94a8-439d3e550cf0",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "bFdaNmhv17GiPSFM",
+                            "pin": "16562346"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1200,
+                            "y": 3500
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Beholder Tactics",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2369,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level3VaultofReflection",
+                            "contentChunkId": "5199f457-4da3-4b8f-b0c9-055e97cdb457",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "qzcF0LMKsoQxtfIe",
+                            "pin": "16562553"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1300,
+                            "y": 3500
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Handout 19",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": 480,
+                            "ddbId": 12069,
+                            "bookCode": "toa",
+                            "slug": "player-handouts",
+                            "contentChunkId": null,
+                            "originDocId": "Wmh0UzIbsGFIJ0mZ",
+                            "originHint": "possibleHandouts",
+                            "originalLink": "./toa/ph19.png",
+                            "note": false,
+                            "img": true,
+                            "duplicate": false,
+                            "linkName": "Handout 19",
+                            "linkId": "YeYIUT2Ge7l7nZTb",
+                            "pin": "3070.51621.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3450,
+                            "y": 2350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "tors-tomb-of-the-nine-gods.tor_tong_scenes",
+                "scene": "qSV5vJGDgOg07Whb"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 3 - Grimmash Walls"
+}

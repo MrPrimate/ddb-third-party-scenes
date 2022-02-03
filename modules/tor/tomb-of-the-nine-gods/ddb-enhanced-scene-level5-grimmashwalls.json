@@ -1,0 +1,4206 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "toa",
+            "foundryVersion": "9.249",
+            "tokens": [
+                {
+                    "_id": "cylvj27goilfgwQv",
+                    "name": "Nycaloth",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 1200,
+                    "y": 1200,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "oEKjrJSYEvMpgrKp",
+                                "xy": {
+                                    "x": 1216,
+                                    "y": 1024
+                                },
+                                "center": {
+                                    "x": 1280,
+                                    "y": 1088
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17125,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Nycaloth"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "O7QejyFvFxzsxRLT"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 135,
+                                    "max": 135
+                                }
+                            }
+                        },
+                        "name": "Nycaloth"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "lggNLc7GWsHKZsUK",
+                    "name": "Pentadrone",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2700,
+                    "y": 800,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "FAMEMzbAozkEMG5u",
+                                "xy": {
+                                    "x": 1664,
+                                    "y": 832
+                                },
+                                "center": {
+                                    "x": 1728,
+                                    "y": 896
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17179,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Pentadrone"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "rWPlvggZ7S5EDJTX"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 34,
+                                    "max": 34
+                                }
+                            }
+                        },
+                        "name": "Pentadrone"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "FUxEWtpIYQxtXESR",
+                    "name": "Quadrone",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 700,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "aiFseP7wG5v30OI4",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 832
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 864
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ZgDBxmA1jAw0xDpi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 21,
+                                    "max": 21
+                                }
+                            }
+                        },
+                        "name": "Quadrone"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "zN2odgHDeB9fbONX",
+                    "name": "Quadrone",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2200,
+                    "y": 700,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "aiFseP7wG5v30OI4",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 832
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 864
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ZgDBxmA1jAw0xDpi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 29,
+                                    "max": 29
+                                }
+                            }
+                        },
+                        "name": "Quadrone"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "HokdDYbgZH9sITQg",
+                    "name": "Quadrone",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2300,
+                    "y": 700,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "aiFseP7wG5v30OI4",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 832
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 864
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ZgDBxmA1jAw0xDpi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 28,
+                                    "max": 28
+                                }
+                            }
+                        },
+                        "name": "Quadrone"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "oTTiAv3VqtDYj0UO",
+                    "name": "Quadrone",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2400,
+                    "y": 700,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "aiFseP7wG5v30OI4",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 832
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 864
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ZgDBxmA1jAw0xDpi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 28,
+                                    "max": 28
+                                }
+                            }
+                        },
+                        "name": "Quadrone"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "lh9x8e3Cq5kmQQdj",
+                    "name": "Quadrone",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 800,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "aiFseP7wG5v30OI4",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 832
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 864
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ZgDBxmA1jAw0xDpi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 22,
+                                    "max": 22
+                                }
+                            }
+                        },
+                        "name": "Quadrone"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "sZa9skD0UxzJWvVZ",
+                    "name": "Quadrone",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2200,
+                    "y": 800,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "aiFseP7wG5v30OI4",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 832
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 864
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ZgDBxmA1jAw0xDpi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 17,
+                                    "max": 17
+                                }
+                            }
+                        },
+                        "name": "Quadrone"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "DUQPsePcRHtxT1bP",
+                    "name": "Quadrone",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2400,
+                    "y": 800,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "aiFseP7wG5v30OI4",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 832
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 864
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ZgDBxmA1jAw0xDpi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 20,
+                                    "max": 20
+                                }
+                            }
+                        },
+                        "name": "Quadrone"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "LzpUOyXM8dVDOglc",
+                    "name": "Quadrone",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2300,
+                    "y": 800,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "aiFseP7wG5v30OI4",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 832
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 864
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ZgDBxmA1jAw0xDpi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 24,
+                                    "max": 24
+                                }
+                            }
+                        },
+                        "name": "Quadrone"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "oTiCUP7J9P75ix0B",
+                    "name": "Quadrone",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2500,
+                    "y": 800,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "aiFseP7wG5v30OI4",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 832
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 864
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17178,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Quadrone"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ZgDBxmA1jAw0xDpi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 20,
+                                    "max": 20
+                                }
+                            }
+                        },
+                        "name": "Quadrone"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "swZyHxRahWViEt5w",
+                    "name": "Shambling Mound",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3700,
+                    "y": 2800,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "7UCaZ29iZOij98Sl",
+                                "xy": {
+                                    "x": 2816,
+                                    "y": 2176
+                                },
+                                "center": {
+                                    "x": 2880,
+                                    "y": 2240
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17011,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Shambling Mound"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "nWFVZN7Fd1alsDug"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 131,
+                                    "max": 131
+                                }
+                            }
+                        },
+                        "name": "Shambling Mound"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "DcAsRJcqO9dCJye7",
+                    "name": "Shambling Mound",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3300,
+                    "y": 2800,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "rbc66UkbFBra4XU6",
+                                "xy": {
+                                    "x": 2560,
+                                    "y": 2048
+                                },
+                                "center": {
+                                    "x": 2624,
+                                    "y": 2112
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17011,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Shambling Mound"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "nWFVZN7Fd1alsDug"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 126,
+                                    "max": 126
+                                }
+                            }
+                        },
+                        "name": "Shambling Mound"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "79GQwscrrgwfYG5u",
+                    "name": "Shambling Mound",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3500,
+                    "y": 2500,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "6J4AICtWfeuL4p8a",
+                                "xy": {
+                                    "x": 2752,
+                                    "y": 1984
+                                },
+                                "center": {
+                                    "x": 2816,
+                                    "y": 2048
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17011,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Shambling Mound"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "nWFVZN7Fd1alsDug"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 123,
+                                    "max": 123
+                                }
+                            }
+                        },
+                        "name": "Shambling Mound"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "KdddDBuHu7VGqSox",
+                    "name": "Orc War Chief",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4200,
+                    "y": 1600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "55k6oFyG8KXLKeCJ",
+                                "xy": {
+                                    "x": 3200,
+                                    "y": 1536
+                                },
+                                "center": {
+                                    "x": 3232,
+                                    "y": 1568
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17187,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Orc War Chief"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "7SR7q9rWJsJ0ZykS"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 93,
+                                    "max": 93
+                                }
+                            }
+                        },
+                        "name": "Orc War Chief"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "t0b4dbhGk7KdsAY3",
+                    "name": "Orc",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4300,
+                    "y": 1700,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "vuRnn3KjYxlsKCL1",
+                                "xy": {
+                                    "x": 3200,
+                                    "y": 1408
+                                },
+                                "center": {
+                                    "x": 3232,
+                                    "y": 1440
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16972,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Orc"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "08mp4IqNtfYDso9Z"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 12,
+                                    "max": 12
+                                }
+                            }
+                        },
+                        "name": "Orc"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "RTaEaGMFKQa17MiS",
+                    "name": "Orc",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4400,
+                    "y": 1700,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "KXW65q4efKlevTa5",
+                                "xy": {
+                                    "x": 3264,
+                                    "y": 1408
+                                },
+                                "center": {
+                                    "x": 3296,
+                                    "y": 1440
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16972,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Orc"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "08mp4IqNtfYDso9Z"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 12,
+                                    "max": 12
+                                }
+                            }
+                        },
+                        "name": "Orc"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "Sh8Go0rYCw6amioN",
+                    "name": "Orc",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4500,
+                    "y": 1700,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "lfNIhKHDpThAn5BY",
+                                "xy": {
+                                    "x": 3328,
+                                    "y": 1408
+                                },
+                                "center": {
+                                    "x": 3360,
+                                    "y": 1440
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16972,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Orc"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "08mp4IqNtfYDso9Z"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 14,
+                                    "max": 14
+                                }
+                            }
+                        },
+                        "name": "Orc"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "H8epTYqLBitlt0qU",
+                    "name": "Orc",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4300,
+                    "y": 1600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "sGF7Aa7dzQTfdTFJ",
+                                "xy": {
+                                    "x": 3200,
+                                    "y": 1344
+                                },
+                                "center": {
+                                    "x": 3232,
+                                    "y": 1376
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16972,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Orc"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "08mp4IqNtfYDso9Z"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 15,
+                                    "max": 15
+                                }
+                            }
+                        },
+                        "name": "Orc"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "9mGniCSRcX558pT0",
+                    "name": "Orc",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4400,
+                    "y": 1600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "BS5hVqty55RP15fc",
+                                "xy": {
+                                    "x": 3264,
+                                    "y": 1344
+                                },
+                                "center": {
+                                    "x": 3296,
+                                    "y": 1376
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16972,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Orc"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "08mp4IqNtfYDso9Z"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 9,
+                                    "max": 9
+                                }
+                            }
+                        },
+                        "name": "Orc"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "d9RTvfC6QYc2XLod",
+                    "name": "Orc",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4500,
+                    "y": 1600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "BHAOo84vcvPruf9b",
+                                "xy": {
+                                    "x": 3328,
+                                    "y": 1344
+                                },
+                                "center": {
+                                    "x": 3360,
+                                    "y": 1376
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16972,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Orc"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "08mp4IqNtfYDso9Z"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 13,
+                                    "max": 13
+                                }
+                            }
+                        },
+                        "name": "Orc"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "SnFzKcNqf4vRPR5R",
+                    "name": "Orc",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4200,
+                    "y": 1700,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "9wDWTwDX9zthxHja",
+                                "xy": {
+                                    "x": 3136,
+                                    "y": 1408
+                                },
+                                "center": {
+                                    "x": 3168,
+                                    "y": 1440
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16972,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Orc"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "08mp4IqNtfYDso9Z"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 10,
+                                    "max": 10
+                                }
+                            }
+                        },
+                        "name": "Orc"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ikLzLu6ekgFmEWx6",
+                    "name": "Mezzoloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5000,
+                    "y": 2000,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "Tyqkx4fokNfQXTwk",
+                                "xy": {
+                                    "x": 3584,
+                                    "y": 1536
+                                },
+                                "center": {
+                                    "x": 3616,
+                                    "y": 1568
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17124,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Mezzoloth"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "riEp7uaEUm5mf75V"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 72,
+                                    "max": 72
+                                }
+                            }
+                        },
+                        "name": "Mezzoloth"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "vFSFMG3ySnEVY5KZ",
+                    "name": "Mezzoloth",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5100,
+                    "y": 2000,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "hHRZjppiDRaFMeA9",
+                                "xy": {
+                                    "x": 3648,
+                                    "y": 1536
+                                },
+                                "center": {
+                                    "x": 3680,
+                                    "y": 1568
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17124,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Mezzoloth"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "riEp7uaEUm5mf75V"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 83,
+                                    "max": 83
+                                }
+                            }
+                        },
+                        "name": "Mezzoloth"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "LyovsYKTZr4fezkj",
+                    "name": "Monodrone",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5100,
+                    "y": 2500,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "I0ERwWnlutZDJNIz",
+                                "xy": {
+                                    "x": 3712,
+                                    "y": 1856
+                                },
+                                "center": {
+                                    "x": 3744,
+                                    "y": 1888
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17176,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Monodrone"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "85LvyD6FdkEf2FRB"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 5,
+                                    "max": 5
+                                }
+                            }
+                        },
+                        "name": "Monodrone"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "QqGEaWfVNdK82zxP",
+                    "name": "Bone Devil",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 4500,
+                    "y": 2900,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "FszgLfjs8UWavlVo",
+                                "xy": {
+                                    "x": 3328,
+                                    "y": 2112
+                                },
+                                "center": {
+                                    "x": 3392,
+                                    "y": 2176
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16813,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Bone Devil"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "9RIqZCbUU6C1rFa0"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 121,
+                                    "max": 121
+                                }
+                            }
+                        },
+                        "name": "Bone Devil"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "HNdkhwKGm2uEe7Gu",
+                    "name": "Will-o'-Wisp",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.5,
+                    "x": 4000,
+                    "y": 2200,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "Q5OriQRZ9l3FbIxz",
+                                "xy": {
+                                    "x": 3072,
+                                    "y": 1792
+                                },
+                                "center": {
+                                    "x": 3104,
+                                    "y": 1824
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17060,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Will-o'-Wisp"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "Df4d9txKE5mIbvyL"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 24,
+                                    "max": 24
+                                }
+                            }
+                        },
+                        "name": "Will-o'-Wisp"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "saVt0n6RdSaAiRhY",
+                    "name": "Will-o'-Wisp",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.5,
+                    "x": 3900,
+                    "y": 2200,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "Q5OriQRZ9l3FbIxz",
+                                "xy": {
+                                    "x": 3072,
+                                    "y": 1792
+                                },
+                                "center": {
+                                    "x": 3104,
+                                    "y": 1824
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17060,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Will-o'-Wisp"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "Df4d9txKE5mIbvyL"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 24,
+                                    "max": 24
+                                }
+                            }
+                        },
+                        "name": "Will-o'-Wisp"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "2eZ2PEEM4ItTnGGM",
+                    "name": "Will-o'-Wisp",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.5,
+                    "x": 3900,
+                    "y": 2300,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "Q5OriQRZ9l3FbIxz",
+                                "xy": {
+                                    "x": 3072,
+                                    "y": 1792
+                                },
+                                "center": {
+                                    "x": 3104,
+                                    "y": 1824
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17060,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Will-o'-Wisp"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "Df4d9txKE5mIbvyL"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 27,
+                                    "max": 27
+                                }
+                            }
+                        },
+                        "name": "Will-o'-Wisp"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "qdWhFrhVV8eFglKc",
+                    "name": "Will-o'-Wisp",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.5,
+                    "x": 4000,
+                    "y": 2300,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "Q5OriQRZ9l3FbIxz",
+                                "xy": {
+                                    "x": 3072,
+                                    "y": 1792
+                                },
+                                "center": {
+                                    "x": 3104,
+                                    "y": 1824
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17060,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Will-o'-Wisp"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "Df4d9txKE5mIbvyL"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 26,
+                                    "max": 26
+                                }
+                            }
+                        },
+                        "name": "Will-o'-Wisp"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "8CPrub7urZH3noVe",
+                    "name": "Spined Devil",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 5800,
+                    "y": 4100,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "08n50rmfDLKmsSaC",
+                                "xy": {
+                                    "x": 4096,
+                                    "y": 2624
+                                },
+                                "center": {
+                                    "x": 4128,
+                                    "y": 2656
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17214,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Spined Devil"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "YSs09WHWcC24wXD4"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 25,
+                                    "max": 25
+                                }
+                            }
+                        },
+                        "name": "Spined Devil"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "C9EAaX3086WxFUUJ",
+                    "name": "Spined Devil",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 5900,
+                    "y": 4100,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "gkQ7iqSALJ32SfDl",
+                                "xy": {
+                                    "x": 4160,
+                                    "y": 2624
+                                },
+                                "center": {
+                                    "x": 4192,
+                                    "y": 2656
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17214,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Spined Devil"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "YSs09WHWcC24wXD4"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 21,
+                                    "max": 21
+                                }
+                            }
+                        },
+                        "name": "Spined Devil"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "5uaRIfwOSnhdTsLZ",
+                    "name": "Spined Devil",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 6100,
+                    "y": 4100,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "WtnjALMLxGuUXUUT",
+                                "xy": {
+                                    "x": 4224,
+                                    "y": 2624
+                                },
+                                "center": {
+                                    "x": 4256,
+                                    "y": 2656
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17214,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Spined Devil"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "YSs09WHWcC24wXD4"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 20,
+                                    "max": 20
+                                }
+                            }
+                        },
+                        "name": "Spined Devil"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "DUYn5oNkhfr2jyC5",
+                    "name": "Spined Devil",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 6000,
+                    "y": 4100,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "H7JwvZMAUHnoiouV",
+                                "xy": {
+                                    "x": 4288,
+                                    "y": 2624
+                                },
+                                "center": {
+                                    "x": 4320,
+                                    "y": 2656
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17214,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Spined Devil"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "YSs09WHWcC24wXD4"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 21,
+                                    "max": 21
+                                }
+                            }
+                        },
+                        "name": "Spined Devil"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "3R0ri6LCXD5NEREg",
+                    "name": "Bearded Devil",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5900,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null,
+                            "_version": 1
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "yUKSBiXmdSfFBE2V",
+                                "xy": {
+                                    "x": 4096,
+                                    "y": 2752
+                                },
+                                "center": {
+                                    "x": 4128,
+                                    "y": 2784
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16803,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Bearded Devil"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "aG1iL06fjhiu7zJE"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 59,
+                                    "max": 59
+                                }
+                            }
+                        },
+                        "name": "Bearded Devil"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "3E7BaJQ31KHSykyg",
+                    "name": "Bearded Devil",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 6000,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null,
+                            "_version": 1
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "LeQsTHZSlAvKxJbt",
+                                "xy": {
+                                    "x": 4160,
+                                    "y": 2752
+                                },
+                                "center": {
+                                    "x": 4192,
+                                    "y": 2784
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16803,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Bearded Devil"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "aG1iL06fjhiu7zJE"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 70,
+                                    "max": 70
+                                }
+                            }
+                        },
+                        "name": "Bearded Devil"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "4IsiCrBCVSW1tqL2",
+                    "name": "Bearded Devil",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5900,
+                    "y": 4300,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null,
+                            "_version": 1
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "qEHxeklgkNnqbG8R",
+                                "xy": {
+                                    "x": 4224,
+                                    "y": 2752
+                                },
+                                "center": {
+                                    "x": 4256,
+                                    "y": 2784
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16803,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Bearded Devil"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "aG1iL06fjhiu7zJE"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 52,
+                                    "max": 52
+                                }
+                            }
+                        },
+                        "name": "Bearded Devil"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "6oSiUTBHTxLsIudO",
+                    "name": "Barbed Devil",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5800,
+                    "y": 4300,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null,
+                            "_version": 1
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "OrgBr4KY3GS6M2Yh",
+                                "xy": {
+                                    "x": 4096,
+                                    "y": 2880
+                                },
+                                "center": {
+                                    "x": 4128,
+                                    "y": 2912
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16800,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Barbed Devil"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "WEWE8SpkQfb7o3Qg"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 102,
+                                    "max": 102
+                                }
+                            }
+                        },
+                        "name": "Barbed Devil"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "tlOxm0OLy56nY4Ev",
+                    "name": "Bearded Devil",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5800,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null,
+                            "_version": 1
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "A3Xg2cLqkFvB0amR",
+                                "xy": {
+                                    "x": 4160,
+                                    "y": 2880
+                                },
+                                "center": {
+                                    "x": 4192,
+                                    "y": 2912
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16803,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Bearded Devil"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "aG1iL06fjhiu7zJE"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 61,
+                                    "max": 61
+                                }
+                            }
+                        },
+                        "name": "Bearded Devil"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "xUUnI6NFhxQLJkMk",
+                    "name": "Horned Devil",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 6100,
+                    "y": 4300,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "9TyM3EMvcOSNxgLE",
+                                "xy": {
+                                    "x": 4288,
+                                    "y": 2880
+                                },
+                                "center": {
+                                    "x": 4352,
+                                    "y": 2944
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16927,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Horned Devil"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "3O8ZHPJODHU8AHNt"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 185,
+                                    "max": 185
+                                }
+                            }
+                        },
+                        "name": "Horned Devil"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "0XUia9y52HVxyBSC",
+                    "name": "Erinyes",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5800,
+                    "y": 4400,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "v87PzWQbWbxpx4VX",
+                                "xy": {
+                                    "x": 4096,
+                                    "y": 3008
+                                },
+                                "center": {
+                                    "x": 4128,
+                                    "y": 3040
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16858,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Erinyes"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "bQlrbB7AfXhbhW7W"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 148,
+                                    "max": 148
+                                }
+                            }
+                        },
+                        "name": "Erinyes"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "nGtvHHBNTvsIR2rx",
+                    "name": "Ch'gakare",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5800,
+                    "y": 4500,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17196,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Revenant"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "A0e0NgUHSfG666LU"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 134,
+                                    "max": 134
+                                }
+                            }
+                        },
+                        "name": "Revenant"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "cf67te3e5T9A9lYY",
+                    "name": "Stone Juggernaut",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 1728,
+                    "y": 3008,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 33254,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Stone Juggernaut"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "dttkaXp9Kl3O2Fht"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 170,
+                                    "max": 170
+                                }
+                            }
+                        },
+                        "name": "Stone Juggernaut"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "58. Cog of Rot",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2039,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "0d9c0f3f-0e7a-4e12-9dc8-6754d8e9f6b8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "o77fz2a3677dsAHT",
+                            "pin": "26881856"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3700,
+                            "y": 2750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "59. Cog of Acid",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2042,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "99334642-fbb9-4d85-893b-d29536694750",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "S7oJoTH9piw3lP62",
+                            "pin": "21121536"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2700,
+                            "y": 2500
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "60. Cog of Blood",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2068,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "76156e0c-8404-4855-b2f7-691950245c13",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "fNYyqn94S1mEloY6",
+                            "pin": "33921536"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4600,
+                            "y": 2350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "61. Control Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2095,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "5fa1e80c-f4ac-4368-afdf-d2c6c2e1842d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "t5hhQ9sY7dA5PwDt",
+                            "pin": "14081600"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1400,
+                            "y": 2450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "63. Gas-Filled Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "9259e6b6-41e1-48a2-8ec0-d10e2028ef22",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "yFyv0D5KAN6Cc3Pz",
+                            "pin": "27841536"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3600,
+                            "y": 2100
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "64. Base of the Waterfall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2134,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "bf35e061-381a-4a5a-854c-0a07cdba160d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "v7WpvstxClytyzCI",
+                            "pin": "43521088"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6400,
+                            "y": 1150
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "26. Spiral Staircase",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2136,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level2DungeonofDeception",
+                            "contentChunkId": "a9b2b606-e49a-4319-96d6-459de565a224",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "62myPUbaq4AuPLOF",
+                            "pin": "20162432"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2450,
+                            "y": 3350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "65. Underground Lake",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2143,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "2bda5d0c-2d21-4d6c-84df-181849c3f04e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "v9m9RSvMqX48LMW1",
+                            "pin": "40321792"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4500,
+                            "y": 3350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "66. Door of Devouring",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2163,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "8c53aaa0-829a-4810-9ce8-d9b4dfc135d3",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "MdZj7nWS3n8OSuiq",
+                            "pin": "21762336"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3000,
+                            "y": 3350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "67. Hall of the Golden Mastodon",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2196,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "4d2e39aa-6ee8-4b67-9057-39c3de43b13d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "HyVsIc3fHeUEnJLF",
+                            "pin": "40322752"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5600,
+                            "y": 3850
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "68. Hall of Decay",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2203,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "feaff231-025c-4adb-8d97-ca76d194d3d7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "QyGZr6y7Sle0lgb2",
+                            "pin": "26881088"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3550,
+                            "y": 1200
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "69. Mechanus Chain",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2223,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "9ade917a-661c-4f52-b361-940425db6c69",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "9SNvwmccC1BRkHaX",
+                            "pin": "1984960"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2400,
+                            "y": 1450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "70. Armillary Sphere",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2242,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "d3afb871-c1af-4d8a-a8cd-7d6121641020",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "rg48cu2x5bubqUTz",
+                            "pin": "1440992"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1600,
+                            "y": 1450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "62A. “Awaken Napaka!”",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2287,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "d7596a3d-e719-4c35-bbeb-f01e54b2d342",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "3Ke2r9hwGnYD5qV4",
+                            "pin": "25922976"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3200,
+                            "y": 4250
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "62B. Sloped Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2292,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "550da833-b511-4508-a1b2-1fe7e77e3a5d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "I1a8yNqDu5ZjQjZx",
+                            "pin": "23362976"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2850,
+                            "y": 4350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "62C. Broken Statue",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2297,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "38158ea1-b956-4a68-8ea7-adcd0c5ed849",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "t2CHDg6ZauSs27Hr",
+                            "pin": "29123168"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3750,
+                            "y": 4350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "62D. Secret Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2306,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "9d75afa4-6170-469d-a2d7-75e6231833f9",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "senjGBc0CQkfZeua",
+                            "pin": "16962976"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2050,
+                            "y": 4350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Handout 24",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": 480,
+                            "ddbId": 12074,
+                            "bookCode": "toa",
+                            "slug": "player-handouts",
+                            "contentChunkId": null,
+                            "originDocId": "Wmh0UzIbsGFIJ0mZ",
+                            "originHint": "possibleHandouts",
+                            "originalLink": "./toa/ph24.jpg",
+                            "note": false,
+                            "img": true,
+                            "duplicate": false,
+                            "linkName": "Handout 24",
+                            "linkId": "QOPJHoQZGmPiukq1",
+                            "pin": "15041600"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1650,
+                            "y": 2100
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "tors-tomb-of-the-nine-gods.tor_tong_scenes",
+                "scene": "YBpDX2lhX3NbUgSt"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 5 - Grimmash Walls"
+}

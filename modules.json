@@ -378,6 +378,78 @@
                     "book": "dit"
                 }
             ]
+        },
+        "modules/tor/tomb-of-the-nine-gods": {
+            "name": "Tor's Tomb of the Nine Gods (ToA)",
+            "description": "Tor's Tomb of the Nine Gods. Enhanced Scenes for Tomb of Annihilation. Install the module in foundry and support Tor /find out more <a href=\"https://www.patreon.com/posts/tomb-of-nine-new-59560381\">here</a>.",
+            "path": "modules/tor/tomb-of-the-nine-gods",
+            "module": "tors-tomb-of-the-nine-gods",
+            "released": false,
+            "books": [
+                "toa"
+            ],
+            "scenes": [
+                {
+                    "name": "Level 1 - Grimmash Walls",
+                    "description": "",
+                    "book": "toa"
+                },
+                {
+                    "name": "Level 1 - Tor Walls",
+                    "description": "",
+                    "book": "toa"
+                },
+                {
+                    "name": "Level 2 - Grimmash Walls",
+                    "description": "",
+                    "book": "toa"
+                },
+                {
+                    "name": "Level 2 - Tor Walls",
+                    "description": "",
+                    "book": "toa"
+                },
+                {
+                    "name": "Level 3 - Grimmash Walls",
+                    "description": "",
+                    "book": "toa"
+                },
+                {
+                    "name": "Level 3 - Tor Walls",
+                    "description": "",
+                    "book": "toa"
+                },
+                {
+                    "name": "Level 4 - Grimmash Walls",
+                    "description": "",
+                    "book": "toa"
+                },
+                {
+                    "name": "Level 4 - Tor Walls",
+                    "description": "",
+                    "book": "toa"
+                },
+                {
+                    "name": "Level 5 - Grimmash Walls",
+                    "description": "",
+                    "book": "toa"
+                },
+                {
+                    "name": "Level 5 - Tor Walls",
+                    "description": "",
+                    "book": "toa"
+                },
+                {
+                    "name": "Level 6 - Grimmash Walls",
+                    "description": "",
+                    "book": "toa"
+                },
+                {
+                    "name": "Level 6 - Tor Walls",
+                    "description": "",
+                    "book": "toa"
+                }
+            ]
         }
     }
 }

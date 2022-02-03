@@ -1,0 +1,2249 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "toa",
+            "foundryVersion": "9.249",
+            "tokens": [
+                {
+                    "_id": "9Iot0WcB3hvrUcgb",
+                    "name": "Night Hag",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3000,
+                    "y": 2000,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "TZzck5Mv984YpmA4",
+                                "xy": {
+                                    "x": 2240,
+                                    "y": 1344
+                                },
+                                "center": {
+                                    "x": 2272,
+                                    "y": 1376
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16965,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Night Hag"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "yzYZJVM3zlYoO9KM"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 118,
+                                    "max": 118
+                                }
+                            }
+                        },
+                        "name": "Night Hag"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "0hintIelqbnUzpAG",
+                    "name": "Peggy Deadbells",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3200,
+                    "y": 2100,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "G6YuY96xETNBClpT",
+                                "xy": {
+                                    "x": 2432,
+                                    "y": 1472
+                                },
+                                "center": {
+                                    "x": 2464,
+                                    "y": 1504
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16965,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Night Hag"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "yzYZJVM3zlYoO9KM"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 112,
+                                    "max": 112
+                                }
+                            }
+                        },
+                        "name": "Night Hag"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "yJtgP0b9xmNgHvzF",
+                    "name": "Baggy Nana",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3000,
+                    "y": 2300,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "PxRrxpyyVCRoAUBi",
+                                "xy": {
+                                    "x": 2240,
+                                    "y": 1664
+                                },
+                                "center": {
+                                    "x": 2272,
+                                    "y": 1696
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16965,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Night Hag"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "yzYZJVM3zlYoO9KM"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 138,
+                                    "max": 138
+                                }
+                            }
+                        },
+                        "name": "Night Hag"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "Mjqe9B9So922yIoy",
+                    "name": "Clone",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2900,
+                    "y": 2200,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "gwBptZfPgcWXzrdn",
+                                "xy": {
+                                    "x": 2214,
+                                    "y": 1434
+                                },
+                                "center": {
+                                    "x": 2246,
+                                    "y": 1466
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Commoner"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "6Fjj1TBOjBB4f3Gy"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 8,
+                                    "max": 8
+                                }
+                            }
+                        },
+                        "name": "Commoner"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "1YP4da2KjSsAtkwp",
+                    "name": "Dust Mephit",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3600,
+                    "y": 1400,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "dBsdmr8cTQw2SY2P",
+                                "xy": {
+                                    "x": 2688,
+                                    "y": 960
+                                },
+                                "center": {
+                                    "x": 2720,
+                                    "y": 992
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16851,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Dust Mephit"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "BJmtVfAUs9iqbm7M"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 13,
+                                    "max": 13
+                                }
+                            }
+                        },
+                        "name": "Dust Mephit"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "mWh0YFRHE1hoosuv",
+                    "name": "Mr. Threadneedle",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 2000,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17200,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Scarecrow"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "jX9HxOmpo9swusOR"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 46,
+                                    "max": 46
+                                }
+                            }
+                        },
+                        "name": "Scarecrow"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "hH94Yq4k5SHtrmBk",
+                    "name": "Wereboar",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2200,
+                    "y": 2600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "ohIB8JXutFTo78vd",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 1472
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 1504
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17054,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Wereboar"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "djalWRd1wbsHCdUd"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 94,
+                                    "max": 94
+                                }
+                            }
+                        },
+                        "name": "Wereboar"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "tttC1AhvLSh1ZRxi",
+                    "name": "Wereboar",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2300,
+                    "y": 2600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "2ax4ENuiaFCA3Av3",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 1536
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 1568
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17054,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Wereboar"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "djalWRd1wbsHCdUd"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 88,
+                                    "max": 88
+                                }
+                            }
+                        },
+                        "name": "Wereboar"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "dffLl0olYXiUnYua",
+                    "name": "Wereboar",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2400,
+                    "y": 2600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "avQ5J80FqEASsgff",
+                                "xy": {
+                                    "x": 1792,
+                                    "y": 1600
+                                },
+                                "center": {
+                                    "x": 1824,
+                                    "y": 1632
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17054,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Wereboar"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "djalWRd1wbsHCdUd"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 93,
+                                    "max": 93
+                                }
+                            }
+                        },
+                        "name": "Wereboar"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "CnCMhY21AkmwMFDV",
+                    "name": "Atropal",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 2900,
+                    "y": 3500,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "OuPKKVUSmoaECUIr",
+                                "xy": {
+                                    "x": 2304,
+                                    "y": 2496
+                                },
+                                "center": {
+                                    "x": 2400,
+                                    "y": 2592
+                                },
+                                "rotation": 0,
+                                "hidden": false,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 33015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Atropal"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "JoA8yAmS5410OMbE"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 226,
+                                    "max": 226
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "s4uADtQvQsWvsWOH",
+                    "name": "Acererak",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3000,
+                    "y": 4500,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "BptUr1xMjLsmM13r",
+                                "xy": {
+                                    "x": 2304,
+                                    "y": 2880
+                                },
+                                "center": {
+                                    "x": 2336,
+                                    "y": 2912
+                                },
+                                "rotation": 180,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 32961,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Acererak"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "u5ZwSCGdCEgg9xvn"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 272,
+                                    "max": 272
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "eos2ulnYHwIrylG5",
+                    "name": "Mr. Fox",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4200,
+                    "y": 2000,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17109,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Arcanaloth"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "r6wx1hSvmpKe7U3U"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 113,
+                                    "max": 113
+                                }
+                            }
+                        },
+                        "name": "Arcanaloth"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "3SR7dCGmaRoEKwjA",
+                    "name": "Zalder Faelrond",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 3000,
+                    "disposition": 1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "2HDj5tchDSLNwuqn",
+                                "xy": {
+                                    "x": 3584,
+                                    "y": 1984
+                                },
+                                "center": {
+                                    "x": 3616,
+                                    "y": 2016
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 16938,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Knight"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "7qOLZnAm3NhBD8X3"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 42,
+                                    "max": 42
+                                }
+                            }
+                        },
+                        "name": "Knight"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "cpZpGrrlXVCiJg15",
+                    "name": "Nothic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 3800,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17092,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Nothic"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "uV7NbJWNvhYBaNgN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 38,
+                                    "max": 38
+                                }
+                            }
+                        },
+                        "name": "Nothic"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "wCmhUErR77L6TRaT",
+                    "name": "Nothic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 3600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17092,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Nothic"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "uV7NbJWNvhYBaNgN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 54,
+                                    "max": 54
+                                }
+                            }
+                        },
+                        "name": "Nothic"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "TvWH51cb3VFQG57V",
+                    "name": "Nothic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 3400,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17092,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Nothic"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "uV7NbJWNvhYBaNgN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 41,
+                                    "max": 41
+                                }
+                            }
+                        },
+                        "name": "Nothic"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "JIpaV3jXcnKBzO4n",
+                    "name": "Nothic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 3200,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17092,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Nothic"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "uV7NbJWNvhYBaNgN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 52,
+                                    "max": 52
+                                }
+                            }
+                        },
+                        "name": "Nothic"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "FBifmLBBr9TLgfnj",
+                    "name": "Nothic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5400,
+                    "y": 3200,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17092,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Nothic"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "uV7NbJWNvhYBaNgN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 36,
+                                    "max": 36
+                                }
+                            }
+                        },
+                        "name": "Nothic"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "tLBU4otYeCVHI7Aq",
+                    "name": "Nothic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5400,
+                    "y": 3400,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17092,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Nothic"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "uV7NbJWNvhYBaNgN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 40,
+                                    "max": 40
+                                }
+                            }
+                        },
+                        "name": "Nothic"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "1t43PSVHt9idpdjq",
+                    "name": "Nothic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5400,
+                    "y": 3600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17092,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Nothic"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "uV7NbJWNvhYBaNgN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 38,
+                                    "max": 38
+                                }
+                            }
+                        },
+                        "name": "Nothic"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "VQ7pBTfGflVDcIpB",
+                    "name": "Nothic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 5400,
+                    "y": 3900,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 17092,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Nothic"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "uV7NbJWNvhYBaNgN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 50,
+                                    "max": 50
+                                }
+                            }
+                        },
+                        "name": "Nothic"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "pBkkWCAVfhILRmWw",
+                    "name": "Enormous Tentacle",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 3100,
+                    "y": 3800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 360895,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Enormous Tentacle"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "qJTGd7grwS82hvtN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 30,
+                                    "max": 30
+                                }
+                            }
+                        },
+                        "name": "Enormous Tentacle"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "fSuvQBRL18xGznEY",
+                    "name": "Enormous Tentacle",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 2600,
+                    "y": 3300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 360895,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Enormous Tentacle"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "qJTGd7grwS82hvtN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 30,
+                                    "max": 30
+                                }
+                            }
+                        },
+                        "name": "Enormous Tentacle"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "MG0qWtpVH7ZWVIrt",
+                    "name": "Enormous Tentacle",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 2800,
+                    "y": 3800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 360895,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Enormous Tentacle"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "qJTGd7grwS82hvtN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 30,
+                                    "max": 30
+                                }
+                            }
+                        },
+                        "name": "Enormous Tentacle"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "iL7hzvNmfXCze4LC",
+                    "name": "Enormous Tentacle",
+                    "width": 3,
+                    "height": 3,
+                    "scale": 1,
+                    "x": 3300,
+                    "y": 3300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 360895,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Enormous Tentacle"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "qJTGd7grwS82hvtN"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 30,
+                                    "max": 30
+                                }
+                            }
+                        },
+                        "name": "Enormous Tentacle"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "71. Lair of the Sewn Sisters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2074,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level6CradleoftheDeathGod",
+                            "contentChunkId": "17620e43-e330-4426-b00e-9cae7fa6875b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "pusuPVOpLOfyLPIP",
+                            "pin": "23681408"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3200,
+                            "y": 2250
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "72. Trial of the Triangle",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2080,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level6CradleoftheDeathGod",
+                            "contentChunkId": "9d24092c-6c03-4d34-babf-4395656440a4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "rfnBgbJ69Izs0dBj",
+                            "pin": "20801024"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2700,
+                            "y": 1650
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "73. Trial of the Square",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2093,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level6CradleoftheDeathGod",
+                            "contentChunkId": "a6eea13c-63ca-43c8-b57e-08e152ffe393",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "Bfnpsb2XEciH68a8",
+                            "pin": "2720896"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3700,
+                            "y": 1450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "74. Trial of the Pentagon",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2112,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level6CradleoftheDeathGod",
+                            "contentChunkId": "0c651b5a-8656-4272-a32b-72fe468f82b6",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "By76KpcxkXeHFgX8",
+                            "pin": "17601280"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2300,
+                            "y": 2050
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "75. Trial of the Hexagon",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2123,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level6CradleoftheDeathGod",
+                            "contentChunkId": "dc565da7-133b-4a5b-9b39-b0fe9f1c4ca4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "wAuRTEpyaU8eP9d8",
+                            "pin": "19521472"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2550,
+                            "y": 2300
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "76. Trial of the Octagon",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2137,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level6CradleoftheDeathGod",
+                            "contentChunkId": "6748e776-3df9-4491-85ad-494b40aff2d9",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "py8ipY9mOecVlAeX",
+                            "pin": "27841472"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3650,
+                            "y": 2400
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "77. Death God’s Nursery",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2182,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level6CradleoftheDeathGod",
+                            "contentChunkId": "95121188-7d58-43ab-be6a-cb347ea88d4c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "7UzK9MJAi7yG9PdC",
+                            "pin": "20162048"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3250,
+                            "y": 3500
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "78. Chapel of Hate",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2198,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level6CradleoftheDeathGod",
+                            "contentChunkId": "4ff5d3ae-776f-4cf9-979d-2507737da3ce",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "4UOdnzIASGmIOLgW",
+                            "pin": "36482304"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5150,
+                            "y": 3500
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "79. Hall of Finality",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2216,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level6CradleoftheDeathGod",
+                            "contentChunkId": "70c677ec-6905-4a3b-a1a1-60de8b5a8a9f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "Km2mWNqhsDt3cvFY",
+                            "pin": "37761888"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5150,
+                            "y": 2700
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "80. Red Library",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2229,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level6CradleoftheDeathGod",
+                            "contentChunkId": "879d4598-914b-4a83-bf72-8549d7d3dd57",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "dD25PCd7FXz2n1Lh",
+                            "pin": "31361536"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4450,
+                            "y": 2400
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "81. Ebon Pool",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2237,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level6CradleoftheDeathGod",
+                            "contentChunkId": "2812d92c-619d-414c-b722-14f53f324f66",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "UW2v7xOZl1RUZjBY",
+                            "pin": "40001632"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5550,
+                            "y": 2600
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ]
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "tors-tomb-of-the-nine-gods.tor_tong_scenes",
+                "scene": "Z8j10rbCmhonCDGa"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Level 6 - Tor Walls"
+}
