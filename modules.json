@@ -450,6 +450,23 @@
                     "book": "toa"
                 }
             ]
+        },
+        "modules/pariah-zero/toh-under-construction": {
+            "name": "Pariah Zero: The Tomb of Horrors (Under Construction)",
+            "description": "Pariah Zero: The Tomb of Horrors (Under Construction): Install the module by pasting the link <a href=\"https://www.pariahzero.net/VTT/tomb-of-horrors-under-construction/module.json\">here</a>.",
+            "path": "modules/pariah-zero/toh-under-construction",
+            "module": "toh-under-construction",
+            "released": false,
+            "books": [
+                "imr"
+            ],
+            "scenes": [
+                {
+                    "name": "Tomb of Horrors - Under Construction",
+                    "description": "Tomb of Horrors (Under Constructon): Acererak built a number of dungeons and tombs, including the Tomb of Horrors.\n\nThe tomb wasn't always a great monument to Acererak's infamy, for all stories have a beginning. While under construction, the Tomb of Horrors was a different kind of place.\n\nTomb of Horrors (Under Construction) is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.",
+                    "book": "imr"
+                }
+            ]
         }
     }
 }
