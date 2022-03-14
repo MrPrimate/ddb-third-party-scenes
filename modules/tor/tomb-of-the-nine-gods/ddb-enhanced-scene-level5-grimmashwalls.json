@@ -3,6 +3,498 @@
         "ddb": {
             "bookCode": "toa",
             "foundryVersion": "9.249",
+            "notes": [
+                {
+                    "label": "58. Cog of Rot",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2039,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "0d9c0f3f-0e7a-4e12-9dc8-6754d8e9f6b8",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "o77fz2a3677dsAHT",
+                            "pin": "26881856"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3700,
+                            "y": 2750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "59. Cog of Acid",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2042,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "99334642-fbb9-4d85-893b-d29536694750",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "S7oJoTH9piw3lP62",
+                            "pin": "21121536"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2700,
+                            "y": 2500
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "60. Cog of Blood",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2068,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "76156e0c-8404-4855-b2f7-691950245c13",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "fNYyqn94S1mEloY6",
+                            "pin": "33921536"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4600,
+                            "y": 2350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "61. Control Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2095,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "5fa1e80c-f4ac-4368-afdf-d2c6c2e1842d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "t5hhQ9sY7dA5PwDt",
+                            "pin": "14081600"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1400,
+                            "y": 2450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "63. Gas-Filled Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "9259e6b6-41e1-48a2-8ec0-d10e2028ef22",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "yFyv0D5KAN6Cc3Pz",
+                            "pin": "27841536"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3600,
+                            "y": 2100
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "64. Base of the Waterfall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2134,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "bf35e061-381a-4a5a-854c-0a07cdba160d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "v7WpvstxClytyzCI",
+                            "pin": "43521088"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6400,
+                            "y": 1150
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "26. Spiral Staircase",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2136,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level2DungeonofDeception",
+                            "contentChunkId": "a9b2b606-e49a-4319-96d6-459de565a224",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "62myPUbaq4AuPLOF",
+                            "pin": "20162432"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2450,
+                            "y": 3350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "65. Underground Lake",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2143,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "2bda5d0c-2d21-4d6c-84df-181849c3f04e",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "v9m9RSvMqX48LMW1",
+                            "pin": "40321792"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4500,
+                            "y": 3350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "66. Door of Devouring",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2163,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "8c53aaa0-829a-4810-9ce8-d9b4dfc135d3",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "MdZj7nWS3n8OSuiq",
+                            "pin": "21762336"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3000,
+                            "y": 3350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "67. Hall of the Golden Mastodon",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2196,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "4d2e39aa-6ee8-4b67-9057-39c3de43b13d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "HyVsIc3fHeUEnJLF",
+                            "pin": "40322752"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5600,
+                            "y": 3850
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "68. Hall of Decay",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2203,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "feaff231-025c-4adb-8d97-ca76d194d3d7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "QyGZr6y7Sle0lgb2",
+                            "pin": "26881088"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3550,
+                            "y": 1200
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "69. Mechanus Chain",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2223,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "9ade917a-661c-4f52-b361-940425db6c69",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "9SNvwmccC1BRkHaX",
+                            "pin": "1984960"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2400,
+                            "y": 1450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "70. Armillary Sphere",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2242,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "d3afb871-c1af-4d8a-a8cd-7d6121641020",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "rg48cu2x5bubqUTz",
+                            "pin": "1440992"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1600,
+                            "y": 1450
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "62A. “Awaken Napaka!”",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2287,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "d7596a3d-e719-4c35-bbeb-f01e54b2d342",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "3Ke2r9hwGnYD5qV4",
+                            "pin": "25922976"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3200,
+                            "y": 4250
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "62B. Sloped Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2292,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "550da833-b511-4508-a1b2-1fe7e77e3a5d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "I1a8yNqDu5ZjQjZx",
+                            "pin": "23362976"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2850,
+                            "y": 4350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "62C. Broken Statue",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2297,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "38158ea1-b956-4a68-8ea7-adcd0c5ed849",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "t2CHDg6ZauSs27Hr",
+                            "pin": "29123168"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3750,
+                            "y": 4350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "62D. Secret Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2306,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
+                            "contentChunkId": "9d75afa4-6170-469d-a2d7-75e6231833f9",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "senjGBc0CQkfZeua",
+                            "pin": "16962976"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2050,
+                            "y": 4350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Handout 24",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 12051,
+                            "bookCode": "toa",
+                            "slug": "monsters-and-npcs#MonstersJL",
+                            "contentChunkId": null,
+                            "originDocId": "PqHzZGpwt5HS0oT0",
+                            "originHint": "possibleHandouts",
+                            "originalLink": "./toa/636988751903431559.jpeg",
+                            "note": false,
+                            "img": true,
+                            "duplicate": false,
+                            "linkName": "Handout 24",
+                            "parentId": 479,
+                            "linkId": "7OSyE2mW5yrs3wO2"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1650,
+                            "y": 2100
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ],
             "tokens": [
                 {
                     "_id": "cylvj27goilfgwQv",
@@ -3636,8 +4128,8 @@
                     "width": 2,
                     "height": 2,
                     "scale": 1,
-                    "x": 1728,
-                    "y": 3008,
+                    "x": 1900,
+                    "y": 4300,
                     "disposition": -1,
                     "flags": {
                         "ddbActorFlags": {
@@ -3692,500 +4184,59 @@
                             "max": 1
                         }
                     }
+                },
+                {
+                    "_id": "Ngc4EzvRaGdmBHpJ",
+                    "name": "Aboleth",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 4500,
+                    "y": 3300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16762,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Aboleth"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
                 }
             ],
-            "notes": [
-                {
-                    "label": "58. Cog of Rot",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2039,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "0d9c0f3f-0e7a-4e12-9dc8-6754d8e9f6b8",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "o77fz2a3677dsAHT",
-                            "pin": "26881856"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 3700,
-                            "y": 2750
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "59. Cog of Acid",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2042,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "99334642-fbb9-4d85-893b-d29536694750",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "S7oJoTH9piw3lP62",
-                            "pin": "21121536"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 2700,
-                            "y": 2500
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "60. Cog of Blood",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2068,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "76156e0c-8404-4855-b2f7-691950245c13",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "fNYyqn94S1mEloY6",
-                            "pin": "33921536"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 4600,
-                            "y": 2350
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "61. Control Room",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2095,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "5fa1e80c-f4ac-4368-afdf-d2c6c2e1842d",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "t5hhQ9sY7dA5PwDt",
-                            "pin": "14081600"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 1400,
-                            "y": 2450
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "63. Gas-Filled Room",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2130,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "9259e6b6-41e1-48a2-8ec0-d10e2028ef22",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "yFyv0D5KAN6Cc3Pz",
-                            "pin": "27841536"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 3600,
-                            "y": 2100
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "64. Base of the Waterfall",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2134,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "bf35e061-381a-4a5a-854c-0a07cdba160d",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "v7WpvstxClytyzCI",
-                            "pin": "43521088"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 6400,
-                            "y": 1150
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "26. Spiral Staircase",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2136,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level2DungeonofDeception",
-                            "contentChunkId": "a9b2b606-e49a-4319-96d6-459de565a224",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "62myPUbaq4AuPLOF",
-                            "pin": "20162432"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 2450,
-                            "y": 3350
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "65. Underground Lake",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2143,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "2bda5d0c-2d21-4d6c-84df-181849c3f04e",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "v9m9RSvMqX48LMW1",
-                            "pin": "40321792"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 4500,
-                            "y": 3350
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "66. Door of Devouring",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2163,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "8c53aaa0-829a-4810-9ce8-d9b4dfc135d3",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "MdZj7nWS3n8OSuiq",
-                            "pin": "21762336"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 3000,
-                            "y": 3350
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "67. Hall of the Golden Mastodon",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2196,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "4d2e39aa-6ee8-4b67-9057-39c3de43b13d",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "HyVsIc3fHeUEnJLF",
-                            "pin": "40322752"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 5600,
-                            "y": 3850
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "68. Hall of Decay",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2203,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "feaff231-025c-4adb-8d97-ca76d194d3d7",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "QyGZr6y7Sle0lgb2",
-                            "pin": "26881088"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 3550,
-                            "y": 1200
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "69. Mechanus Chain",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2223,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "9ade917a-661c-4f52-b361-940425db6c69",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "9SNvwmccC1BRkHaX",
-                            "pin": "1984960"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 2400,
-                            "y": 1450
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "70. Armillary Sphere",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2242,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "d3afb871-c1af-4d8a-a8cd-7d6121641020",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "rg48cu2x5bubqUTz",
-                            "pin": "1440992"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 1600,
-                            "y": 1450
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "62A. “Awaken Napaka!”",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2287,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "d7596a3d-e719-4c35-bbeb-f01e54b2d342",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "3Ke2r9hwGnYD5qV4",
-                            "pin": "25922976"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 3200,
-                            "y": 4250
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "62B. Sloped Hall",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2292,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "550da833-b511-4508-a1b2-1fe7e77e3a5d",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "I1a8yNqDu5ZjQjZx",
-                            "pin": "23362976"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 2850,
-                            "y": 4350
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "62C. Broken Statue",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2297,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "38158ea1-b956-4a68-8ea7-adcd0c5ed849",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "t2CHDg6ZauSs27Hr",
-                            "pin": "29123168"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 3750,
-                            "y": 4350
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "62D. Secret Room",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2306,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level5GearsofHate",
-                            "contentChunkId": "9d75afa4-6170-469d-a2d7-75e6231833f9",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "senjGBc0CQkfZeua",
-                            "pin": "16962976"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 2050,
-                            "y": 4350
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "Handout 24",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": 480,
-                            "ddbId": 12074,
-                            "bookCode": "toa",
-                            "slug": "player-handouts",
-                            "contentChunkId": null,
-                            "originDocId": "Wmh0UzIbsGFIJ0mZ",
-                            "originHint": "possibleHandouts",
-                            "originalLink": "./toa/ph24.jpg",
-                            "note": false,
-                            "img": true,
-                            "duplicate": false,
-                            "linkName": "Handout 24",
-                            "linkId": "QOPJHoQZGmPiukq1",
-                            "pin": "15041600"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 1650,
-                            "y": 2100
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                }
-            ]
+            "img": "assets/maps/005 level 5 gears of hate - all off water - v2.jpg"
         },
         "ddbimporter": {
             "export": {

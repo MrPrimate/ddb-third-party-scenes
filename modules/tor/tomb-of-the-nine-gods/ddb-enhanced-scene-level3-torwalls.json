@@ -3,639 +3,6 @@
         "ddb": {
             "bookCode": "toa",
             "foundryVersion": "9.249",
-            "tokens": [
-                {
-                    "_id": "K0qQ4z17fRxwVOXE",
-                    "name": "Wraith",
-                    "width": 1,
-                    "height": 1,
-                    "scale": 1,
-                    "x": 2100,
-                    "y": 1700,
-                    "disposition": -1,
-                    "flags": {
-                        "token-hud-wildcard": {
-                            "default": ""
-                        },
-                        "perfect-vision": {
-                            "visionRules": "default",
-                            "monoVisionColor": "",
-                            "sightLimit": null
-                        },
-                        "token-z": {
-                            "zIndex": 0
-                        },
-                        "token-attacher": {
-                            "pos": {
-                                "base_id": "ZF02Fdxa0aXZ0OC3",
-                                "xy": {
-                                    "x": 2208,
-                                    "y": 1104
-                                },
-                                "center": {
-                                    "x": 2242.5,
-                                    "y": 1138.5
-                                },
-                                "rotation": 0,
-                                "hidden": true,
-                                "elevation": 0
-                            }
-                        },
-                        "ddbActorFlags": {
-                            "id": 17064,
-                            "entityTypeId": 779871897,
-                            "creatureGroup": null,
-                            "creatureFlags": [],
-                            "version": "999.0.0",
-                            "flatAC": true,
-                            "name": "Wraith"
-                        },
-                        "actorFolderId": "KMH2H26UltcUF86w",
-                        "compendiumActorId": "ghXsCVnhUPUBiHJX"
-                    },
-                    "actorLink": false,
-                    "bar1": {
-                        "attribute": "attributes.hp"
-                    },
-                    "effects": [],
-                    "elevation": 0,
-                    "hidden": true,
-                    "tint": null,
-                    "actorData": {
-                        "data": {
-                            "attributes": {
-                                "hp": {
-                                    "value": 63,
-                                    "max": 63
-                                }
-                            }
-                        },
-                        "name": "Wraith"
-                    },
-                    "light": {
-                        "alpha": 0.5,
-                        "angle": 0,
-                        "bright": 0,
-                        "coloration": 1,
-                        "dim": 0,
-                        "gradual": true,
-                        "luminosity": 0.5,
-                        "saturation": 0,
-                        "contrast": 0,
-                        "shadows": 0,
-                        "animation": {
-                            "speed": 5,
-                            "intensity": 5,
-                            "reverse": false
-                        },
-                        "darkness": {
-                            "min": 0,
-                            "max": 1
-                        }
-                    }
-                },
-                {
-                    "_id": "JRYToGQYUD7E5DDW",
-                    "name": "Wraith",
-                    "width": 1,
-                    "height": 1,
-                    "scale": 1,
-                    "x": 2500,
-                    "y": 1600,
-                    "disposition": -1,
-                    "flags": {
-                        "token-hud-wildcard": {
-                            "default": ""
-                        },
-                        "perfect-vision": {
-                            "visionRules": "default",
-                            "monoVisionColor": "",
-                            "sightLimit": null
-                        },
-                        "token-z": {
-                            "zIndex": 0
-                        },
-                        "token-attacher": {
-                            "pos": {
-                                "base_id": "PYXJE8XS075lDdNQ",
-                                "xy": {
-                                    "x": 2415,
-                                    "y": 1035
-                                },
-                                "center": {
-                                    "x": 2449.5,
-                                    "y": 1069.5
-                                },
-                                "rotation": 0,
-                                "hidden": true,
-                                "elevation": 0
-                            }
-                        },
-                        "ddbActorFlags": {
-                            "id": 17064,
-                            "entityTypeId": 779871897,
-                            "creatureGroup": null,
-                            "creatureFlags": [],
-                            "version": "999.0.0",
-                            "flatAC": true,
-                            "name": "Wraith"
-                        },
-                        "actorFolderId": "KMH2H26UltcUF86w",
-                        "compendiumActorId": "ghXsCVnhUPUBiHJX"
-                    },
-                    "actorLink": false,
-                    "bar1": {
-                        "attribute": "attributes.hp"
-                    },
-                    "effects": [],
-                    "elevation": 0,
-                    "hidden": true,
-                    "tint": null,
-                    "actorData": {
-                        "data": {
-                            "attributes": {
-                                "hp": {
-                                    "value": 65,
-                                    "max": 65
-                                }
-                            }
-                        },
-                        "name": "Wraith"
-                    },
-                    "light": {
-                        "alpha": 0.5,
-                        "angle": 0,
-                        "bright": 0,
-                        "coloration": 1,
-                        "dim": 0,
-                        "gradual": true,
-                        "luminosity": 0.5,
-                        "saturation": 0,
-                        "contrast": 0,
-                        "shadows": 0,
-                        "animation": {
-                            "speed": 5,
-                            "intensity": 5,
-                            "reverse": false
-                        },
-                        "darkness": {
-                            "min": 0,
-                            "max": 1
-                        }
-                    }
-                },
-                {
-                    "_id": "hgLLx295yOqkMURL",
-                    "name": "Wraith",
-                    "width": 1,
-                    "height": 1,
-                    "scale": 1,
-                    "x": 2400,
-                    "y": 1500,
-                    "disposition": -1,
-                    "flags": {
-                        "token-hud-wildcard": {
-                            "default": ""
-                        },
-                        "perfect-vision": {
-                            "visionRules": "default",
-                            "monoVisionColor": "",
-                            "sightLimit": null
-                        },
-                        "token-z": {
-                            "zIndex": 0
-                        },
-                        "token-attacher": {
-                            "pos": {
-                                "base_id": "nexHDXj4RpFsJ7n9",
-                                "xy": {
-                                    "x": 2484,
-                                    "y": 1104
-                                },
-                                "center": {
-                                    "x": 2518.5,
-                                    "y": 1138.5
-                                },
-                                "rotation": 0,
-                                "hidden": true,
-                                "elevation": 0
-                            }
-                        },
-                        "ddbActorFlags": {
-                            "id": 17064,
-                            "entityTypeId": 779871897,
-                            "creatureGroup": null,
-                            "creatureFlags": [],
-                            "version": "999.0.0",
-                            "flatAC": true,
-                            "name": "Wraith"
-                        },
-                        "actorFolderId": "KMH2H26UltcUF86w",
-                        "compendiumActorId": "ghXsCVnhUPUBiHJX"
-                    },
-                    "actorLink": false,
-                    "bar1": {
-                        "attribute": "attributes.hp"
-                    },
-                    "effects": [],
-                    "elevation": 0,
-                    "hidden": true,
-                    "tint": null,
-                    "actorData": {
-                        "data": {
-                            "attributes": {
-                                "hp": {
-                                    "value": 63,
-                                    "max": 63
-                                }
-                            }
-                        },
-                        "name": "Wraith"
-                    },
-                    "light": {
-                        "alpha": 0.5,
-                        "angle": 0,
-                        "bright": 0,
-                        "coloration": 1,
-                        "dim": 0,
-                        "gradual": true,
-                        "luminosity": 0.5,
-                        "saturation": 0,
-                        "contrast": 0,
-                        "shadows": 0,
-                        "animation": {
-                            "speed": 5,
-                            "intensity": 5,
-                            "reverse": false
-                        },
-                        "darkness": {
-                            "min": 0,
-                            "max": 1
-                        }
-                    }
-                },
-                {
-                    "_id": "39PWPEVkhhPIjcbb",
-                    "name": "Tomb Guardian",
-                    "width": 1,
-                    "height": 1,
-                    "scale": 1,
-                    "x": 2622,
-                    "y": 1725,
-                    "disposition": -1,
-                    "flags": {
-                        "token-hud-wildcard": {
-                            "default": ""
-                        },
-                        "token-z": {
-                            "zIndex": 0
-                        },
-                        "ddbActorFlags": {
-                            "id": 286174,
-                            "entityTypeId": 779871897,
-                            "creatureGroup": null,
-                            "creatureFlags": [],
-                            "version": "999.0.0",
-                            "flatAC": true,
-                            "name": "Tomb Guardian"
-                        },
-                        "actorFolderId": "KMH2H26UltcUF86w",
-                        "compendiumActorId": "a6j3dirns6S1Ss2k"
-                    },
-                    "actorLink": false,
-                    "bar1": {
-                        "attribute": "attributes.hp"
-                    },
-                    "effects": [],
-                    "elevation": 0,
-                    "hidden": false,
-                    "tint": null,
-                    "actorData": {
-                        "data": {
-                            "attributes": {
-                                "hp": {
-                                    "value": 102,
-                                    "max": 102
-                                }
-                            }
-                        },
-                        "name": "Tomb Guardian"
-                    },
-                    "light": {
-                        "alpha": 0.5,
-                        "angle": 0,
-                        "bright": 0,
-                        "coloration": 1,
-                        "dim": 0,
-                        "gradual": true,
-                        "luminosity": 0.5,
-                        "saturation": 0,
-                        "contrast": 0,
-                        "shadows": 0,
-                        "animation": {
-                            "speed": 5,
-                            "intensity": 5,
-                            "reverse": false
-                        },
-                        "darkness": {
-                            "min": 0,
-                            "max": 1
-                        }
-                    }
-                },
-                {
-                    "_id": "VYyZYSJoPdIRMSn5",
-                    "name": "Tomb Guardian",
-                    "width": 1,
-                    "height": 1,
-                    "scale": 1,
-                    "x": 2622,
-                    "y": 1932,
-                    "disposition": -1,
-                    "flags": {
-                        "token-hud-wildcard": {
-                            "default": ""
-                        },
-                        "token-z": {
-                            "zIndex": 0
-                        },
-                        "ddbActorFlags": {
-                            "id": 286174,
-                            "entityTypeId": 779871897,
-                            "creatureGroup": null,
-                            "creatureFlags": [],
-                            "version": "999.0.0",
-                            "flatAC": true,
-                            "name": "Tomb Guardian"
-                        },
-                        "actorFolderId": "KMH2H26UltcUF86w",
-                        "compendiumActorId": "a6j3dirns6S1Ss2k"
-                    },
-                    "actorLink": false,
-                    "bar1": {
-                        "attribute": "attributes.hp"
-                    },
-                    "effects": [],
-                    "elevation": 0,
-                    "hidden": false,
-                    "tint": null,
-                    "actorData": {
-                        "data": {
-                            "attributes": {
-                                "hp": {
-                                    "value": 91,
-                                    "max": 91
-                                }
-                            }
-                        },
-                        "name": "Tomb Guardian"
-                    },
-                    "light": {
-                        "alpha": 0.5,
-                        "angle": 0,
-                        "bright": 0,
-                        "coloration": 1,
-                        "dim": 0,
-                        "gradual": true,
-                        "luminosity": 0.5,
-                        "saturation": 0,
-                        "contrast": 0,
-                        "shadows": 0,
-                        "animation": {
-                            "speed": 5,
-                            "intensity": 5,
-                            "reverse": false
-                        },
-                        "darkness": {
-                            "min": 0,
-                            "max": 1
-                        }
-                    }
-                },
-                {
-                    "_id": "gQj1Ypj8hwH5rL26",
-                    "name": "Belchorzh",
-                    "width": 2,
-                    "height": 2,
-                    "scale": 1,
-                    "x": 1400,
-                    "y": 3400,
-                    "disposition": -1,
-                    "flags": {
-                        "token-hud-wildcard": {
-                            "default": ""
-                        },
-                        "token-z": {
-                            "zIndex": 0
-                        },
-                        "token-attacher": {
-                            "pos": {
-                                "base_id": "4v83yPhuAqDHncu0",
-                                "xy": {
-                                    "x": 1725,
-                                    "y": 2415
-                                },
-                                "center": {
-                                    "x": 1794,
-                                    "y": 2484
-                                },
-                                "rotation": 0,
-                                "hidden": true,
-                                "elevation": 0
-                            }
-                        },
-                        "ddbActorFlags": {
-                            "id": 17099,
-                            "entityTypeId": 779871897,
-                            "creatureGroup": null,
-                            "creatureFlags": [],
-                            "version": "999.0.0",
-                            "flatAC": true,
-                            "name": "Beholder"
-                        },
-                        "actorFolderId": "KMH2H26UltcUF86w",
-                        "compendiumActorId": "NoPnBxdoLYNLV63D"
-                    },
-                    "actorLink": false,
-                    "bar1": {
-                        "attribute": "attributes.hp"
-                    },
-                    "effects": [],
-                    "elevation": 0,
-                    "hidden": true,
-                    "tint": null,
-                    "actorData": {
-                        "data": {
-                            "attributes": {
-                                "hp": {
-                                    "value": 210,
-                                    "max": 210
-                                }
-                            }
-                        },
-                        "name": "Beholder"
-                    },
-                    "light": {
-                        "alpha": 0.5,
-                        "angle": 0,
-                        "bright": 0,
-                        "coloration": 1,
-                        "dim": 0,
-                        "gradual": true,
-                        "luminosity": 0.5,
-                        "saturation": 0,
-                        "contrast": 0,
-                        "shadows": 0,
-                        "animation": {
-                            "speed": 5,
-                            "intensity": 5,
-                            "reverse": false
-                        },
-                        "darkness": {
-                            "min": 0,
-                            "max": 1
-                        }
-                    }
-                },
-                {
-                    "_id": "OeyYqikNB32hkohR",
-                    "name": "Clay Golem",
-                    "width": 2,
-                    "height": 2,
-                    "scale": 1,
-                    "x": 2300,
-                    "y": 4200,
-                    "disposition": -1,
-                    "flags": {
-                        "token-hud-wildcard": {
-                            "default": ""
-                        },
-                        "token-z": {
-                            "zIndex": 0
-                        },
-                        "ddbActorFlags": {
-                            "id": 16825,
-                            "entityTypeId": 779871897,
-                            "creatureGroup": null,
-                            "creatureFlags": [],
-                            "version": "999.0.0",
-                            "flatAC": true,
-                            "name": "Clay Golem"
-                        },
-                        "actorFolderId": "KMH2H26UltcUF86w",
-                        "compendiumActorId": "eERnuB3GNT443Mmp"
-                    },
-                    "actorLink": false,
-                    "bar1": {
-                        "attribute": "attributes.hp"
-                    },
-                    "effects": [],
-                    "elevation": 0,
-                    "hidden": false,
-                    "tint": null,
-                    "actorData": {
-                        "data": {
-                            "attributes": {
-                                "hp": {
-                                    "value": 138,
-                                    "max": 138
-                                }
-                            }
-                        },
-                        "name": "Clay Golem"
-                    },
-                    "light": {
-                        "alpha": 0.5,
-                        "angle": 0,
-                        "bright": 0,
-                        "coloration": 1,
-                        "dim": 0,
-                        "gradual": true,
-                        "luminosity": 0.5,
-                        "saturation": 0,
-                        "contrast": 0,
-                        "shadows": 0,
-                        "animation": {
-                            "speed": 5,
-                            "intensity": 5,
-                            "reverse": false
-                        },
-                        "darkness": {
-                            "min": 0,
-                            "max": 1
-                        }
-                    }
-                },
-                {
-                    "_id": "KDcn2yQuwzI1blwa",
-                    "name": "Tomb Guardian",
-                    "width": 1,
-                    "height": 1,
-                    "scale": 1,
-                    "x": 2277,
-                    "y": 2484,
-                    "disposition": -1,
-                    "flags": {
-                        "token-hud-wildcard": {
-                            "default": ""
-                        },
-                        "token-z": {
-                            "zIndex": 0
-                        },
-                        "ddbActorFlags": {
-                            "id": 286174,
-                            "entityTypeId": 779871897,
-                            "creatureGroup": null,
-                            "creatureFlags": [],
-                            "version": "999.0.0",
-                            "flatAC": true,
-                            "name": "Tomb Guardian"
-                        },
-                        "actorFolderId": "KMH2H26UltcUF86w",
-                        "compendiumActorId": "a6j3dirns6S1Ss2k"
-                    },
-                    "actorLink": false,
-                    "bar1": {
-                        "attribute": "attributes.hp"
-                    },
-                    "effects": [],
-                    "elevation": 0,
-                    "hidden": false,
-                    "tint": null,
-                    "actorData": {
-                        "data": {
-                            "attributes": {
-                                "hp": {
-                                    "value": 95,
-                                    "max": 95
-                                }
-                            }
-                        },
-                        "name": "Tomb Guardian"
-                    },
-                    "light": {
-                        "alpha": 0.5,
-                        "angle": 0,
-                        "bright": 0,
-                        "coloration": 1,
-                        "dim": 0,
-                        "gradual": true,
-                        "luminosity": 0.5,
-                        "saturation": 0,
-                        "contrast": 0,
-                        "shadows": 0,
-                        "animation": {
-                            "speed": 5,
-                            "intensity": 5,
-                            "reverse": false
-                        },
-                        "darkness": {
-                            "min": 0,
-                            "max": 1
-                        }
-                    }
-                }
-            ],
             "notes": [
                 {
                     "label": "29. Jackal Mask",
@@ -1401,7 +768,641 @@
                     "textColor": "#FFFFFF",
                     "textAnchor": 1
                 }
-            ]
+            ],
+            "tokens": [
+                {
+                    "_id": "K0qQ4z17fRxwVOXE",
+                    "name": "Wraith",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 1700,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "ZF02Fdxa0aXZ0OC3",
+                                "xy": {
+                                    "x": 2208,
+                                    "y": 1104
+                                },
+                                "center": {
+                                    "x": 2242.5,
+                                    "y": 1138.5
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17064,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Wraith"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ghXsCVnhUPUBiHJX"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 63,
+                                    "max": 63
+                                }
+                            }
+                        },
+                        "name": "Wraith"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "JRYToGQYUD7E5DDW",
+                    "name": "Wraith",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2500,
+                    "y": 1600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "PYXJE8XS075lDdNQ",
+                                "xy": {
+                                    "x": 2415,
+                                    "y": 1035
+                                },
+                                "center": {
+                                    "x": 2449.5,
+                                    "y": 1069.5
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17064,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Wraith"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ghXsCVnhUPUBiHJX"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 65,
+                                    "max": 65
+                                }
+                            }
+                        },
+                        "name": "Wraith"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "hgLLx295yOqkMURL",
+                    "name": "Wraith",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2400,
+                    "y": 1500,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "nexHDXj4RpFsJ7n9",
+                                "xy": {
+                                    "x": 2484,
+                                    "y": 1104
+                                },
+                                "center": {
+                                    "x": 2518.5,
+                                    "y": 1138.5
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17064,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Wraith"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "ghXsCVnhUPUBiHJX"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 63,
+                                    "max": 63
+                                }
+                            }
+                        },
+                        "name": "Wraith"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "39PWPEVkhhPIjcbb",
+                    "name": "Tomb Guardian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2700,
+                    "y": 2500,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 286174,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Tomb Guardian"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "a6j3dirns6S1Ss2k"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 102,
+                                    "max": 102
+                                }
+                            }
+                        },
+                        "name": "Tomb Guardian"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "VYyZYSJoPdIRMSn5",
+                    "name": "Tomb Guardian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2700,
+                    "y": 2800,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 286174,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Tomb Guardian"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "a6j3dirns6S1Ss2k"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 91,
+                                    "max": 91
+                                }
+                            }
+                        },
+                        "name": "Tomb Guardian"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "gQj1Ypj8hwH5rL26",
+                    "name": "Belchorzh",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 1400,
+                    "y": 3400,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "token-attacher": {
+                            "pos": {
+                                "base_id": "4v83yPhuAqDHncu0",
+                                "xy": {
+                                    "x": 1725,
+                                    "y": 2415
+                                },
+                                "center": {
+                                    "x": 1794,
+                                    "y": 2484
+                                },
+                                "rotation": 0,
+                                "hidden": true,
+                                "elevation": 0
+                            }
+                        },
+                        "ddbActorFlags": {
+                            "id": 17099,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Beholder"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "NoPnBxdoLYNLV63D"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 210,
+                                    "max": 210
+                                }
+                            }
+                        },
+                        "name": "Beholder"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "OeyYqikNB32hkohR",
+                    "name": "Clay Golem",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2300,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 16825,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Clay Golem"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "eERnuB3GNT443Mmp"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 138,
+                                    "max": 138
+                                }
+                            }
+                        },
+                        "name": "Clay Golem"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "URFAUCBvSWjwgQxe",
+                    "name": "Tomb Guardian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2200,
+                    "y": 3600,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "token-z": {
+                            "zIndex": 0
+                        },
+                        "ddbActorFlags": {
+                            "id": 286174,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Tomb Guardian"
+                        },
+                        "actorFolderId": "KMH2H26UltcUF86w",
+                        "compendiumActorId": "a6j3dirns6S1Ss2k"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "tint": null,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "value": 91,
+                                    "max": 91
+                                }
+                            }
+                        },
+                        "name": "Tomb Guardian"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "img": "assets/maps/003 level 3 vault of reflection - all off - skeleton.jpg"
         },
         "ddbimporter": {
             "export": {

@@ -3,6 +3,587 @@
         "ddb": {
             "bookCode": "toa",
             "foundryVersion": "9.249",
+            "notes": [
+                {
+                    "label": "45. Gargoyle Guardians",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2046,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "11d52c3e-1a3d-4fd9-9dd9-938142d13008",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "2hJGsNjp9cvhEMFh",
+                            "pin": "31852080"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3400,
+                            "y": 2750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "46. Lizard Den",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2049,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "813243a3-a1cb-4ccb-b5a1-b9e159106adb",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "HRFOf5KstqMXg4lO",
+                            "pin": "35102210"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4350,
+                            "y": 3000
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "48. Shagambi’s Tomb",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2106,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "ddf32dfc-23c6-437f-946c-71a9218f53ff",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "ajZYkKrQgQ0JwMLJ",
+                            "pin": "45502275"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5950,
+                            "y": 2300
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "50. Mirror of Life Trapping",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2138,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "8979b337-3c46-4fe2-8d58-b0cff8fe49d7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "MMV0wFfBBS1u9Sy7",
+                            "pin": "22752925"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2300,
+                            "y": 4150
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "51. Ghastly Door",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2143,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "ec9a21ff-8fc6-4f30-9703-9c5d9f686ffb",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "KIB8ueqssRWSIwEB",
+                            "pin": "20802145"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2100,
+                            "y": 2950
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "52. Throne Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2162,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "28eec0fb-afb7-4f45-ba2f-be8bb133dafe",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "wq3a5jwpACAUSaxQ",
+                            "pin": "14302145"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1400,
+                            "y": 2850
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "53. Crypt of the Sun Queen",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2181,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "e556001e-8098-44be-a057-0a6bbb7fa383",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "YRUsHkWmhcjlMFcM",
+                            "pin": "15601657.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1300,
+                            "y": 2050
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "55. Unkh’s Tomb",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2230,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "21cad5be-068c-44aa-98be-3d2161632743",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "bBw87AaNHz17LbAF",
+                            "pin": "23401365"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2500,
+                            "y": 1350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "56. Grandfather Clock",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2243,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "09cae26d-2776-4925-97e0-197ed508f7d4",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "hWpQgtcReKgxD5WB",
+                            "pin": "31201365"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3600,
+                            "y": 1650
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "57. Oubliette",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2253,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "9f862fdf-8659-4ed3-8a4a-3bb891f6b5c6",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "EMBzvuhGlPPbsLsS",
+                            "pin": "36401365"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4300,
+                            "y": 1750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07D. Acererak’s Fourth Warning",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2256,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
+                            "contentChunkId": "ce876926-3a40-4b30-ae5b-84518d31708c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "Eli0sRD0ACwuA2Ur",
+                            "pin": "2697.52047.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3000,
+                            "y": 2550
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "47A. Fire Cell",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2260,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "f2fa1342-1ab5-4aaf-b644-106fad776139",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "YrP8ThVUzn6UfbLy",
+                            "pin": "37052080"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4600,
+                            "y": 2650
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "47C. Air Cell",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2274,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "0ce355c1-79f6-43d5-8f3d-c2ffb002637b",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "MIhosOxpPOkIcL9S",
+                            "pin": "39001885"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4950,
+                            "y": 2300
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "47D. Earth Cell",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2282,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "2282a95c-fc89-4744-b07e-ae67298c6f54",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "C7C5ZVb0wAGyIi43",
+                            "pin": "40301885"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5250,
+                            "y": 2300
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "49A. Stone Slabs",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2290,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "6427d72b-b70f-4cc2-8d32-1975a52ef237",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "zoVO3TvwdhG6ViXi",
+                            "pin": "3932.52762.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4350,
+                            "y": 4300
+                        },
+                        {
+                            "x": 4750,
+                            "y": 3600
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "49B. Green Devil Face",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2294,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "c5a73d79-1653-4e4d-8d18-d5817fc42083",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "vX7fioMR2kHv8bm2",
+                            "pin": "37051950"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 5350,
+                            "y": 4200
+                        },
+                        {
+                            "x": 4600,
+                            "y": 2350
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "49C. Black Opal Crown",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2300,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "02c25f66-494b-4285-b65a-251fce00dd73",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "55ER7aSHLhIm7SaT",
+                            "pin": "39003120"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4950,
+                            "y": 4200
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "54A. Treasure Chest",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2304,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "bf174e95-e638-4f2a-818c-84b7926d63e7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "9ECfpKPkCkVlpan8",
+                            "pin": "23401755"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2450,
+                            "y": 1800
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "54B. Granite Ball",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2307,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "22484c14-87df-4455-88c7-c0f2882d8335",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "FWSZ7DreQ7PWQYlH",
+                            "pin": "22752047.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2500,
+                            "y": 2750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "54C. Acid Pit",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2311,
+                            "bookCode": "toa",
+                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
+                            "contentChunkId": "08d3724a-b608-4188-b006-bc9a6760d853",
+                            "note": true,
+                            "img": false,
+                            "parentId": 475,
+                            "linkId": "XtBSEpOeri6VF9vu",
+                            "pin": "2177.51625"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2150,
+                            "y": 1800
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Handout 20",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": 480,
+                            "ddbId": 12070,
+                            "bookCode": "toa",
+                            "slug": "player-handouts",
+                            "contentChunkId": null,
+                            "originDocId": "Wmh0UzIbsGFIJ0mZ",
+                            "originHint": "possibleHandouts",
+                            "originalLink": "./toa/ph20.png",
+                            "note": false,
+                            "img": true,
+                            "duplicate": false,
+                            "linkName": "Handout 20",
+                            "linkId": "BLg3fAgWYgR01Cqd",
+                            "pin": "2697.51982.5"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3000,
+                            "y": 2700
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ],
             "tokens": [
                 {
                     "_id": "HY9XI69ep7OEYRUP",
@@ -5345,589 +5926,609 @@
                             "max": 1
                         }
                     }
+                },
+                {
+                    "_id": "Ibu7BXtktt2erwer",
+                    "name": "Bodak",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4700,
+                    "y": 4200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17223,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Bodak"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "04n6DmlPXb9QhmD6",
+                    "name": "Bodak",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4900,
+                    "y": 4100,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17223,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Bodak"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "76xK9dshRtztVIZE",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 1700,
+                    "y": 1500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "IWc6UzmE1m2BBib1",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 1700,
+                    "y": 1700,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "4El7zMt0j3sdL1nm",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 1700,
+                    "y": 1900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "hrSylFRD4CHVYbwm",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 1900,
+                    "y": 2100,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "IenB5yK7I07xUCJd",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2100,
+                    "y": 2100,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "BOD3ScjJuQBPO7PO",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2600,
+                    "y": 2100,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "QdmtYoDnFGyVs7yY",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 2800,
+                    "y": 2100,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "1DyICW629OtCPFTK",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3000,
+                    "y": 1900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "6RrrWCC7EmemJUjd",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3000,
+                    "y": 1700,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ah329PzdGqtt7g2d",
+                    "name": "Minotaur Skeleton",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 3000,
+                    "y": 1500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16959,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Minotaur Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
                 }
             ],
-            "notes": [
-                {
-                    "label": "45. Gargoyle Guardians",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2046,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "11d52c3e-1a3d-4fd9-9dd9-938142d13008",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "2hJGsNjp9cvhEMFh",
-                            "pin": "31852080"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 3400,
-                            "y": 2750
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "46. Lizard Den",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2049,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "813243a3-a1cb-4ccb-b5a1-b9e159106adb",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "HRFOf5KstqMXg4lO",
-                            "pin": "35102210"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 4350,
-                            "y": 3000
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "48. Shagambi’s Tomb",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2106,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "ddf32dfc-23c6-437f-946c-71a9218f53ff",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "ajZYkKrQgQ0JwMLJ",
-                            "pin": "45502275"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 5950,
-                            "y": 2300
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "50. Mirror of Life Trapping",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2138,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "8979b337-3c46-4fe2-8d58-b0cff8fe49d7",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "MMV0wFfBBS1u9Sy7",
-                            "pin": "22752925"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 2300,
-                            "y": 4150
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "51. Ghastly Door",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2143,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "ec9a21ff-8fc6-4f30-9703-9c5d9f686ffb",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "KIB8ueqssRWSIwEB",
-                            "pin": "20802145"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 2100,
-                            "y": 2950
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "52. Throne Room",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2162,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "28eec0fb-afb7-4f45-ba2f-be8bb133dafe",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "wq3a5jwpACAUSaxQ",
-                            "pin": "14302145"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 1400,
-                            "y": 2850
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "53. Crypt of the Sun Queen",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2181,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "e556001e-8098-44be-a057-0a6bbb7fa383",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "YRUsHkWmhcjlMFcM",
-                            "pin": "15601657.5"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 1300,
-                            "y": 2050
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "55. Unkh’s Tomb",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2230,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "21cad5be-068c-44aa-98be-3d2161632743",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "bBw87AaNHz17LbAF",
-                            "pin": "23401365"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 2500,
-                            "y": 1350
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "56. Grandfather Clock",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2243,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "09cae26d-2776-4925-97e0-197ed508f7d4",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "hWpQgtcReKgxD5WB",
-                            "pin": "31201365"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 3600,
-                            "y": 1650
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "57. Oubliette",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2253,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "9f862fdf-8659-4ed3-8a4a-3bb891f6b5c6",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "EMBzvuhGlPPbsLsS",
-                            "pin": "36401365"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 4300,
-                            "y": 1750
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "07D. Acererak’s Fourth Warning",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2256,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level1RottenHalls",
-                            "contentChunkId": "ce876926-3a40-4b30-ae5b-84518d31708c",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "Eli0sRD0ACwuA2Ur",
-                            "pin": "2697.52047.5"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 3000,
-                            "y": 2550
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "47A. Fire Cell",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2260,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "f2fa1342-1ab5-4aaf-b644-106fad776139",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "YrP8ThVUzn6UfbLy",
-                            "pin": "37052080"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 4600,
-                            "y": 2650
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "47C. Air Cell",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2274,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "0ce355c1-79f6-43d5-8f3d-c2ffb002637b",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "MIhosOxpPOkIcL9S",
-                            "pin": "39001885"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 4950,
-                            "y": 2300
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "47D. Earth Cell",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2282,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "2282a95c-fc89-4744-b07e-ae67298c6f54",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "C7C5ZVb0wAGyIi43",
-                            "pin": "40301885"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 5250,
-                            "y": 2300
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "49A. Stone Slabs",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2290,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "6427d72b-b70f-4cc2-8d32-1975a52ef237",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "zoVO3TvwdhG6ViXi",
-                            "pin": "3932.52762.5"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 4350,
-                            "y": 4300
-                        },
-                        {
-                            "x": 4750,
-                            "y": 3600
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "49B. Green Devil Face",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2294,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "c5a73d79-1653-4e4d-8d18-d5817fc42083",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "vX7fioMR2kHv8bm2",
-                            "pin": "37051950"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 5350,
-                            "y": 4200
-                        },
-                        {
-                            "x": 4600,
-                            "y": 2350
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "49C. Black Opal Crown",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2300,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "02c25f66-494b-4285-b65a-251fce00dd73",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "55ER7aSHLhIm7SaT",
-                            "pin": "39003120"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 4950,
-                            "y": 4200
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "54A. Treasure Chest",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2304,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "bf174e95-e638-4f2a-818c-84b7926d63e7",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "9ECfpKPkCkVlpan8",
-                            "pin": "23401755"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 2450,
-                            "y": 1800
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "54B. Granite Ball",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2307,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "22484c14-87df-4455-88c7-c0f2882d8335",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "FWSZ7DreQ7PWQYlH",
-                            "pin": "22752047.5"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 2500,
-                            "y": 2750
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "54C. Acid Pit",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": null,
-                            "ddbId": 2311,
-                            "bookCode": "toa",
-                            "slug": "tomb-of-the-nine-gods#Level4ChambersofHorror",
-                            "contentChunkId": "08d3724a-b608-4188-b006-bc9a6760d853",
-                            "note": true,
-                            "img": false,
-                            "parentId": 475,
-                            "linkId": "XtBSEpOeri6VF9vu",
-                            "pin": "2177.51625"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 2150,
-                            "y": 1800
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                },
-                {
-                    "label": "Handout 20",
-                    "flags": {
-                        "ddb": {
-                            "cobaltId": 480,
-                            "ddbId": 12070,
-                            "bookCode": "toa",
-                            "slug": "player-handouts",
-                            "contentChunkId": null,
-                            "originDocId": "Wmh0UzIbsGFIJ0mZ",
-                            "originHint": "possibleHandouts",
-                            "originalLink": "./toa/ph20.png",
-                            "note": false,
-                            "img": true,
-                            "duplicate": false,
-                            "linkName": "Handout 20",
-                            "linkId": "BLg3fAgWYgR01Cqd",
-                            "pin": "2697.51982.5"
-                        }
-                    },
-                    "positions": [
-                        {
-                            "x": 3000,
-                            "y": 2700
-                        }
-                    ],
-                    "iconSize": 40,
-                    "iconTint": null,
-                    "textColor": "#FFFFFF",
-                    "textAnchor": 1
-                }
-            ]
+            "img": "assets/maps/004 level 4 chamber of horrors - all off.jpg"
         },
         "ddbimporter": {
             "export": {
