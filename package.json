@@ -1,6 +1,6 @@
 {
   "name": "ddb-third-party-scenes",
-  "version": "0.0.0",
+  "version": "0.0.5",
   "description": "Third Party Scene Integration Configs",
   "repository": "https://github.com/MrPrimate/ddb-third-party-scenes",
   "scripts": {
@@ -15,7 +15,7 @@
   "homepage": "https://github.com/mrprimate",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^7.32.0"
+    "eslint": "^8.11.0"
   },
   "dependencies": {
     "fs-extra": "^9.1.0"

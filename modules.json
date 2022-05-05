@@ -467,6 +467,93 @@
                     "book": "imr"
                 }
             ]
+        },
+        "modules/dransky/dransky-lost-mines-maps": {
+            "name": "Dransky: Lost Mines of Phandelver",
+            "description": "Dransky: Lost Mines (of Phandelver): Install the module in the Foundry admin panel. Support Dransky on <a href=\"https://www.patreon.com/dransky\">Patreon</a>.",
+            "path": "modules/dransky/dransky-lost-mines-maps",
+            "module": "dead-in-thay",
+            "released": false,
+            "books": [
+                "lmop"
+            ],
+            "scenes": [
+                {
+                    "name": "Cragaw Castle Day",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Cragaw Castle Night",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Cragmaw Hideout",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Cragmaw Hideout Entrance Day",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Cragmaw Hideout Entrance Morning",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Cragmaw Hideout Entrance Night",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Goblin Ambush Day",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Goblin Ambush Night",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Old Owl Well Day",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Old Owl Well Night",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Redbrand Hideout",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Ruins of Thundertree",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Wave Echo Cave Middle",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Wave Echo Cave North",
+                    "description": "",
+                    "book": "lmop"
+                },
+                {
+                    "name": "Wave Echo Cave South",
+                    "description": "",
+                    "book": "lmop"
+                }
+            ]
         }
     }
 }

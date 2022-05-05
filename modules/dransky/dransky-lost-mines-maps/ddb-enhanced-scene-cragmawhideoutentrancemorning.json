@@ -1,0 +1,182 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "lmop",
+            "foundryVersion": "9.269",
+            "tokens": [
+                {
+                    "_id": "jKai1tPrpmiAWCYm",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3500,
+                    "y": 1900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "n6Pef2wvKscNM8Ed",
+                    "name": "Goblin",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 3600,
+                    "y": 2000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "01. Cave Mouth",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2017,
+                            "bookCode": "lmop",
+                            "slug": "goblin-arrows#CragmawHideout",
+                            "contentChunkId": "8fae076f-80f2-4e22-a0dc-e3e98a989313",
+                            "note": true,
+                            "img": false,
+                            "parentId": 394,
+                            "linkId": "hEPKA25nB30bJEJm",
+                            "pin": "27753225"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2600,
+                            "y": 1900
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Goblin Blind",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2023,
+                            "bookCode": "lmop",
+                            "slug": "goblin-arrows#CragmawHideout",
+                            "contentChunkId": "9769b1f3-563e-45ef-a70b-2cc44c620e1d",
+                            "note": true,
+                            "img": false,
+                            "parentId": 394,
+                            "linkId": "Assy5HAx2gEa0gqM",
+                            "pin": "33753375"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3400,
+                            "y": 1800
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ],
+            "img": "assets/modules/dransky-lost-mines-maps/maps/Cragmaw%20Hideout%20Entrance%20Morning_NoAudio_NoGrid.webm"
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "dransky-lost-mines-maps.lostmaps",
+                "scene": "Uyn0D3C4XNl9YN3I"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Cragmaw Hideout Entrance Morning"
+}

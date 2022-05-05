@@ -1,0 +1,1511 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "lmop",
+            "foundryVersion": "9.269",
+            "tokens": [
+                {
+                    "_id": "1LIGUj2qrxfcY1Mx",
+                    "name": "Ochre Jelly",
+                    "width": 2,
+                    "height": 2,
+                    "scale": 1,
+                    "x": 1650,
+                    "y": 900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16967,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Ochre Jelly"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "sLsFi5QZb8Nk2DQL",
+                    "name": "Stirge",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3100,
+                    "y": 1750,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17023,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Stirge"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "cDDS7cPpty2X6L28",
+                    "name": "Stirge",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 2850,
+                    "y": 1750,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17023,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Stirge"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "baQhz01dXlOfJRkW",
+                    "name": "Stirge",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 2800,
+                    "y": 1850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17023,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Stirge"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "zsxgIlYQ4fjHEP11",
+                    "name": "Stirge",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 2900,
+                    "y": 1900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17023,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Stirge"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "2MrAs8tGI94uBOLs",
+                    "name": "Stirge",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 2950,
+                    "y": 1800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17023,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Stirge"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "9RxkUm56PS7AaZIk",
+                    "name": "Stirge",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3000,
+                    "y": 1850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17023,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Stirge"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "doq6sVvALeqsnfO5",
+                    "name": "Stirge",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3050,
+                    "y": 1900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17023,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Stirge"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "oWJ7fIonssrJyLaq",
+                    "name": "Stirge",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3050,
+                    "y": 2000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17023,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Stirge"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "Ntdg53Il88Cj5Ro2",
+                    "name": "Stirge",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 3150,
+                    "y": 1800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17023,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Stirge"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "HhAnawgGUmKJEBag",
+                    "name": "Stirge",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 2900,
+                    "y": 1650,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17023,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Stirge"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "luI6uC3uJWKq9PmK",
+                    "name": "Ghoul",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2900,
+                    "y": 850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16872,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Ghoul"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "Fd7zPzrSktgaWhdw",
+                    "name": "Ghoul",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2900,
+                    "y": 800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16872,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Ghoul"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "GXJtTFGbqLrLMlkG",
+                    "name": "Ghoul",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2950,
+                    "y": 800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16872,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Ghoul"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "lfMKfmL1zG3IcKUB",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2750,
+                    "y": 2350,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "K7chqWOxlLxlmXmr",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2550,
+                    "y": 2400,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "Uz5QOVaIAJWJGhtz",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2400,
+                    "y": 2250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "tyhEVPhpSEj6KX8T",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2750,
+                    "y": 2200,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "tCzEV097K7UvEtQM",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2700,
+                    "y": 2250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "RXj8xIhtj2vZjiPM",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2600,
+                    "y": 2300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "goKGT0raZAgAxKXh",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2500,
+                    "y": 2400,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "AYFH4uepxZk7o5yb",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2550,
+                    "y": 2350,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "OX0vRN3xr6J8Dono",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2800,
+                    "y": 2250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "1uhupGbcHI7VIRS9",
+                    "name": "Mormesk the Wraith",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 4650,
+                    "y": 800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 22024,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Mormesk the Wraith"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "data": {
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "08. Fungi Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2038,
+                            "bookCode": "lmop",
+                            "slug": "wave-echo-cave#KeyedEncounters814",
+                            "contentChunkId": "2853a899-a290-4297-bc19-539e21d4ec9c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 397,
+                            "linkId": "UD8Rccu0tMf1gwZa",
+                            "pin": "45145795"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4300,
+                            "y": 1400
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "01. Cave Entrance",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2040,
+                            "bookCode": "lmop",
+                            "slug": "wave-echo-cave#KeyedEncounters17",
+                            "contentChunkId": "ede003e5-323d-4259-a1b6-fb85af302656",
+                            "note": true,
+                            "img": false,
+                            "parentId": 397,
+                            "linkId": "WJjDEfhhTiOk0ktS",
+                            "pin": "21966283"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1750,
+                            "y": 1850
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Mine Tunnels",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2044,
+                            "bookCode": "lmop",
+                            "slug": "wave-echo-cave#KeyedEncounters17",
+                            "contentChunkId": "91ba2ad5-8341-4001-bf9d-97ccb8a60829",
+                            "note": true,
+                            "img": false,
+                            "parentId": 397,
+                            "linkId": "FY8VNSvXkYP5ujYO",
+                            "pin": "23185307"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2550,
+                            "y": 900
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03. Old Entrance",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2049,
+                            "bookCode": "lmop",
+                            "slug": "wave-echo-cave#KeyedEncounters17",
+                            "contentChunkId": "2e779cc9-dbd0-4839-a8f7-50c7ad646cc7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 397,
+                            "linkId": "hrsg8jwuD8UpfKew",
+                            "pin": "34166283"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3000,
+                            "y": 1750
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04. Old Guardroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2053,
+                            "bookCode": "lmop",
+                            "slug": "wave-echo-cave#KeyedEncounters17",
+                            "contentChunkId": "b262d4dd-27ef-4a8b-8435-4f897249ed6f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 397,
+                            "linkId": "4GGlrpcPAH4Amn1R",
+                            "pin": "30506771"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2600,
+                            "y": 2200
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05. Assayers’ Office",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2059,
+                            "bookCode": "lmop",
+                            "slug": "wave-echo-cave#KeyedEncounters17",
+                            "contentChunkId": "d026e804-c848-4553-b76a-d7426271400f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 397,
+                            "linkId": "7YOqxrw2x6CVxpWz",
+                            "pin": "39046649"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3375,
+                            "y": 2075
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06. South Barracks",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2061,
+                            "bookCode": "lmop",
+                            "slug": "wave-echo-cave#KeyedEncounters17",
+                            "contentChunkId": "c52e2ab1-88dc-4d7b-a62f-76fd135cbacd",
+                            "note": true,
+                            "img": false,
+                            "parentId": 397,
+                            "linkId": "3nahQKSKIJdacwty",
+                            "pin": "34165429"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2950,
+                            "y": 900
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "07. Ruined Storeroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2066,
+                            "bookCode": "lmop",
+                            "slug": "wave-echo-cave#KeyedEncounters17",
+                            "contentChunkId": "90ea8143-ee9e-434e-9f50-7a4fab7f911c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 397,
+                            "linkId": "SZttNY1E0DueFX2L",
+                            "pin": "40265429"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3500,
+                            "y": 950
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "13. Starry Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2070,
+                            "bookCode": "lmop",
+                            "slug": "wave-echo-cave#KeyedEncounters814",
+                            "contentChunkId": "513c086e-6633-49dd-ab51-55795a5c9224",
+                            "note": true,
+                            "img": false,
+                            "parentId": 397,
+                            "linkId": "GXfsNcqBQdi4WUH0",
+                            "pin": "48804697"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4150,
+                            "y": 650
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "14. Wizards’ Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2084,
+                            "bookCode": "lmop",
+                            "slug": "wave-echo-cave#KeyedEncounters814",
+                            "contentChunkId": "dd24571c-221d-466b-80ed-cd8c8f7945d7",
+                            "note": true,
+                            "img": false,
+                            "parentId": 397,
+                            "linkId": "H985Gt1dtktaozpD",
+                            "pin": "52464941"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4700,
+                            "y": 700
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ],
+            "img": "assets/modules/dransky-lost-mines-maps/maps/Wave%20Echo%20Caves/3%20maps/wave_echo_cave_south.webm"
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "dransky-lost-mines-maps.lostmaps",
+                "scene": "dYPxzKio9eYMDDq6"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Wave Echo Cave South"
+}

@@ -1,0 +1,1456 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "lmop",
+            "foundryVersion": "9.269",
+            "tokens": [
+                {
+                    "_id": "2EArDxXIP0jtdXlg",
+                    "name": "Redbrand Ruffian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3480,
+                    "y": 1860,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 22030,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Redbrand Ruffian"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "tttz40F33JKcNBS5",
+                    "name": "Redbrand Ruffian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3300,
+                    "y": 1920,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 22030,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Redbrand Ruffian"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "elcdLBmsYrZ5c0aC",
+                    "name": "Redbrand Ruffian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3300,
+                    "y": 2040,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 22030,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Redbrand Ruffian"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "92q9zT5mW7ZA5loa",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3300,
+                    "y": 1140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "j5W2H7z3sh1gO4OT",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3660,
+                    "y": 1140,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "SauFFvdzlJSqQdgX",
+                    "name": "Skeleton",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3300,
+                    "y": 1440,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17015,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Skeleton"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "KsA8wPmFb22e3WPs",
+                    "name": "Redbrand Ruffian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3780,
+                    "y": 1080,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 22030,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Redbrand Ruffian"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "eRGpj96CLKDoTbty",
+                    "name": "Redbrand Ruffian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3780,
+                    "y": 900,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 22030,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Redbrand Ruffian"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "KAGg0nEg5Bx2MgoX",
+                    "name": "Mirna Dendrar",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3840,
+                    "y": 1260,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Commoner"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "data": {
+                            "details": {
+                                "cr": "0"
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "name": "Mirna Dendrar"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "YKlNQdSO6A7jwnOK",
+                    "name": "Nars Dendrar",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3900,
+                    "y": 1320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Commoner"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Nars Dendrar"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "hhUa4IXvgr3gevRT",
+                    "name": "Nilsa Dendrar",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 3960,
+                    "y": 1320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Commoner"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Nilsa Dendrar"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "4kzwTM4JkMlM4gJ8",
+                    "name": "Nothic",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2640,
+                    "y": 1680,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 17092,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Nothic"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "kS1DkQh5sVHEqqsf",
+                    "name": "Bugbear",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1680,
+                    "y": 2460,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16817,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Bugbear"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "6cZe3IFUuqpgDbOI",
+                    "name": "Mosk",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1680,
+                    "y": 2280,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16817,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Bugbear"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Mosk"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ri2G0OhQow0xalQv",
+                    "name": "Bugbear",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2040,
+                    "y": 2460,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16817,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Bugbear"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "KMGD7n5u1RBJk4tO",
+                    "name": "Droop",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 0.8,
+                    "x": 2040,
+                    "y": 2280,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16907,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Goblin"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Droop"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "GMLbiGIPbv3JGKEh",
+                    "name": "Redbrand Ruffian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1680,
+                    "y": 1500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 22030,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Redbrand Ruffian"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "e4LnK5EtYQEckyS4",
+                    "name": "Redbrand Ruffian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1860,
+                    "y": 1500,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 22030,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Redbrand Ruffian"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "xMwh8LyJQ7fPNJAV",
+                    "name": "Redbrand Ruffian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1680,
+                    "y": 1380,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 22030,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Redbrand Ruffian"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "NTwb0qxpNqwaQJ6A",
+                    "name": "Redbrand Ruffian",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 1800,
+                    "y": 1320,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 22030,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Redbrand Ruffian"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "hCHnQnQkYSZx8PXn",
+                    "name": "Glassstaff",
+                    "width": 1,
+                    "height": 1,
+                    "scale": 1,
+                    "x": 2340,
+                    "y": 720,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 22021,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Evil Mage"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Glassstaff"
+                    },
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "aqhYov0ig6rfT2bD",
+                    "name": "Rat",
+                    "width": 0.5,
+                    "height": 0.5,
+                    "scale": 0.5,
+                    "x": 1710,
+                    "y": 720,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16991,
+                            "entityTypeId": 779871897,
+                            "creatureGroup": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "flatAC": true,
+                            "name": "Rat"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 0,
+                        "bright": 0,
+                        "coloration": 1,
+                        "dim": 0,
+                        "gradual": true,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "07. Storeroom and Work Area",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2024,
+                            "bookCode": "lmop",
+                            "slug": "phandalin#RedbrandHideout712",
+                            "contentChunkId": "b8f276b3-376a-4327-9732-a1152d1ffd4f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 395,
+                            "linkId": "ZcSLvwnZldzQTQc6",
+                            "pin": "33751725"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3060,
+                            "y": 600
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "08. Crevasse",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2038,
+                            "bookCode": "lmop",
+                            "slug": "phandalin#RedbrandHideout712",
+                            "contentChunkId": "55ed9c0c-b05d-43e7-832b-13ed585fe64f",
+                            "note": true,
+                            "img": false,
+                            "parentId": 395,
+                            "linkId": "6Tipb5t6Ei1CWLnX",
+                            "pin": "29252775"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2580,
+                            "y": 1560
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "01. Cellar",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2039,
+                            "bookCode": "lmop",
+                            "slug": "phandalin#RedbrandHideout16",
+                            "contentChunkId": "1cfefd6b-cad9-4319-a434-57640440c82c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 395,
+                            "linkId": "7z1Xo3RnvVJ9qD7s",
+                            "pin": "49503450"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4260,
+                            "y": 2340
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "02. Barracks",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2048,
+                            "bookCode": "lmop",
+                            "slug": "phandalin#RedbrandHideout16",
+                            "contentChunkId": "e99398f6-4b10-4cb0-a516-0c385abea6f6",
+                            "note": true,
+                            "img": false,
+                            "parentId": 395,
+                            "linkId": "ux1iAVzGJCTR1FAT",
+                            "pin": "39753225"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3480,
+                            "y": 2100
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "03. Trapped Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2055,
+                            "bookCode": "lmop",
+                            "slug": "phandalin#RedbrandHideout16",
+                            "contentChunkId": "fcc4a2a4-3e33-43c5-baf3-88239597dd3c",
+                            "note": true,
+                            "img": false,
+                            "parentId": 395,
+                            "linkId": "BR3TUyM8GQsl5Jon",
+                            "pin": "52502700"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4380,
+                            "y": 1530
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "09. Guard Barracks",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2057,
+                            "bookCode": "lmop",
+                            "slug": "phandalin#RedbrandHideout712",
+                            "contentChunkId": "7dcbd032-bfaf-44d2-ae15-96436f1749c9",
+                            "note": true,
+                            "img": false,
+                            "parentId": 395,
+                            "linkId": "STuHuQUPgvsoTYDc",
+                            "pin": "20253675"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1860,
+                            "y": 2280
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "04. Tresendar Crypts",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2066,
+                            "bookCode": "lmop",
+                            "slug": "phandalin#RedbrandHideout16",
+                            "contentChunkId": "315be3b6-46b7-4eb2-aa6d-074f3fe54083",
+                            "note": true,
+                            "img": false,
+                            "parentId": 395,
+                            "linkId": "5snjC5sKYnGSb321",
+                            "pin": "39752475"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3420,
+                            "y": 1320
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "10. Common Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2067,
+                            "bookCode": "lmop",
+                            "slug": "phandalin#RedbrandHideout712",
+                            "contentChunkId": "24f47028-ac2f-4a91-bd8e-995da783daea",
+                            "note": true,
+                            "img": false,
+                            "parentId": 395,
+                            "linkId": "c44ArCMJmwm5PmOQ",
+                            "pin": "20252625"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1800,
+                            "y": 1500
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "05. Slave Pens",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2078,
+                            "bookCode": "lmop",
+                            "slug": "phandalin#RedbrandHideout16",
+                            "contentChunkId": "6dab43c4-3315-4490-bbdb-19e370a35403",
+                            "note": true,
+                            "img": false,
+                            "parentId": 395,
+                            "linkId": "JT5jdduWLDNBiLLC",
+                            "pin": "45752025"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 4140,
+                            "y": 1020
+                        },
+                        {
+                            "x": 1800,
+                            "y": 900
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "06. Armory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2083,
+                            "bookCode": "lmop",
+                            "slug": "phandalin#RedbrandHideout16",
+                            "contentChunkId": "d5cca858-959c-40b4-9fbb-87298cf32b70",
+                            "note": true,
+                            "img": false,
+                            "parentId": 395,
+                            "linkId": "IUSigdmMAZFZSeWN",
+                            "pin": "41251725"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3600,
+                            "y": 720
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "label": "12. Glasstaff’s Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2103,
+                            "bookCode": "lmop",
+                            "slug": "phandalin#RedbrandHideout712",
+                            "contentChunkId": "db22e6e8-6087-46eb-b3f2-25b455b8afee",
+                            "note": true,
+                            "img": false,
+                            "parentId": 395,
+                            "linkId": "e4hreK3RtkmwmrAh",
+                            "pin": "26251725"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2280,
+                            "y": 660
+                        }
+                    ],
+                    "iconSize": 40,
+                    "iconTint": null,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ],
+            "img": "assets/modules/dransky-lost-mines-maps/maps/redbrand_hideout.webm"
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "dransky-lost-mines-maps.lostmaps",
+                "scene": "jedWSprbDmDYDBlz"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Redbrand Hideout"
+}

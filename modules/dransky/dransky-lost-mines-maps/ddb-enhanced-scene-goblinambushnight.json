@@ -1,0 +1,26 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "lmop",
+            "foundryVersion": "9.269",
+            "tokens": [],
+            "notes": [],
+            "img": "assets/modules/dransky-lost-mines-maps/maps/goblin_ambush_night.webm"
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "dransky-lost-mines-maps.lostmaps",
+                "scene": "1zxq1FrKjZpS2oBP"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Goblin Ambush Night"
+}
