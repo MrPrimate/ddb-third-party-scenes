@@ -473,7 +473,7 @@
             "description": "Dransky: Lost Mines (of Phandelver): Install the <a href=\"https://foundryvtt.com/packages/dransky-lost-mines-maps\">module</a> in the Foundry admin panel. Support Dransky on <a href=\"https://www.patreon.com/dransky\">Patreon</a>.",
             "path": "modules/dransky/dransky-lost-mines-maps",
             "module": "dransky-lost-mines-maps",
-            "released": false,
+            "released": true,
             "books": [
                 "lmop"
             ],
