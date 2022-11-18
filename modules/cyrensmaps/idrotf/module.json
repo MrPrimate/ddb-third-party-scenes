@@ -1,8 +1,9 @@
 {
-    "name": "Icewind Dale",
+    "name": "Cyrens Maps: Icewind Dale",
+    "folder": "Icewind Dale",
     "path": "modules/cyrensmaps/idrotf",
     "module": "cyrens-maps-icewind-dale",
-    "released": true,
+    "released": false,
     "scenes": [
         {
             "flags": {
