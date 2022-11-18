@@ -1,0 +1,648 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "idrotf",
+            "foundryVersion": "10.290",
+            "tokens": [
+                {
+                    "_id": "CGhHZ8p6cEKB7wy2",
+                    "name": "Snorp",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3220,
+                    "y": 2520,
+                    "disposition": 0,
+                    "flags": {
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "ddbActorFlags": {
+                            "id": 1123101,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Icewind Kobold"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "Cgv9lM2pgWtq5VbI"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Snorp",
+                        "effects": [],
+                        "system": {
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "tGj8mkvdX0z64fw9",
+                    "name": "Zilbo",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3010,
+                    "y": 2590,
+                    "disposition": 0,
+                    "flags": {
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "ddbActorFlags": {
+                            "id": 1123101,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Icewind Kobold"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "Cgv9lM2pgWtq5VbI"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Zilbo",
+                        "effects": [],
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "h0As73PyQGtKeYwb",
+                    "name": "Holgi",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3150,
+                    "y": 2380,
+                    "disposition": 0,
+                    "flags": {
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "ddbActorFlags": {
+                            "id": 1123101,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Icewind Kobold"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "Cgv9lM2pgWtq5VbI"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Holgi",
+                        "effects": [],
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ckjt7m5LFlVKGYV9",
+                    "name": "Norsu",
+                    "width": 3,
+                    "height": 3,
+                    "x": 3990,
+                    "y": 2590,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16950,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Mammoth"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "t4vPmMQuyZ02eGgo"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Norsu",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "IXbfZYGVVCdiqQsg",
+                    "name": "Silja",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4410,
+                    "y": 3710,
+                    "disposition": 0,
+                    "flags": {
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Commoner"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "6vbNrssl9lpT1r44"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Silja",
+                        "system": {
+                            "details": {
+                                "cr": "0"
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "BqpCF37Qddc7F5Zf",
+                    "name": "Finn",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4550,
+                    "y": 3850,
+                    "disposition": 0,
+                    "flags": {
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Commoner"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "6vbNrssl9lpT1r44"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Finn",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "PKb2b3QBi1hQnWD0",
+                    "name": "Koran",
+                    "width": 2,
+                    "height": 2,
+                    "x": 6090,
+                    "y": 3010,
+                    "disposition": 0,
+                    "flags": {
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "ddbActorFlags": {
+                            "id": 17061,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Winter Wolf"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "kWU1p3c67ekYORUd"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {
+                        "name": "Koran",
+                        "system": {
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "IfMeELP66TUoMZqz",
+                    "name": "Kanan",
+                    "width": 2,
+                    "height": 2,
+                    "x": 6090,
+                    "y": 3220,
+                    "disposition": 0,
+                    "flags": {
+                        "perfect-vision": {
+                            "visionRules": "default",
+                            "monoVisionColor": "",
+                            "sightLimit": null
+                        },
+                        "ddbActorFlags": {
+                            "id": 17061,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Winter Wolf"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "kWU1p3c67ekYORUd"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {
+                        "name": "Kanan",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "Holed Up",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 38,
+                            "bookCode": "idrotf",
+                            "slug": "dougans-hole#HoledUp",
+                            "linkName": "Holed Up",
+                            "slugLink": "HoledUp",
+                            "duplicate": false,
+                            "contentChunkId": null,
+                            "img": false,
+                            "note": false,
+                            "parentId": 1077
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 6125,
+                            "y": 2905
+                        },
+                        {
+                            "x": 5285,
+                            "y": 2345
+                        },
+                        {
+                            "x": 5075,
+                            "y": 3885
+                        },
+                        {
+                            "x": 5145,
+                            "y": 2975
+                        },
+                        {
+                            "x": 4445,
+                            "y": 2800
+                        },
+                        {
+                            "x": 3745,
+                            "y": 2065
+                        },
+                        {
+                            "x": 3185,
+                            "y": 3325
+                        },
+                        {
+                            "x": 4165,
+                            "y": 4060
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                }
+            ],
+            "img": "assets/modules/cyrens-maps-icewind-dale/background-images/C1/Frost-Giant-lair-rem.webp"
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrens-maps-icewind-dale.maps",
+                "scene": "F6gckibLN75Ik4aY"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Frost Giant Lair"
+}

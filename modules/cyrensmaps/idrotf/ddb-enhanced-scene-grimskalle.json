@@ -1,0 +1,1743 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "idrotf",
+            "foundryVersion": "10.290",
+            "tokens": [
+                {
+                    "_id": "nkvY6SBOE3rlOVJ1",
+                    "name": "Ertgard",
+                    "width": 3,
+                    "height": 3,
+                    "x": 3290,
+                    "y": 8400,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16867,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Frost Giant"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "oEQY6w9cwgWwI5T1"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Ertgard",
+                        "system": {
+                            "attributes": {
+                                "senses": {
+                                    "special": "Deaf"
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ulk6j3BWN1EjIY87",
+                    "name": "Ice Mephit",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2660,
+                    "y": 7630,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16932,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Ice Mephit"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "esnQBn6umRrNl4hB"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "E9FJI9WvCJYm1GIT",
+                    "name": "Ice Mephit",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2800,
+                    "y": 7350,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16932,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Ice Mephit"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "esnQBn6umRrNl4hB"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "PGOUjKFYoJJa8lTD",
+                    "name": "Ice Mephit",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3010,
+                    "y": 7280,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16932,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Ice Mephit"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "esnQBn6umRrNl4hB"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "hGbvjPKWLVq2Cv26",
+                    "name": "Ice Mephit",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3150,
+                    "y": 7350,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16932,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Ice Mephit"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "esnQBn6umRrNl4hB"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "LsSztRAah9ECNyhH",
+                    "name": "Ice Mephit",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3290,
+                    "y": 7490,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16932,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Ice Mephit"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "esnQBn6umRrNl4hB"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "7sacPd10VkohEyl1",
+                    "name": "Ice Mephit",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3360,
+                    "y": 7630,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16932,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Ice Mephit"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "esnQBn6umRrNl4hB"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "TANG8tVmWcbwRToc",
+                    "name": "Piercer (Ice variant)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2660,
+                    "y": 6160,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123098,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Piercer (Ice variant)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "RSdNc7nlYxLLh5di"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "OvgrRtofoHaDGlfS",
+                    "name": "Piercer (Ice variant)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2450,
+                    "y": 6230,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123098,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Piercer (Ice variant)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "RSdNc7nlYxLLh5di"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "XRncQPecXLtQuUKN",
+                    "name": "Piercer (Ice variant)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2520,
+                    "y": 6090,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123098,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Piercer (Ice variant)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "RSdNc7nlYxLLh5di"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "N3bHNPOALj7Bj9Ck",
+                    "name": "Piercer (Ice variant)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2660,
+                    "y": 6300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123098,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Piercer (Ice variant)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "RSdNc7nlYxLLh5di"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "yYJ1pAxWCe60lV5s",
+                    "name": "Piercer (Ice variant)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2800,
+                    "y": 6090,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123098,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Piercer (Ice variant)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "RSdNc7nlYxLLh5di"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "l4qlI1MWrpn4tNdL",
+                    "name": "Piercer (Ice variant)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2800,
+                    "y": 6300,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123098,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Piercer (Ice variant)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "RSdNc7nlYxLLh5di"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "2VVogCWl9qPT3YV0",
+                    "name": "Piercer (Ice variant)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2660,
+                    "y": 6020,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123098,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Piercer (Ice variant)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "RSdNc7nlYxLLh5di"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "9b5zdwCsjMO48CXX",
+                    "name": "Auril (First Form)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3150,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123062,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Auril (First Form)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "2gj44eULDl0smM0E"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "OyMpViX2OYhwxQeo",
+                    "name": "Auril (Second Form)",
+                    "width": 2,
+                    "height": 2,
+                    "x": 3290,
+                    "y": 5180,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123063,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Auril (Second Form)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "UqUSEegsbRV5eNs9"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "FzzsfLzBeQgfk1ih",
+                    "name": "Auril (Third Form)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3500,
+                    "y": 5250,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123064,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Auril (Third Form)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "CIGW6mYkPBtmSVXw"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "XqJJ8PhLzLli23L8",
+                    "name": "Iskra",
+                    "width": 4,
+                    "height": 4,
+                    "x": 2520,
+                    "y": 3990,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16998,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Roc"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "zXtYM3qRCOXistT5"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Iskra"
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "9UhNRALelcy3yMh8",
+                    "name": "Ukuma",
+                    "width": 3,
+                    "height": 3,
+                    "x": 5600,
+                    "y": 5390,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123086,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Giant Walrus"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "w9SKybybwlmVy8Kn"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Ukuma"
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "QScrOo9R8L6LEPT6",
+                    "name": "Frost Giant Skeleton",
+                    "width": 3,
+                    "height": 3,
+                    "x": 5250,
+                    "y": 4060,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123084,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Frost Giant Skeleton"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "FDZfPgh42HNhMRUv"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "4JXg4BK1EeLwXA95",
+                    "name": "Frost Giant Skeleton",
+                    "width": 3,
+                    "height": 3,
+                    "x": 5600,
+                    "y": 4060,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123084,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Frost Giant Skeleton"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "FDZfPgh42HNhMRUv"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "Dz1z9l6FaL7HTya9",
+                    "name": "Faash",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5810,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123083,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Frost Druid"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rf4vgWhJ4haNDuIY"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {
+                        "name": "Faash",
+                        "system": {
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 3
+                                },
+                                "spell5": {
+                                    "value": 1
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "8mTfgEwvmbV9uAb3",
+                    "name": "Gildreban",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5880,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123083,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Frost Druid"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rf4vgWhJ4haNDuIY"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {
+                        "name": "Gildreban",
+                        "system": {
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 3
+                                },
+                                "spell5": {
+                                    "value": 1
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "r39Ntn0r5NbKxn2U",
+                    "name": "Siovakis",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5950,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123083,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Frost Druid"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rf4vgWhJ4haNDuIY"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {
+                        "name": "Siovakis",
+                        "system": {
+                            "spells": {
+                                "spell1": {
+                                    "value": 4
+                                },
+                                "spell2": {
+                                    "value": 3
+                                },
+                                "spell3": {
+                                    "value": 3
+                                },
+                                "spell4": {
+                                    "value": 3
+                                },
+                                "spell5": {
+                                    "value": 1
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "qoAvAtjOeIQmH0AY",
+                    "name": "Invisible Stalker",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5180,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16934,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Invisible Stalker"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "GhTnBKgbc9I57JmZ"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "G3jL1DR5vzG7dywb",
+                    "name": "Invisible Stalker",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5180,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16934,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Invisible Stalker"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "GhTnBKgbc9I57JmZ"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "dm4k5rquxDt7EcY3",
+                    "name": "Invisible Stalker",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5110,
+                    "y": 7000,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16934,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Invisible Stalker"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "GhTnBKgbc9I57JmZ"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ACTxZJT9MizM8JmW",
+                    "name": "Invisible Stalker",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5110,
+                    "y": 7070,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16934,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Invisible Stalker"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "GhTnBKgbc9I57JmZ"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": true,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "Grimskalle",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 98,
+                            "bookCode": "idrotf",
+                            "slug": "aurils-abode#Grimskalle",
+                            "linkName": "Grimskalle",
+                            "slugLink": "Grimskalle",
+                            "duplicate": false,
+                            "contentChunkId": null,
+                            "img": false,
+                            "note": false,
+                            "parentId": 1068
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3255,
+                            "y": 9275
+                        },
+                        {
+                            "x": 2555,
+                            "y": 8925
+                        },
+                        {
+                            "x": 3605,
+                            "y": 8645
+                        },
+                        {
+                            "x": 3815,
+                            "y": 8015
+                        },
+                        {
+                            "x": 2625,
+                            "y": 8225
+                        },
+                        {
+                            "x": 3325,
+                            "y": 7455
+                        },
+                        {
+                            "x": 2905,
+                            "y": 6335
+                        },
+                        {
+                            "x": 2555,
+                            "y": 5495
+                        },
+                        {
+                            "x": 2905,
+                            "y": 4375
+                        },
+                        {
+                            "x": 3100,
+                            "y": 2800
+                        },
+                        {
+                            "x": 5705,
+                            "y": 4445
+                        },
+                        {
+                            "x": 5845,
+                            "y": 4095
+                        },
+                        {
+                            "x": 5705,
+                            "y": 3815
+                        },
+                        {
+                            "x": 5670,
+                            "y": 3465
+                        },
+                        {
+                            "x": 6615,
+                            "y": 4585
+                        },
+                        {
+                            "x": 6895,
+                            "y": 5915
+                        },
+                        {
+                            "x": 4165,
+                            "y": 5915
+                        },
+                        {
+                            "x": 4445,
+                            "y": 4585
+                        },
+                        {
+                            "x": 4025,
+                            "y": 4655
+                        },
+                        {
+                            "x": 7245,
+                            "y": 4515
+                        },
+                        {
+                            "x": 7175,
+                            "y": 6335
+                        },
+                        {
+                            "x": 3885,
+                            "y": 6335
+                        },
+                        {
+                            "x": 5635,
+                            "y": 6405
+                        },
+                        {
+                            "x": 5775,
+                            "y": 6685
+                        },
+                        {
+                            "x": 5705,
+                            "y": 7035
+                        },
+                        {
+                            "x": 5635,
+                            "y": 7455
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ],
+            "img": "assets/modules/cyrens-maps-icewind-dale/background-images/C5/GrimskalleVTT(86x118).webp"
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrens-maps-icewind-dale.maps",
+                "scene": "a1OguiKGxdUZo37N"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Grimskalle"
+}

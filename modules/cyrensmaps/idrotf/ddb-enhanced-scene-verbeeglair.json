@@ -1,0 +1,1140 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "idrotf",
+            "foundryVersion": "10.290",
+            "tokens": [
+                {
+                    "_id": "6saGPwFFxlP1YdyT",
+                    "name": "Friend",
+                    "width": 2,
+                    "height": 2,
+                    "x": 1960,
+                    "y": 1050,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16969,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Ogre"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "I0bJM55m4eZS35np"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Friend",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        },
+                        "system": {
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "3GPxuzurN7B7vY8V",
+                    "name": "Duhg",
+                    "width": 2,
+                    "height": 2,
+                    "x": 1610,
+                    "y": 1330,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123133,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Verbeeg Marauder"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "h6Nptx2FgQyC7dpj"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Duhg",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "7JYfT7y1liCX3pjX",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2520,
+                    "y": 1680,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "LHOh5UDdFLJJtNgV",
+                    "name": "Polar Bear",
+                    "width": 2,
+                    "height": 2,
+                    "x": 980,
+                    "y": 1050,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16983,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Polar Bear"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "xyxDMSN1Brofr3LJ"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Polar Bear",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "etS1srTcTmbYFikH",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2520,
+                    "y": 1750,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "0TagcEaYPHW8UbgN",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2590,
+                    "y": 1750,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "EKF1cooOjB4S2Eew",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2660,
+                    "y": 1750,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "NXCDUWmxaGkLtDTF",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2730,
+                    "y": 1680,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "JBgTsznrVisD0HDt",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2520,
+                    "y": 1820,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "fCjnj3jTR42TKIll",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2590,
+                    "y": 1610,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "MSLSYUeex5yfhSmK",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2660,
+                    "y": 1610,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ao1o4wFDpqscVu9J",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2730,
+                    "y": 1610,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "dtM32SiaiDOrOYZN",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2590,
+                    "y": 1680,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "McSkM8gqPzq8mOOJ",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2660,
+                    "y": 1680,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "gETDZ6bYN6yHUIhd",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2730,
+                    "y": 1750,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "t6Wi7mbf0noAqzVJ",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2450,
+                    "y": 1750,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ESwLDBEC0EhllE4F",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2660,
+                    "y": 1540,
+                    "disposition": 0,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Goat",
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 0.25,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "The Mead Must Flow",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 49,
+                            "bookCode": "idrotf",
+                            "slug": "good-mead#TheMeadMustFlow",
+                            "linkName": "The Mead Must Flow",
+                            "slugLink": "TheMeadMustFlow",
+                            "duplicate": false,
+                            "contentChunkId": null,
+                            "img": false,
+                            "note": false,
+                            "parentId": 1080
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 1645,
+                            "y": 2275
+                        },
+                        {
+                            "x": 3395,
+                            "y": 1785
+                        },
+                        {
+                            "x": 2485,
+                            "y": 1715
+                        },
+                        {
+                            "x": 2905,
+                            "y": 945
+                        },
+                        {
+                            "x": 2135,
+                            "y": 1155
+                        },
+                        {
+                            "x": 1120,
+                            "y": 1715
+                        },
+                        {
+                            "x": 1155,
+                            "y": 945
+                        },
+                        {
+                            "x": 1785,
+                            "y": 1785
+                        },
+                        {
+                            "x": 1715,
+                            "y": 1330
+                        },
+                        {
+                            "x": 1715,
+                            "y": 910
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                }
+            ],
+            "img": "assets/modules/cyrens-maps-icewind-dale/background-images/C1/VerbeegLair-VTT(41x28).webp"
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrens-maps-icewind-dale.maps",
+                "scene": "G16QgIGYjFbkOdID"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Verbeeg Lair"
+}

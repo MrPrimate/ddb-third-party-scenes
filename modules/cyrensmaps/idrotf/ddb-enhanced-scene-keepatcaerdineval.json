@@ -1,0 +1,2936 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "idrotf",
+            "foundryVersion": "10.290",
+            "tokens": [
+                {
+                    "_id": "5q7yPiq10W7UCwTB",
+                    "name": "Sled Dog",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3990,
+                    "y": 3290,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 17062,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Wolf"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "QLeDWvy5ZQTBU1TS"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ZeIgjcn0e5E6Fhed",
+                    "name": "Sled Dog",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4060,
+                    "y": 3220,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 17062,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Wolf"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "QLeDWvy5ZQTBU1TS"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "EezZ9UuwdNTAb0zU",
+                    "name": "Sled Dog",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3990,
+                    "y": 3220,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 17062,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Wolf"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "QLeDWvy5ZQTBU1TS"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "dHKne4EOb58zHzF3",
+                    "name": "Sled Dog",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3920,
+                    "y": 3220,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 17062,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Wolf"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "QLeDWvy5ZQTBU1TS"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "VDqmWPx1b3mIOzwG",
+                    "name": "Sled Dog",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4060,
+                    "y": 3290,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 17062,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Wolf"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "QLeDWvy5ZQTBU1TS"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "EKLLdTM92kLwUGL9",
+                    "name": "Sled Dog",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4130,
+                    "y": 3220,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 17062,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Wolf"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "QLeDWvy5ZQTBU1TS"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "x43LrAmaDm8Kyi3L",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2870,
+                    "y": 3990,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "RHTe49kvuOncy4gl",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2800,
+                    "y": 3920,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "R5QsBmTQH4NOAxLk",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3010,
+                    "y": 3990,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "XxzzsJJIdVEqXDcT",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2520,
+                    "y": 2870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ihYLAL7HOLZCvpkx",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2590,
+                    "y": 2730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "XHuSBSsA10SGLXpE",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 2660,
+                    "y": 2800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "y1Yfeg6IuS2AUpfo",
+                    "name": "Kadroth",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3290,
+                    "y": 2590,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123104,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Kadroth"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "sTGD5EzugDoggmaq"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "st64TyS1wL0otzwM",
+                    "name": "Thoob",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3290,
+                    "y": 2870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "8jzMfP05GG6WC6Vc",
+                    "name": "Mere",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3780,
+                    "y": 2800,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Commoner"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "6vbNrssl9lpT1r44"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Mere",
+                        "system": {
+                            "details": {
+                                "type": {
+                                    "value": "humanoid",
+                                    "custom": "",
+                                    "subtype": "",
+                                    "swarm": ""
+                                },
+                                "alignment": "Tiefling"
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "czj9CajVtV1gtPPg",
+                    "name": "Karou Salafan",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4130,
+                    "y": 2590,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Commoner"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "6vbNrssl9lpT1r44"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Karou Salafan",
+                        "system": {
+                            "details": {
+                                "alignment": "Neutral Good Human"
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "sSrkl2B0ZJmRuEzo",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3990,
+                    "y": 2590,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "j9ikmZHfG0VJkiqG",
+                    "name": "Goat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 3990,
+                    "y": 2660,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16906,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Goat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "uuHocjoRwL5cNpUi"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "OZhwqqPovtRHCs0R",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4270,
+                    "y": 3920,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "4UZIkDBGFxYbFVfa",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4480,
+                    "y": 3780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "Ok8uFJ197a53ig9y",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4480,
+                    "y": 3990,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "bqmuZa2cH8SqE789",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4830,
+                    "y": 2800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "RY6UV1wMofQFbj1q",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4690,
+                    "y": 2730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "6GfpvMLS9u4vovK8",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4760,
+                    "y": 2660,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "8WklN7NZNJ5TDxA6",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5600,
+                    "y": 2730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "MDhO7eBYi7FbtTxZ",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5670,
+                    "y": 2730,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "wDT1xb5JFlxMAOjx",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5880,
+                    "y": 2800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "xcHjlfUD0QVopsQY",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 6020,
+                    "y": 3920,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ZMsPfAxN4W1VMcDw",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5810,
+                    "y": 4060,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "HDlTtXd0Q6ds6IUK",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 6090,
+                    "y": 3850,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "uWoPfLTGsaVMrU0k",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 7560,
+                    "y": 4060,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "5BGbZKhNFmBILBXR",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 7420,
+                    "y": 3780,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "atrr5iTsoBzVQdTx",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 7630,
+                    "y": 3990,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "2ZeidTGKzyvJ4eNz",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 7700,
+                    "y": 2800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "nVsevyhMFyaItOsd",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 7910,
+                    "y": 2870,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "NxX22MEeiV6fw3or",
+                    "name": "Cultist (Knights of the Black Sword)",
+                    "width": 1,
+                    "height": 1,
+                    "x": 7700,
+                    "y": 2800,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1128460,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cultist (Knights of the Black Sword)"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "rZnKpUleKaHpEc4X"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "OlUky5vk2HQB48fH",
+                    "name": "Fel Suparra",
+                    "width": 1,
+                    "height": 1,
+                    "x": 6930,
+                    "y": 3990,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16836,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cult Fanatic"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "k2T5mGnsKE4UWjAs"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Fel Suparra",
+                        "system": {
+                            "details": {
+                                "alignment": "Tiefling"
+                            },
+                            "traits": {
+                                "dr": {
+                                    "value": [
+                                        "fire"
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "eneFRWUIvE0iGCsZ",
+                    "name": "Huarwar Mulphoon",
+                    "width": 1,
+                    "height": 1,
+                    "x": 6790,
+                    "y": 3850,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16836,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cult Fanatic"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "k2T5mGnsKE4UWjAs"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Huarwar Mulphoon"
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "Sx5MbrwNlorOL7WS",
+                    "name": "Cat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 6230,
+                    "y": 3010,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16820,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Cat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "tdgsyUR8X7Rxtp4m"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Cat",
+                        "system": {
+                            "details": {
+                                "cr": "0"
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "ak4JxRc5HQJITc8L",
+                    "name": "Hethyl Arkorran",
+                    "width": 1,
+                    "height": 1,
+                    "x": 6230,
+                    "y": 2730,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Commoner"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "6vbNrssl9lpT1r44"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Hethyl Arkorran",
+                        "system": {
+                            "details": {
+                                "alignment": "Dwarf"
+                            },
+                            "attributes": {
+                                "senses": {
+                                    "darkvision": 60
+                                }
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "EP1seZUhJdELufy0",
+                    "name": "Avarice",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4900,
+                    "y": 5530,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123065,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Avarice"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "8yozlouqcbOGB5Dw"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "jmaZ9T9jtkbPiBKa",
+                    "name": "Raven",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4970,
+                    "y": 5530,
+                    "disposition": -1,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": "art/creatures/npcs/Raven_Tiny_Beast_01.png"
+                        },
+                        "ddbActorFlags": {
+                            "id": 16992,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Raven"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "621x2wnt9JNnzWzq"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Raven",
+                        "system": {
+                            "details": {
+                                "cr": "0"
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "fIqUsCM1Fsu6Kc24",
+                    "name": "Mylbara Norbrav",
+                    "width": 1,
+                    "height": 1,
+                    "x": 6020,
+                    "y": 4760,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Commoner"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "6vbNrssl9lpT1r44"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Mylbara Norbrav"
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "4WshZ75XEYNNUYg3",
+                    "name": "Tam Sharf",
+                    "width": 1,
+                    "height": 1,
+                    "x": 6020,
+                    "y": 4830,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Commoner"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "6vbNrssl9lpT1r44"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Tam Sharf"
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "XkxZXZSaqwH5t9WP",
+                    "name": "Dassir Ravenscar",
+                    "width": 1,
+                    "height": 1,
+                    "x": 6020,
+                    "y": 4900,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Commoner"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "6vbNrssl9lpT1r44"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Dassir Ravenscar"
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "f0DBnYtkQeIXHZDZ",
+                    "name": "Elprekt Norbrav",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5950,
+                    "y": 4830,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Commoner"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "6vbNrssl9lpT1r44"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Elprekt Norbrav"
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "kWKLaNyZ9ulo02y2",
+                    "name": "Lanthis Alderdusk",
+                    "width": 1,
+                    "height": 1,
+                    "x": 5880,
+                    "y": 4830,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16829,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Commoner"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "6vbNrssl9lpT1r44"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {
+                        "name": "Lanthis Alderdusk"
+                    },
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                },
+                {
+                    "_id": "7uPIsGAUFxajwvQZ",
+                    "name": "Rat",
+                    "width": 1,
+                    "height": 1,
+                    "x": 4410,
+                    "y": 4830,
+                    "disposition": 0,
+                    "flags": {
+                        "token-hud-wildcard": {
+                            "default": ""
+                        },
+                        "ddbActorFlags": {
+                            "id": 16991,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Rat"
+                        },
+                        "actorFolderId": "W2pm6AyVgnP7T4Bo",
+                        "compendiumActorId": "FPAxxV7jeDWB3aTS"
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "angle": 360,
+                        "alpha": 1,
+                        "animation": {
+                            "speed": 5,
+                            "intensity": 5,
+                            "type": null,
+                            "reverse": false
+                        },
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "Black Swords",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 28,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "linkName": "Black Swords",
+                            "slugLink": "BlackSwords",
+                            "duplicate": false,
+                            "contentChunkId": null,
+                            "img": false,
+                            "note": false,
+                            "parentId": 1071
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 2575,
+                            "y": 2875
+                        },
+                        {
+                            "x": 3535,
+                            "y": 3535
+                        },
+                        {
+                            "x": 4200,
+                            "y": 3360
+                        },
+                        {
+                            "x": 4235,
+                            "y": 3815
+                        },
+                        {
+                            "x": 2905,
+                            "y": 3675
+                        },
+                        {
+                            "x": 2625,
+                            "y": 3115
+                        },
+                        {
+                            "x": 4795,
+                            "y": 3115
+                        },
+                        {
+                            "x": 5985,
+                            "y": 2905
+                        },
+                        {
+                            "x": 7595,
+                            "y": 2835
+                        },
+                        {
+                            "x": 6265,
+                            "y": 3815
+                        },
+                        {
+                            "x": 7315,
+                            "y": 3815
+                        },
+                        {
+                            "x": 6475,
+                            "y": 3780
+                        },
+                        {
+                            "x": 7070,
+                            "y": 3780
+                        },
+                        {
+                            "x": 3710,
+                            "y": 2940
+                        },
+                        {
+                            "x": 6790,
+                            "y": 2975
+                        },
+                        {
+                            "x": 3395,
+                            "y": 2940
+                        },
+                        {
+                            "x": 3395,
+                            "y": 2590
+                        },
+                        {
+                            "x": 4235,
+                            "y": 3115
+                        },
+                        {
+                            "x": 4095,
+                            "y": 2590
+                        },
+                        {
+                            "x": 6440,
+                            "y": 3150
+                        },
+                        {
+                            "x": 6195,
+                            "y": 2590
+                        },
+                        {
+                            "x": 5075,
+                            "y": 1975
+                        },
+                        {
+                            "x": 7385,
+                            "y": 2625
+                        },
+                        {
+                            "x": 4305,
+                            "y": 5320
+                        },
+                        {
+                            "x": 4270,
+                            "y": 4935
+                        },
+                        {
+                            "x": 5145,
+                            "y": 5110
+                        },
+                        {
+                            "x": 4900,
+                            "y": 4865
+                        },
+                        {
+                            "x": 5285,
+                            "y": 5740
+                        },
+                        {
+                            "x": 4935,
+                            "y": 5740
+                        },
+                        {
+                            "x": 5635,
+                            "y": 5740
+                        },
+                        {
+                            "x": 6300,
+                            "y": 5250
+                        },
+                        {
+                            "x": 5985,
+                            "y": 4760
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                }
+            ],
+            "img": "assets/modules/cyrens-maps-icewind-dale/background-images/C1/KeepAtCaerDineval.webp"
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrens-maps-icewind-dale.maps",
+                "scene": "g5CgaJQ7II9TUDqf"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Keep at Caer Dineval"
+}

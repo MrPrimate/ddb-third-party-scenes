@@ -554,6 +554,158 @@
                     "book": "lmop"
                 }
             ]
+        },
+        "modules/cyrensmaps/idrotf": {
+            "name": "Cyrens Maps: Icewind Dale",
+            "description": "Cyrens Maps: Install the module from <a href=\"https://www.patreon.com/posts/icewind-dale-74773317\">https://www.patreon.com/posts/icewind-dale-74773317</a> and once activated let it auto import all the scenes. Then use this enhancer to enhance the imported adventure.",
+            "path": "modules/cyrensmaps/idrotf",
+            "module": "cyrens-maps-icewind-dale",
+            "released": true,
+            "books": [
+                "idrotf"
+            ],
+            "scenes": [
+                {
+                    "name": "Angajuks Bell",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Black Cabin",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Cackling Chasm",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Cauldron Cave",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Cave of the Berserkers",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Caves of Hunger",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Duergar Outpost",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Easthaven Town Hall",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Elven Tomb",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Frost Giant Lair",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Frozen Cave",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Gem Mine",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Grimskalle",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Id Ascendant",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Jarlmoot",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Karkolohk",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Keep at Caer Dineval",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Reghed Tribe Camps",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Revel's End",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Skytower Shelter",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Snowy streets",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Spire of Iriolarthas",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Sunblight Fortress",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "The Dark Duchess",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "The Lost Spire of Netheril",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Verbeeg Lair",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Wyrmdoom Crag",
+                    "description": "",
+                    "book": "idrotf"
+                },
+                {
+                    "name": "Ythrin Y4, Y7, Y15, Y20",
+                    "description": "",
+                    "book": "idrotf"
+                }
+            ]
         }
     }
 }

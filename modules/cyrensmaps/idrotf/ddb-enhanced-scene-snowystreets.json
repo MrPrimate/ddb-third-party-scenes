@@ -1,0 +1,107 @@
+{
+    "flags": {
+        "ddb": {
+            "bookCode": "idrotf",
+            "foundryVersion": "10.290",
+            "tokens": [
+                {
+                    "_id": "RTnKqBSuoqhAt6Ba",
+                    "name": "Chardalyn Dragon",
+                    "width": 3,
+                    "height": 3,
+                    "x": 2520,
+                    "y": 2380,
+                    "disposition": -1,
+                    "flags": {
+                        "ddbActorFlags": {
+                            "id": 1123071,
+                            "entityTypeId": 779871897,
+                            "creatureGroupId": null,
+                            "creatureFlags": [],
+                            "version": "999.0.0",
+                            "isLegacy": false,
+                            "flatAC": true,
+                            "name": "Chardalyn Dragon"
+                        }
+                    },
+                    "actorLink": false,
+                    "bar1": {
+                        "attribute": "attributes.hp"
+                    },
+                    "effects": [],
+                    "elevation": 0,
+                    "hidden": false,
+                    "actorData": {},
+                    "light": {
+                        "alpha": 0.5,
+                        "angle": 360,
+                        "bright": 0,
+                        "color": null,
+                        "coloration": 1,
+                        "dim": 0,
+                        "attenuation": 0.5,
+                        "luminosity": 0.5,
+                        "saturation": 0,
+                        "contrast": 0,
+                        "shadows": 0,
+                        "animation": {
+                            "type": null,
+                            "speed": 5,
+                            "intensity": 5,
+                            "reverse": false
+                        },
+                        "darkness": {
+                            "min": 0,
+                            "max": 1
+                        }
+                    }
+                }
+            ],
+            "notes": [
+                {
+                    "label": "Chapter 4: Destruction’s Light",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": 1075,
+                            "ddbId": 88,
+                            "bookCode": "idrotf",
+                            "slug": "destructions-light",
+                            "linkName": "Chapter 4: Destruction’s Light",
+                            "slugLink": "Chapter4DestructionsLight",
+                            "duplicate": false,
+                            "contentChunkId": null,
+                            "img": false,
+                            "note": false,
+                            "linkId": "nTJvDnDBYDxAenhg"
+                        }
+                    },
+                    "positions": [
+                        {
+                            "x": 3333,
+                            "y": 4260
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                }
+            ],
+            "img": "assets/modules/cyrens-maps-icewind-dale/background-images/C4/Snowy%20streets.webp"
+        },
+        "ddbimporter": {
+            "export": {
+                "description": "",
+                "actors": true,
+                "notes": true,
+                "lights": false,
+                "walls": false,
+                "drawings": false,
+                "config": false,
+                "compendium": "cyrens-maps-icewind-dale.maps",
+                "scene": "tBFLAJ2525NJvaEM"
+            },
+            "version": "999.0.0"
+        }
+    },
+    "name": "Snowy streets"
+}
