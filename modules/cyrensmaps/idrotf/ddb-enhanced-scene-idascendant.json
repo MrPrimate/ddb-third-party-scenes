@@ -566,33 +566,13 @@
             ],
             "notes": [
                 {
-                    "label": "N01. Forward Deck",
+                    "label": true,
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
                             "ddbId": 2123,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#IdAscendant",
-                            "userData": {
-                                "status": "success",
-                                "userId": 100515961,
-                                "userDisplayName": "MrPrimate",
-                                "twitchUserName": "PonyMcGuff",
-                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
-                                "email": "jackdavidthomas@gmail.com",
-                                "firstName": "",
-                                "lastName": "",
-                                "subscriptionPaidThruDate": 1692090256000,
-                                "subscriptionPlan": "ddb_master_annually",
-                                "subscriptionTierName": "master",
-                                "subscriptionProvider": "Stripe",
-                                "subscriptionStatus": "Active",
-                                "isLegendaryBundleBuyer": true,
-                                "isSourcebookBundleBuyer": false,
-                                "isAdventureBundleBuyer": false,
-                                "isAdventureLeagueBundleBuyer": false,
-                                "isMapBundleBuyer": false
-                            },
                             "linkName": "Chapter 2: Places of Interest",
                             "slugLink": "N9CaptainsQuarters",
                             "duplicate": false,
@@ -616,33 +596,13 @@
                     "textAnchor": 1
                 },
                 {
-                    "label": "N02. Cargo Hold",
+                    "label": true,
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
                             "ddbId": 2123,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#IdAscendant",
-                            "userData": {
-                                "status": "success",
-                                "userId": 100515961,
-                                "userDisplayName": "MrPrimate",
-                                "twitchUserName": "PonyMcGuff",
-                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
-                                "email": "jackdavidthomas@gmail.com",
-                                "firstName": "",
-                                "lastName": "",
-                                "subscriptionPaidThruDate": 1692090256000,
-                                "subscriptionPlan": "ddb_master_annually",
-                                "subscriptionTierName": "master",
-                                "subscriptionProvider": "Stripe",
-                                "subscriptionStatus": "Active",
-                                "isLegendaryBundleBuyer": true,
-                                "isSourcebookBundleBuyer": false,
-                                "isAdventureBundleBuyer": false,
-                                "isAdventureLeagueBundleBuyer": false,
-                                "isMapBundleBuyer": false
-                            },
                             "linkName": "Chapter 2: Places of Interest",
                             "slugLink": "N9CaptainsQuarters",
                             "duplicate": false,
@@ -666,33 +626,13 @@
                     "textAnchor": 1
                 },
                 {
-                    "label": "N03. Cryogenic Stasis Pods",
+                    "label": true,
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
                             "ddbId": 2123,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#IdAscendant",
-                            "userData": {
-                                "status": "success",
-                                "userId": 100515961,
-                                "userDisplayName": "MrPrimate",
-                                "twitchUserName": "PonyMcGuff",
-                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
-                                "email": "jackdavidthomas@gmail.com",
-                                "firstName": "",
-                                "lastName": "",
-                                "subscriptionPaidThruDate": 1692090256000,
-                                "subscriptionPlan": "ddb_master_annually",
-                                "subscriptionTierName": "master",
-                                "subscriptionProvider": "Stripe",
-                                "subscriptionStatus": "Active",
-                                "isLegendaryBundleBuyer": true,
-                                "isSourcebookBundleBuyer": false,
-                                "isAdventureBundleBuyer": false,
-                                "isAdventureLeagueBundleBuyer": false,
-                                "isMapBundleBuyer": false
-                            },
                             "linkName": "Chapter 2: Places of Interest",
                             "slugLink": "N9CaptainsQuarters",
                             "duplicate": false,
@@ -716,33 +656,13 @@
                     "textAnchor": 1
                 },
                 {
-                    "label": "N04. Battle Deck",
+                    "label": true,
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
                             "ddbId": 2123,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#IdAscendant",
-                            "userData": {
-                                "status": "success",
-                                "userId": 100515961,
-                                "userDisplayName": "MrPrimate",
-                                "twitchUserName": "PonyMcGuff",
-                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
-                                "email": "jackdavidthomas@gmail.com",
-                                "firstName": "",
-                                "lastName": "",
-                                "subscriptionPaidThruDate": 1692090256000,
-                                "subscriptionPlan": "ddb_master_annually",
-                                "subscriptionTierName": "master",
-                                "subscriptionProvider": "Stripe",
-                                "subscriptionStatus": "Active",
-                                "isLegendaryBundleBuyer": true,
-                                "isSourcebookBundleBuyer": false,
-                                "isAdventureBundleBuyer": false,
-                                "isAdventureLeagueBundleBuyer": false,
-                                "isMapBundleBuyer": false
-                            },
                             "linkName": "Chapter 2: Places of Interest",
                             "slugLink": "N9CaptainsQuarters",
                             "duplicate": false,
@@ -766,33 +686,13 @@
                     "textAnchor": 1
                 },
                 {
-                    "label": "N05. Maintenance",
+                    "label": true,
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
                             "ddbId": 2123,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#IdAscendant",
-                            "userData": {
-                                "status": "success",
-                                "userId": 100515961,
-                                "userDisplayName": "MrPrimate",
-                                "twitchUserName": "PonyMcGuff",
-                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
-                                "email": "jackdavidthomas@gmail.com",
-                                "firstName": "",
-                                "lastName": "",
-                                "subscriptionPaidThruDate": 1692090256000,
-                                "subscriptionPlan": "ddb_master_annually",
-                                "subscriptionTierName": "master",
-                                "subscriptionProvider": "Stripe",
-                                "subscriptionStatus": "Active",
-                                "isLegendaryBundleBuyer": true,
-                                "isSourcebookBundleBuyer": false,
-                                "isAdventureBundleBuyer": false,
-                                "isAdventureLeagueBundleBuyer": false,
-                                "isMapBundleBuyer": false
-                            },
                             "linkName": "Chapter 2: Places of Interest",
                             "slugLink": "N9CaptainsQuarters",
                             "duplicate": false,
@@ -816,33 +716,13 @@
                     "textAnchor": 1
                 },
                 {
-                    "label": "N06. Propulsion Room",
+                    "label": true,
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
                             "ddbId": 2123,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#IdAscendant",
-                            "userData": {
-                                "status": "success",
-                                "userId": 100515961,
-                                "userDisplayName": "MrPrimate",
-                                "twitchUserName": "PonyMcGuff",
-                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
-                                "email": "jackdavidthomas@gmail.com",
-                                "firstName": "",
-                                "lastName": "",
-                                "subscriptionPaidThruDate": 1692090256000,
-                                "subscriptionPlan": "ddb_master_annually",
-                                "subscriptionTierName": "master",
-                                "subscriptionProvider": "Stripe",
-                                "subscriptionStatus": "Active",
-                                "isLegendaryBundleBuyer": true,
-                                "isSourcebookBundleBuyer": false,
-                                "isAdventureBundleBuyer": false,
-                                "isAdventureLeagueBundleBuyer": false,
-                                "isMapBundleBuyer": false
-                            },
                             "linkName": "Chapter 2: Places of Interest",
                             "slugLink": "N9CaptainsQuarters",
                             "duplicate": false,
@@ -866,33 +746,13 @@
                     "textAnchor": 1
                 },
                 {
-                    "label": "N07. Bridge",
+                    "label": true,
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
                             "ddbId": 2123,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#IdAscendant",
-                            "userData": {
-                                "status": "success",
-                                "userId": 100515961,
-                                "userDisplayName": "MrPrimate",
-                                "twitchUserName": "PonyMcGuff",
-                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
-                                "email": "jackdavidthomas@gmail.com",
-                                "firstName": "",
-                                "lastName": "",
-                                "subscriptionPaidThruDate": 1692090256000,
-                                "subscriptionPlan": "ddb_master_annually",
-                                "subscriptionTierName": "master",
-                                "subscriptionProvider": "Stripe",
-                                "subscriptionStatus": "Active",
-                                "isLegendaryBundleBuyer": true,
-                                "isSourcebookBundleBuyer": false,
-                                "isAdventureBundleBuyer": false,
-                                "isAdventureLeagueBundleBuyer": false,
-                                "isMapBundleBuyer": false
-                            },
                             "linkName": "Chapter 2: Places of Interest",
                             "slugLink": "N9CaptainsQuarters",
                             "duplicate": false,
@@ -916,33 +776,13 @@
                     "textAnchor": 1
                 },
                 {
-                    "label": "N08. Observation Deck",
+                    "label": true,
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
                             "ddbId": 2123,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#IdAscendant",
-                            "userData": {
-                                "status": "success",
-                                "userId": 100515961,
-                                "userDisplayName": "MrPrimate",
-                                "twitchUserName": "PonyMcGuff",
-                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
-                                "email": "jackdavidthomas@gmail.com",
-                                "firstName": "",
-                                "lastName": "",
-                                "subscriptionPaidThruDate": 1692090256000,
-                                "subscriptionPlan": "ddb_master_annually",
-                                "subscriptionTierName": "master",
-                                "subscriptionProvider": "Stripe",
-                                "subscriptionStatus": "Active",
-                                "isLegendaryBundleBuyer": true,
-                                "isSourcebookBundleBuyer": false,
-                                "isAdventureBundleBuyer": false,
-                                "isAdventureLeagueBundleBuyer": false,
-                                "isMapBundleBuyer": false
-                            },
                             "linkName": "Chapter 2: Places of Interest",
                             "slugLink": "N9CaptainsQuarters",
                             "duplicate": false,
@@ -966,33 +806,13 @@
                     "textAnchor": 1
                 },
                 {
-                    "label": "N09. Captains’ Quarters",
+                    "label": true,
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
                             "ddbId": 2123,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#IdAscendant",
-                            "userData": {
-                                "status": "success",
-                                "userId": 100515961,
-                                "userDisplayName": "MrPrimate",
-                                "twitchUserName": "PonyMcGuff",
-                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
-                                "email": "jackdavidthomas@gmail.com",
-                                "firstName": "",
-                                "lastName": "",
-                                "subscriptionPaidThruDate": 1692090256000,
-                                "subscriptionPlan": "ddb_master_annually",
-                                "subscriptionTierName": "master",
-                                "subscriptionProvider": "Stripe",
-                                "subscriptionStatus": "Active",
-                                "isLegendaryBundleBuyer": true,
-                                "isSourcebookBundleBuyer": false,
-                                "isAdventureBundleBuyer": false,
-                                "isAdventureLeagueBundleBuyer": false,
-                                "isMapBundleBuyer": false
-                            },
                             "linkName": "Chapter 2: Places of Interest",
                             "slugLink": "N9CaptainsQuarters",
                             "duplicate": false,
