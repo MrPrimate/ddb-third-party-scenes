@@ -82,6 +82,7 @@ modulesFile.packages[moduleFile.path] = {
   "path": moduleFile.path,
   "module": moduleFile.module,
   "released": moduleFile.released,
+  "folder": moduleFile.folder,
   "books": [...new Set(moduleFile.scenes.map((scene) => scene.flags.ddb.bookCode))],
   "scenes": moduleFile.scenes.map((scene) => {
     return {
