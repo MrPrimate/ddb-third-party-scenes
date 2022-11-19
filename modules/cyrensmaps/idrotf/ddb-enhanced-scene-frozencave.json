@@ -292,31 +292,146 @@
             ],
             "notes": [
                 {
-                    "label": "Mountain Climb",
+                    "label": "Frozen Cave",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 59,
+                            "ddbId": 2098,
                             "bookCode": "idrotf",
                             "slug": "targos#MountainClimb",
-                            "linkName": "Mountain Climb",
-                            "slugLink": "MountainClimb",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Targos",
+                            "slugLink": "FrozenCave",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "c6912e93-b75a-4787-8305-e8c221de8cda",
                             "img": false,
-                            "note": false,
-                            "parentId": 1086
+                            "note": true,
+                            "parentId": 1086,
+                            "linkId": "yJgLXu1zLf1mE6QD",
+                            "pin": "36921612",
+                            "labelName": "Frozen Cave"
                         }
                     },
                     "positions": [
                         {
                             "x": 945,
                             "y": 805
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Frozen Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2098,
+                            "bookCode": "idrotf",
+                            "slug": "targos#MountainClimb",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Targos",
+                            "slugLink": "FrozenCave",
+                            "duplicate": false,
+                            "contentChunkId": "c6912e93-b75a-4787-8305-e8c221de8cda",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1086,
+                            "linkId": "yJgLXu1zLf1mE6QD",
+                            "pin": "36921612",
+                            "labelName": "Frozen Cave"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 595,
                             "y": 455
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Frozen Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2098,
+                            "bookCode": "idrotf",
+                            "slug": "targos#MountainClimb",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Targos",
+                            "slugLink": "FrozenCave",
+                            "duplicate": false,
+                            "contentChunkId": "c6912e93-b75a-4787-8305-e8c221de8cda",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1086,
+                            "linkId": "yJgLXu1zLf1mE6QD",
+                            "pin": "36921612",
+                            "labelName": "Frozen Cave"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1085,
                             "y": 1435

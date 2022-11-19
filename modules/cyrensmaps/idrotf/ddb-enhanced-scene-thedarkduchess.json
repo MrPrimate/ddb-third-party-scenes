@@ -578,67 +578,596 @@
             ],
             "notes": [
                 {
-                    "label": "Dark Duchess",
+                    "label": "D01. Main Deck",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 73,
+                            "ddbId": 2126,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#DarkDuchess",
-                            "linkName": "Dark Duchess",
-                            "slugLink": "DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
                             "img": false,
-                            "note": false,
-                            "parentId": 1084
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
                         }
                     },
                     "positions": [
                         {
                             "x": 1400,
                             "y": 1750
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "D02. Forecastle",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2126,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
+                            "duplicate": false,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1330,
                             "y": 1190
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "D03. Aft Castle",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2126,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
+                            "duplicate": false,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1330,
                             "y": 2240
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "D04. Surgeon’s Cabin",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2126,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
+                            "duplicate": false,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1960,
                             "y": 1330
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "D05. First Mate’s Cabin",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2126,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
+                            "duplicate": false,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2240,
                             "y": 1330
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "D06. Chart Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2126,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
+                            "duplicate": false,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2170,
                             "y": 1190
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "D07. Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2126,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
+                            "duplicate": false,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2100,
                             "y": 980
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "D08. Captain’s Cabin",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2126,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
+                            "duplicate": false,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2240,
                             "y": 2240
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "D09. Hold",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2126,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
+                            "duplicate": false,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3010,
                             "y": 1470
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "D10. Galley",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2126,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
+                            "duplicate": false,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3010,
                             "y": 1260
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "D11. Rum Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2126,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
+                            "duplicate": false,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2870,
                             "y": 1050
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "D12. Water Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2126,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#DarkDuchess",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "D12WaterStorage",
+                            "duplicate": false,
+                            "contentChunkId": "c27a683b-46fc-4dd8-84f0-0d45809c3dd1",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Uq1mP8fxbqhIFqgR",
+                            "pin": "44203172",
+                            "labelName": "D12. Water Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2940,
                             "y": 2310

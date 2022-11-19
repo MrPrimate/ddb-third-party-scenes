@@ -2764,147 +2764,1596 @@
             ],
             "notes": [
                 {
-                    "label": "Black Swords",
+                    "label": "C01. Main Gate",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 28,
+                            "ddbId": 2131,
                             "bookCode": "idrotf",
                             "slug": "caer-dineval#BlackSwords",
-                            "linkName": "Black Swords",
-                            "slugLink": "BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
                             "img": false,
-                            "note": false,
-                            "parentId": 1071
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
                         }
                     },
                     "positions": [
                         {
                             "x": 2575,
                             "y": 2875
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C02. Snowy Courtyard",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3535,
                             "y": 3535
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C03. Kennel and Sled Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4200,
                             "y": 3360
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C04. Guard Towers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4235,
                             "y": 3815
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C04. Guard Towers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2905,
                             "y": 3675
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C04. Guard Towers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2625,
                             "y": 3115
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C04. Guard Towers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4795,
                             "y": 3115
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C04. Guard Towers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5985,
                             "y": 2905
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C04. Guard Towers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 7595,
                             "y": 2835
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C04. Guard Towers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 6265,
                             "y": 3815
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C04. Guard Towers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 7315,
                             "y": 3815
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C05. Armory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 6475,
                             "y": 3780
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C06. Gatehouse",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 7070,
                             "y": 3780
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C07. Great Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3710,
                             "y": 2940
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C07. Great Hall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 6790,
                             "y": 2975
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C08. Speaker’s Den",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3395,
                             "y": 2940
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C09. Speaker’s Office",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3395,
                             "y": 2590
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C10. Servants’ Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4235,
                             "y": 3115
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C11. Kitchen",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4095,
                             "y": 2590
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C12. Kadroth’s Bedchamber",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 6440,
                             "y": 3150
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C13. Soothsayer’s Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 6195,
                             "y": 2590
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C14. Speaker’s Bedchamber",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5075,
                             "y": 1975
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C15. Old Library",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 7385,
                             "y": 2625
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C16. Under the Castle",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4305,
                             "y": 5320
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C17. Cold Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4270,
                             "y": 4935
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C18. West Cistern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5145,
                             "y": 5110
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C19. Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4900,
                             "y": 4865
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C20. Shrine to Levistus",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5285,
                             "y": 5740
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C21. Avarice’s Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4935,
                             "y": 5740
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C22. Iron Lever",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5635,
                             "y": 5740
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C23. East Cistern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 6300,
                             "y": 5250
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "C24. Prisoners",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2131,
+                            "bookCode": "idrotf",
+                            "slug": "caer-dineval#BlackSwords",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Dineval",
+                            "slugLink": "C24Prisoners",
+                            "duplicate": false,
+                            "contentChunkId": "91db9372-20b9-4101-a3c0-f45fe50040a7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1071,
+                            "linkId": "rXTd75yIngfg3efP",
+                            "pin": "41253275",
+                            "labelName": "C24. Prisoners"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5985,
                             "y": 4760

@@ -569,39 +569,241 @@
             ],
             "notes": [
                 {
-                    "label": "Jarlmoot",
+                    "label": "J01. Ring of Thrones",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 75,
+                            "ddbId": 2114,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#Jarlmoot",
-                            "linkName": "Jarlmoot",
-                            "slugLink": "Jarlmoot",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "J5ChamberofChests",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "474b4829-3636-477c-82a7-e389391fc739",
                             "img": false,
-                            "note": false,
-                            "parentId": 1084
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ciInlZmS8NY4R4H7",
+                            "labelName": "J05. Chamber of Chests"
                         }
                     },
                     "positions": [
                         {
                             "x": 2100,
                             "y": 2240
-                        },
+                        }
+                    ],
+                    "iconSize": 38,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "J02. Hall of Braziers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2114,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#Jarlmoot",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "J5ChamberofChests",
+                            "duplicate": false,
+                            "contentChunkId": "474b4829-3636-477c-82a7-e389391fc739",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ciInlZmS8NY4R4H7",
+                            "labelName": "J05. Chamber of Chests"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2100,
                             "y": 3920
-                        },
+                        }
+                    ],
+                    "iconSize": 38,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "J03. Curved Tunnel",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2114,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#Jarlmoot",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "J5ChamberofChests",
+                            "duplicate": false,
+                            "contentChunkId": "474b4829-3636-477c-82a7-e389391fc739",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ciInlZmS8NY4R4H7",
+                            "labelName": "J05. Chamber of Chests"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1610,
                             "y": 3710
-                        },
+                        }
+                    ],
+                    "iconSize": 38,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "J04. Turn the Gold Key?",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2114,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#Jarlmoot",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "J5ChamberofChests",
+                            "duplicate": false,
+                            "contentChunkId": "474b4829-3636-477c-82a7-e389391fc739",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ciInlZmS8NY4R4H7",
+                            "labelName": "J05. Chamber of Chests"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1540,
                             "y": 3150
-                        },
+                        }
+                    ],
+                    "iconSize": 38,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "J05. Chamber of Chests",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2114,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#Jarlmoot",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "J5ChamberofChests",
+                            "duplicate": false,
+                            "contentChunkId": "474b4829-3636-477c-82a7-e389391fc739",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ciInlZmS8NY4R4H7",
+                            "labelName": "J05. Chamber of Chests"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2660,
                             "y": 3710

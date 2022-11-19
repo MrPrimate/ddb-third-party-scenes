@@ -35,6 +35,18 @@
                     "hidden": true,
                     "actorData": {
                         "name": "Sahnar",
+                        "system": {
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
                         "flags": {
                             "midi-qol": {
                                 "concentration-damage": 0
@@ -96,6 +108,18 @@
                     "hidden": true,
                     "actorData": {
                         "name": "White Moose",
+                        "system": {
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
                         "flags": {
                             "midi-qol": {
                                 "concentration-damage": 0
@@ -157,6 +181,21 @@
                     "hidden": true,
                     "actorData": {
                         "name": "Shruby",
+                        "system": {
+                            "details": {
+                                "cr": "0"
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
                         "flags": {
                             "midi-qol": {
                                 "concentration-damage": 0
@@ -280,55 +319,446 @@
             ],
             "notes": [
                 {
-                    "label": "The White Moose",
+                    "label": "E01. Elf Statues",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 54,
+                            "ddbId": 2108,
                             "bookCode": "idrotf",
                             "slug": "lonelywood#TheWhiteMoose",
-                            "linkName": "The White Moose",
-                            "slugLink": "TheWhiteMoose",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Lonelywood",
+                            "slugLink": "E9SecondTomboftheHalfMoon",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "cae0d3c7-5253-4295-aed7-088ea546e09d",
                             "img": false,
-                            "note": false,
-                            "parentId": 1082
+                            "note": true,
+                            "parentId": 1082,
+                            "linkId": "qVvf8voXGKwZdsyt",
+                            "pin": "15081508",
+                            "labelName": "E09. Second Tomb of the Half-Moon"
                         }
                     },
                     "positions": [
                         {
                             "x": 2695,
                             "y": 1995
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "E02. Barrow Entrance",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2108,
+                            "bookCode": "idrotf",
+                            "slug": "lonelywood#TheWhiteMoose",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Lonelywood",
+                            "slugLink": "E9SecondTomboftheHalfMoon",
+                            "duplicate": false,
+                            "contentChunkId": "cae0d3c7-5253-4295-aed7-088ea546e09d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1082,
+                            "linkId": "qVvf8voXGKwZdsyt",
+                            "pin": "15081508",
+                            "labelName": "E09. Second Tomb of the Half-Moon"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2275,
                             "y": 1925
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "E03. Marble Gazebo",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2108,
+                            "bookCode": "idrotf",
+                            "slug": "lonelywood#TheWhiteMoose",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Lonelywood",
+                            "slugLink": "E9SecondTomboftheHalfMoon",
+                            "duplicate": false,
+                            "contentChunkId": "cae0d3c7-5253-4295-aed7-088ea546e09d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1082,
+                            "linkId": "qVvf8voXGKwZdsyt",
+                            "pin": "15081508",
+                            "labelName": "E09. Second Tomb of the Half-Moon"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2835,
                             "y": 945
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "E04. Sarcophagus and Crystal Pillars",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2108,
+                            "bookCode": "idrotf",
+                            "slug": "lonelywood#TheWhiteMoose",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Lonelywood",
+                            "slugLink": "E9SecondTomboftheHalfMoon",
+                            "duplicate": false,
+                            "contentChunkId": "cae0d3c7-5253-4295-aed7-088ea546e09d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1082,
+                            "linkId": "qVvf8voXGKwZdsyt",
+                            "pin": "15081508",
+                            "labelName": "E09. Second Tomb of the Half-Moon"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2870,
                             "y": 1435
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "E05. Moon Dial",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2108,
+                            "bookCode": "idrotf",
+                            "slug": "lonelywood#TheWhiteMoose",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Lonelywood",
+                            "slugLink": "E9SecondTomboftheHalfMoon",
+                            "duplicate": false,
+                            "contentChunkId": "cae0d3c7-5253-4295-aed7-088ea546e09d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1082,
+                            "linkId": "qVvf8voXGKwZdsyt",
+                            "pin": "15081508",
+                            "labelName": "E09. Second Tomb of the Half-Moon"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1855,
                             "y": 1505
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "E06. Barrow",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2108,
+                            "bookCode": "idrotf",
+                            "slug": "lonelywood#TheWhiteMoose",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Lonelywood",
+                            "slugLink": "E9SecondTomboftheHalfMoon",
+                            "duplicate": false,
+                            "contentChunkId": "cae0d3c7-5253-4295-aed7-088ea546e09d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1082,
+                            "linkId": "qVvf8voXGKwZdsyt",
+                            "pin": "15081508",
+                            "labelName": "E09. Second Tomb of the Half-Moon"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1715,
                             "y": 1645
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "E07. Mirror of the Full Moon",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2108,
+                            "bookCode": "idrotf",
+                            "slug": "lonelywood#TheWhiteMoose",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Lonelywood",
+                            "slugLink": "E9SecondTomboftheHalfMoon",
+                            "duplicate": false,
+                            "contentChunkId": "cae0d3c7-5253-4295-aed7-088ea546e09d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1082,
+                            "linkId": "qVvf8voXGKwZdsyt",
+                            "pin": "15081508",
+                            "labelName": "E09. Second Tomb of the Half-Moon"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1155,
                             "y": 1855
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "E08. First Tomb of the Half-Moon",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2108,
+                            "bookCode": "idrotf",
+                            "slug": "lonelywood#TheWhiteMoose",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Lonelywood",
+                            "slugLink": "E9SecondTomboftheHalfMoon",
+                            "duplicate": false,
+                            "contentChunkId": "cae0d3c7-5253-4295-aed7-088ea546e09d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1082,
+                            "linkId": "qVvf8voXGKwZdsyt",
+                            "pin": "15081508",
+                            "labelName": "E09. Second Tomb of the Half-Moon"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1435,
                             "y": 2065
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "E09. Second Tomb of the Half-Moon",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2108,
+                            "bookCode": "idrotf",
+                            "slug": "lonelywood#TheWhiteMoose",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Lonelywood",
+                            "slugLink": "E9SecondTomboftheHalfMoon",
+                            "duplicate": false,
+                            "contentChunkId": "cae0d3c7-5253-4295-aed7-088ea546e09d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1082,
+                            "linkId": "qVvf8voXGKwZdsyt",
+                            "pin": "15081508",
+                            "labelName": "E09. Second Tomb of the Half-Moon"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1225,
                             "y": 1015

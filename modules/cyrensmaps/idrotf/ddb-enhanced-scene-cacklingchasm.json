@@ -1293,51 +1293,396 @@
             ],
             "notes": [
                 {
-                    "label": "Cackling Chasm",
+                    "label": "Z01. Cave Mouth",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 71,
+                            "ddbId": 2107,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#CacklingChasm",
-                            "linkName": "Cackling Chasm",
-                            "slugLink": "CacklingChasm",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "Z8CagedBerserker",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "0b349c0e-ea47-4a21-8ac8-703cce8f233a",
                             "img": false,
-                            "note": false,
-                            "parentId": 1084
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ercbaXOHD054NVRH",
+                            "pin": "12501250",
+                            "labelName": "Z08. Caged Berserker"
                         }
                     },
                     "positions": [
                         {
                             "x": 1015,
                             "y": 2135
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Z02. Feasting Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2107,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#CacklingChasm",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "Z8CagedBerserker",
+                            "duplicate": false,
+                            "contentChunkId": "0b349c0e-ea47-4a21-8ac8-703cce8f233a",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ercbaXOHD054NVRH",
+                            "pin": "12501250",
+                            "labelName": "Z08. Caged Berserker"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1470,
                             "y": 2030
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Z03. Shrine to Yeenoghu",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2107,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#CacklingChasm",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "Z8CagedBerserker",
+                            "duplicate": false,
+                            "contentChunkId": "0b349c0e-ea47-4a21-8ac8-703cce8f233a",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ercbaXOHD054NVRH",
+                            "pin": "12501250",
+                            "labelName": "Z08. Caged Berserker"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1505,
                             "y": 1610
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Z04. Frozen Rift",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2107,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#CacklingChasm",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "Z8CagedBerserker",
+                            "duplicate": false,
+                            "contentChunkId": "0b349c0e-ea47-4a21-8ac8-703cce8f233a",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ercbaXOHD054NVRH",
+                            "pin": "12501250",
+                            "labelName": "Z08. Caged Berserker"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1085,
                             "y": 1505
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Z05. Chyzka’s Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2107,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#CacklingChasm",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "Z8CagedBerserker",
+                            "duplicate": false,
+                            "contentChunkId": "0b349c0e-ea47-4a21-8ac8-703cce8f233a",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ercbaXOHD054NVRH",
+                            "pin": "12501250",
+                            "labelName": "Z08. Caged Berserker"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 595,
                             "y": 1645
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Z06. Sleeping Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2107,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#CacklingChasm",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "Z8CagedBerserker",
+                            "duplicate": false,
+                            "contentChunkId": "0b349c0e-ea47-4a21-8ac8-703cce8f233a",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ercbaXOHD054NVRH",
+                            "pin": "12501250",
+                            "labelName": "Z08. Caged Berserker"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 560,
                             "y": 1155
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Z07. Storeroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2107,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#CacklingChasm",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "Z8CagedBerserker",
+                            "duplicate": false,
+                            "contentChunkId": "0b349c0e-ea47-4a21-8ac8-703cce8f233a",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ercbaXOHD054NVRH",
+                            "pin": "12501250",
+                            "labelName": "Z08. Caged Berserker"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 735,
                             "y": 770
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "Z08. Caged Berserker",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2107,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#CacklingChasm",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "Z8CagedBerserker",
+                            "duplicate": false,
+                            "contentChunkId": "0b349c0e-ea47-4a21-8ac8-703cce8f233a",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "ercbaXOHD054NVRH",
+                            "pin": "12501250",
+                            "labelName": "Z08. Caged Berserker"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 945,
                             "y": 910

@@ -279,35 +279,196 @@
             ],
             "notes": [
                 {
-                    "label": "Angajuk’s Bell",
+                    "label": "A01. Frozen Pier",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 69,
+                            "ddbId": 2082,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#AngajuksBell",
-                            "linkName": "Angajuk’s Bell",
-                            "slugLink": "AngajuksBell",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "A4HoleintheIce",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "ae5ff501-fd1f-4bb6-9fb7-f40692e9ceb5",
                             "img": false,
-                            "note": false,
-                            "parentId": 1084
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "4sOj1a7tqxkzkDQR",
+                            "pin": "12182262",
+                            "labelName": "A04. Hole in the Ice"
                         }
                     },
                     "positions": [
                         {
                             "x": 1015,
                             "y": 1995
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "A02. Stone Cabin",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2082,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#AngajuksBell",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "A4HoleintheIce",
+                            "duplicate": false,
+                            "contentChunkId": "ae5ff501-fd1f-4bb6-9fb7-f40692e9ceb5",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "4sOj1a7tqxkzkDQR",
+                            "pin": "12182262",
+                            "labelName": "A04. Hole in the Ice"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1540,
                             "y": 2100
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "A03. Bell",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2082,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#AngajuksBell",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "A4HoleintheIce",
+                            "duplicate": false,
+                            "contentChunkId": "ae5ff501-fd1f-4bb6-9fb7-f40692e9ceb5",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "4sOj1a7tqxkzkDQR",
+                            "pin": "12182262",
+                            "labelName": "A04. Hole in the Ice"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 595,
                             "y": 1120
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "A04. Hole in the Ice",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2082,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#AngajuksBell",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "A4HoleintheIce",
+                            "duplicate": false,
+                            "contentChunkId": "ae5ff501-fd1f-4bb6-9fb7-f40692e9ceb5",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "4sOj1a7tqxkzkDQR",
+                            "pin": "12182262",
+                            "labelName": "A04. Hole in the Ice"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 805,
                             "y": 1435

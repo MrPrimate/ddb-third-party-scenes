@@ -809,51 +809,396 @@
             ],
             "notes": [
                 {
-                    "label": "The Unseen",
+                    "label": "O01. Bunker",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 33,
+                            "ddbId": 2078,
                             "bookCode": "idrotf",
                             "slug": "caer-konig#TheUnseen",
-                            "linkName": "The Unseen",
-                            "slugLink": "TheUnseen",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Konig",
+                            "slugLink": "O8DuergarQuarters",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "6d29f39b-4f6b-4634-bf97-f482e62d31d7",
                             "img": false,
-                            "note": false,
-                            "parentId": 1072
+                            "note": true,
+                            "parentId": 1072,
+                            "linkId": "H9onCeaMqxQ2ArhS",
+                            "pin": "19252475",
+                            "labelName": "O08. Duergar Quarters"
                         }
                     },
                     "positions": [
                         {
                             "x": 5845,
                             "y": 3325
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "O02. Main Keep",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2078,
+                            "bookCode": "idrotf",
+                            "slug": "caer-konig#TheUnseen",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Konig",
+                            "slugLink": "O8DuergarQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "6d29f39b-4f6b-4634-bf97-f482e62d31d7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1072,
+                            "linkId": "H9onCeaMqxQ2ArhS",
+                            "pin": "19252475",
+                            "labelName": "O08. Duergar Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3185,
                             "y": 2695
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "O03. Overlook",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2078,
+                            "bookCode": "idrotf",
+                            "slug": "caer-konig#TheUnseen",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Konig",
+                            "slugLink": "O8DuergarQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "6d29f39b-4f6b-4634-bf97-f482e62d31d7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1072,
+                            "linkId": "H9onCeaMqxQ2ArhS",
+                            "pin": "19252475",
+                            "labelName": "O08. Duergar Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4655,
                             "y": 2065
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "O04. Armory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2078,
+                            "bookCode": "idrotf",
+                            "slug": "caer-konig#TheUnseen",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Konig",
+                            "slugLink": "O8DuergarQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "6d29f39b-4f6b-4634-bf97-f482e62d31d7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1072,
+                            "linkId": "H9onCeaMqxQ2ArhS",
+                            "pin": "19252475",
+                            "labelName": "O08. Duergar Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5775,
                             "y": 2065
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "O05. Chokepoint",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2078,
+                            "bookCode": "idrotf",
+                            "slug": "caer-konig#TheUnseen",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Konig",
+                            "slugLink": "O8DuergarQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "6d29f39b-4f6b-4634-bf97-f482e62d31d7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1072,
+                            "linkId": "H9onCeaMqxQ2ArhS",
+                            "pin": "19252475",
+                            "labelName": "O08. Duergar Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3115,
                             "y": 2065
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "O06. Commander’s Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2078,
+                            "bookCode": "idrotf",
+                            "slug": "caer-konig#TheUnseen",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Konig",
+                            "slugLink": "O8DuergarQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "6d29f39b-4f6b-4634-bf97-f482e62d31d7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1072,
+                            "linkId": "H9onCeaMqxQ2ArhS",
+                            "pin": "19252475",
+                            "labelName": "O08. Duergar Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2415,
                             "y": 2555
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "O07. Spore Servants",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2078,
+                            "bookCode": "idrotf",
+                            "slug": "caer-konig#TheUnseen",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Konig",
+                            "slugLink": "O8DuergarQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "6d29f39b-4f6b-4634-bf97-f482e62d31d7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1072,
+                            "linkId": "H9onCeaMqxQ2ArhS",
+                            "pin": "19252475",
+                            "labelName": "O08. Duergar Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3675,
                             "y": 3465
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "O08. Duergar Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2078,
+                            "bookCode": "idrotf",
+                            "slug": "caer-konig#TheUnseen",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Caer-Konig",
+                            "slugLink": "O8DuergarQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "6d29f39b-4f6b-4634-bf97-f482e62d31d7",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1072,
+                            "linkId": "H9onCeaMqxQ2ArhS",
+                            "pin": "19252475",
+                            "labelName": "O08. Duergar Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2835,
                             "y": 3465

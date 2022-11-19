@@ -263,87 +263,846 @@
             ],
             "notes": [
                 {
-                    "label": "Lost Spire of Netheril",
+                    "label": "P01. Upside-Down Entrance",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 78,
+                            "ddbId": 2115,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest-continued#LostSpireofNetheril",
-                            "linkName": "Lost Spire of Netheril",
-                            "slugLink": "LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
                             "img": false,
-                            "note": false,
-                            "parentId": 1083
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
                         }
                     },
                     "positions": [
                         {
                             "x": 1540,
                             "y": 1225
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P02. Upside-Down Corridor",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2030,
                             "y": 1155
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P03. Upside-Down Library",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1925,
                             "y": 1365
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P04. Upside-Down Workshop",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1785,
                             "y": 910
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P05. Upside-Down Potion Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1995,
                             "y": 945
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P06. Upside-Down Laboratory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2345,
                             "y": 1225
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P07. Upside-Down Apprentices’ Study",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2695,
                             "y": 945
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P08. Upside-Down Reading Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2345,
                             "y": 980
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P09. Collapsed Staircase",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2870,
                             "y": 1155
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P10. Rubble-filled Spiral Stairway",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2835,
                             "y": 1260
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P10. Rubble-filled Spiral Stairway",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2065,
                             "y": 2030
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P12. Snow and Shadow",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1960,
                             "y": 1680
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P13. Upside-Down Shrine",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1575,
                             "y": 1785
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P14. Upside-Down Refectory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2695,
                             "y": 1715
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P15. Upside-Down Bedchamber",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2555,
                             "y": 2170
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P16. Upside-Down Rune Chamber",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2415,
                             "y": 1715
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "P10. Rubble-filled Spiral Stairway",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2115,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "P10RubblefilledSpiralStairway",
+                            "duplicate": false,
+                            "contentChunkId": "748af758-40a3-4426-a591-63070019bd03",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "mpqkk9ovag2saWnH",
+                            "pin": "29642964",
+                            "labelName": "P10. Rubble-filled Spiral Stairway"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2835,
                             "y": 2030
@@ -354,15 +1113,34 @@
                     "textAnchor": 1
                 },
                 {
-                    "label": "Lost Spire of Netheril",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
                             "ddbId": 78,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest-continued#LostSpireofNetheril",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
                             "linkName": "Lost Spire of Netheril",
-                            "slugLink": "LostSpireofNetheril",
+                            "slugLink": "P11UpsideDownLaboratory",
                             "duplicate": false,
                             "contentChunkId": null,
                             "img": false,

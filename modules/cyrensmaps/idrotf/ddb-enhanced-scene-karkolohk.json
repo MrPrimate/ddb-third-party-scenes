@@ -3550,94 +3550,853 @@
             ],
             "notes": [
                 {
-                    "label": "Karkolohk",
+                    "label": "K01. Watchtowers",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 77,
+                            "ddbId": 2130,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest-continued#Karkolohk",
-                            "linkName": "Karkolohk",
-                            "slugLink": "Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
                             "img": false,
-                            "note": false,
-                            "parentId": 1083
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
                         }
                     },
                     "positions": [
                         {
                             "x": 6405,
                             "y": 3080
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K01. Watchtowers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5495,
                             "y": 4270
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K01. Watchtowers",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2240,
                             "y": 3780
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K02. Main Gate",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4410,
                             "y": 3920
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K03. Courtyard",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4200,
                             "y": 3220
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K04. Archer Platforms",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5390,
                             "y": 2030
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K04. Archer Platforms",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2730,
                             "y": 2730
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K04. Archer Platforms",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4830,
                             "y": 3360
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K04. Archer Platforms",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3920,
                             "y": 4270
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K05. Main Battle Platform",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3815,
                             "y": 2660
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K06. Healers’ Huts",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3080,
                             "y": 2310
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K07. Walk of Doom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1638,
                             "y": 1170
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K08. Goblin Huts",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3115,
                             "y": 3920
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K09. Main Keep Foyer",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4550,
                             "y": 2030
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K10. Guard Barracks",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4375,
                             "y": 1890
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K11. Dining Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4760,
                             "y": 1890
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "K12. Chief’s Quarters",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2130,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#Karkolohk",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "K12ChiefsQuarters",
+                            "duplicate": false,
+                            "contentChunkId": "d90485c7-27a2-48b4-9c33-b6ddf37ca9b6",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "sqoD3mZeOJfl33HT",
+                            "pin": "35621326",
+                            "labelName": "K12. Chief’s Quarters"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4795,
                             "y": 1715
                         }
                     ],
-                    "iconSize": 40,
-                    "textColor": null,
+                    "iconSize": 39,
+                    "textColor": "#FFFFFF",
                     "textAnchor": 1
                 }
             ],

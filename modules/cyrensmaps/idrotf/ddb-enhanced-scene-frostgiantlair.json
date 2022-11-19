@@ -572,51 +572,396 @@
             ],
             "notes": [
                 {
-                    "label": "Holed Up",
+                    "label": "L01. Exterior",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 38,
+                            "ddbId": 2072,
                             "bookCode": "idrotf",
                             "slug": "dougans-hole#HoledUp",
-                            "linkName": "Holed Up",
-                            "slugLink": "HoledUp",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Dougan’s Hole",
+                            "slugLink": "L8WhaleOilStorage",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "29914ed3-d54a-4280-90dc-478368fc2015",
                             "img": false,
-                            "note": false,
-                            "parentId": 1077
+                            "note": true,
+                            "parentId": 1077,
+                            "linkId": "WrCzrqdLlmC1NfgD",
+                            "pin": "29902990",
+                            "labelName": "L08. Whale Oil Storage"
                         }
                     },
                     "positions": [
                         {
                             "x": 6125,
                             "y": 2905
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "L02. Flensing Chamber",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2072,
+                            "bookCode": "idrotf",
+                            "slug": "dougans-hole#HoledUp",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Dougan’s Hole",
+                            "slugLink": "L8WhaleOilStorage",
+                            "duplicate": false,
+                            "contentChunkId": "29914ed3-d54a-4280-90dc-478368fc2015",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1077,
+                            "linkId": "WrCzrqdLlmC1NfgD",
+                            "pin": "29902990",
+                            "labelName": "L08. Whale Oil Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5285,
                             "y": 2345
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "L03. Caged Townsfolk",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2072,
+                            "bookCode": "idrotf",
+                            "slug": "dougans-hole#HoledUp",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Dougan’s Hole",
+                            "slugLink": "L8WhaleOilStorage",
+                            "duplicate": false,
+                            "contentChunkId": "29914ed3-d54a-4280-90dc-478368fc2015",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1077,
+                            "linkId": "WrCzrqdLlmC1NfgD",
+                            "pin": "29902990",
+                            "labelName": "L08. Whale Oil Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5075,
                             "y": 3885
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "L04. Entrance Corridor",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2072,
+                            "bookCode": "idrotf",
+                            "slug": "dougans-hole#HoledUp",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Dougan’s Hole",
+                            "slugLink": "L8WhaleOilStorage",
+                            "duplicate": false,
+                            "contentChunkId": "29914ed3-d54a-4280-90dc-478368fc2015",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1077,
+                            "linkId": "WrCzrqdLlmC1NfgD",
+                            "pin": "29902990",
+                            "labelName": "L08. Whale Oil Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5145,
                             "y": 2975
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "L05. Garagai’s Icy Tomb",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2072,
+                            "bookCode": "idrotf",
+                            "slug": "dougans-hole#HoledUp",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Dougan’s Hole",
+                            "slugLink": "L8WhaleOilStorage",
+                            "duplicate": false,
+                            "contentChunkId": "29914ed3-d54a-4280-90dc-478368fc2015",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1077,
+                            "linkId": "WrCzrqdLlmC1NfgD",
+                            "pin": "29902990",
+                            "labelName": "L08. Whale Oil Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4445,
                             "y": 2800
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "L06. War Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2072,
+                            "bookCode": "idrotf",
+                            "slug": "dougans-hole#HoledUp",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Dougan’s Hole",
+                            "slugLink": "L8WhaleOilStorage",
+                            "duplicate": false,
+                            "contentChunkId": "29914ed3-d54a-4280-90dc-478368fc2015",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1077,
+                            "linkId": "WrCzrqdLlmC1NfgD",
+                            "pin": "29902990",
+                            "labelName": "L08. Whale Oil Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3745,
                             "y": 2065
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "L07. Garagai’s Bedroll",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2072,
+                            "bookCode": "idrotf",
+                            "slug": "dougans-hole#HoledUp",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Dougan’s Hole",
+                            "slugLink": "L8WhaleOilStorage",
+                            "duplicate": false,
+                            "contentChunkId": "29914ed3-d54a-4280-90dc-478368fc2015",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1077,
+                            "linkId": "WrCzrqdLlmC1NfgD",
+                            "pin": "29902990",
+                            "labelName": "L08. Whale Oil Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3185,
                             "y": 3325
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "L08. Whale Oil Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2072,
+                            "bookCode": "idrotf",
+                            "slug": "dougans-hole#HoledUp",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Dougan’s Hole",
+                            "slugLink": "L8WhaleOilStorage",
+                            "duplicate": false,
+                            "contentChunkId": "29914ed3-d54a-4280-90dc-478368fc2015",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1077,
+                            "linkId": "WrCzrqdLlmC1NfgD",
+                            "pin": "29902990",
+                            "labelName": "L08. Whale Oil Storage"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4165,
                             "y": 4060

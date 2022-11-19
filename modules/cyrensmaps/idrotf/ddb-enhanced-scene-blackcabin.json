@@ -317,51 +317,396 @@
             ],
             "notes": [
                 {
-                    "label": "Black Cabin",
+                    "label": "B01. Outhouse",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 70,
+                            "ddbId": 2117,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest#BlackCabin",
-                            "linkName": "Black Cabin",
-                            "slugLink": "BlackCabin",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "B8MacreadussBedroom",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "c9c0ce1d-8399-40b3-970c-74a9c0156689",
                             "img": false,
-                            "note": false,
-                            "parentId": 1084
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Y5SUikM8zc1pnyT2",
+                            "pin": "21462030",
+                            "labelName": "B08. Macreadus’s Bedroom"
                         }
                     },
                     "positions": [
                         {
                             "x": 1225,
                             "y": 2205
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "B02. Wooden Walkway",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2117,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#BlackCabin",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "B8MacreadussBedroom",
+                            "duplicate": false,
+                            "contentChunkId": "c9c0ce1d-8399-40b3-970c-74a9c0156689",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Y5SUikM8zc1pnyT2",
+                            "pin": "21462030",
+                            "labelName": "B08. Macreadus’s Bedroom"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1120,
                             "y": 1820
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "B03. Workshop",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2117,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#BlackCabin",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "B8MacreadussBedroom",
+                            "duplicate": false,
+                            "contentChunkId": "c9c0ce1d-8399-40b3-970c-74a9c0156689",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Y5SUikM8zc1pnyT2",
+                            "pin": "21462030",
+                            "labelName": "B08. Macreadus’s Bedroom"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1435,
                             "y": 1505
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "B04. Main Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2117,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#BlackCabin",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "B8MacreadussBedroom",
+                            "duplicate": false,
+                            "contentChunkId": "c9c0ce1d-8399-40b3-970c-74a9c0156689",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Y5SUikM8zc1pnyT2",
+                            "pin": "21462030",
+                            "labelName": "B08. Macreadus’s Bedroom"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 630,
                             "y": 1295
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "B05. Sweetberry Summer Wine",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2117,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#BlackCabin",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "B8MacreadussBedroom",
+                            "duplicate": false,
+                            "contentChunkId": "c9c0ce1d-8399-40b3-970c-74a9c0156689",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Y5SUikM8zc1pnyT2",
+                            "pin": "21462030",
+                            "labelName": "B08. Macreadus’s Bedroom"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 700,
                             "y": 910
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "B06. Laboratory",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2117,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#BlackCabin",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "B8MacreadussBedroom",
+                            "duplicate": false,
+                            "contentChunkId": "c9c0ce1d-8399-40b3-970c-74a9c0156689",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Y5SUikM8zc1pnyT2",
+                            "pin": "21462030",
+                            "labelName": "B08. Macreadus’s Bedroom"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 980,
                             "y": 910
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "B07. Abandoned Bedroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2117,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#BlackCabin",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "B8MacreadussBedroom",
+                            "duplicate": false,
+                            "contentChunkId": "c9c0ce1d-8399-40b3-970c-74a9c0156689",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Y5SUikM8zc1pnyT2",
+                            "pin": "21462030",
+                            "labelName": "B08. Macreadus’s Bedroom"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1330,
                             "y": 910
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "B08. Macreadus’s Bedroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2117,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest#BlackCabin",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest",
+                            "slugLink": "B8MacreadussBedroom",
+                            "duplicate": false,
+                            "contentChunkId": "c9c0ce1d-8399-40b3-970c-74a9c0156689",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1084,
+                            "linkId": "Y5SUikM8zc1pnyT2",
+                            "pin": "21462030",
+                            "labelName": "B08. Macreadus’s Bedroom"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1470,
                             "y": 1330

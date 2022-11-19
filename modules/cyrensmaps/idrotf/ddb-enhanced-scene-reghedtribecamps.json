@@ -4838,13 +4838,35 @@
                             "ddbId": 79,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest-continued#ReghedTribeCamp",
-                            "linkName": "Reghed Tribe Camp",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
                             "slugLink": "ReghedTribeCamp",
                             "duplicate": false,
                             "contentChunkId": null,
                             "img": false,
                             "note": false,
-                            "parentId": 1083
+                            "parentId": 1083,
+                            "linkId": "MeBGBkVouIzYjlkn",
+                            "labelName": "Reghed Tribe Camp"
                         }
                     },
                     "positions": [

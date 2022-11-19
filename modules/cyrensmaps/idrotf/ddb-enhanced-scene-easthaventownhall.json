@@ -104,7 +104,26 @@
                     "effects": [],
                     "elevation": 0,
                     "hidden": true,
-                    "actorData": {},
+                    "actorData": {
+                        "name": "White Lady of Lac Dinneshere",
+                        "system": {
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
                     "light": {
                         "alpha": 0.5,
                         "angle": 360,
@@ -156,7 +175,26 @@
                     "effects": [],
                     "elevation": 0,
                     "hidden": true,
-                    "actorData": {},
+                    "actorData": {
+                        "name": "Durth Sunblight",
+                        "system": {
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
+                        "flags": {
+                            "midi-qol": {
+                                "concentration-damage": 0
+                            }
+                        }
+                    },
                     "light": {
                         "alpha": 0.5,
                         "angle": 360,
@@ -592,95 +630,946 @@
             ],
             "notes": [
                 {
-                    "label": "Town Hall Capers",
+                    "label": "T01. Reception Hall",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 44,
+                            "ddbId": 2100,
                             "bookCode": "idrotf",
                             "slug": "easthaven#TownHallCapers",
-                            "linkName": "Town Hall Capers",
-                            "slugLink": "TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
                             "img": false,
-                            "note": false,
-                            "parentId": 1078
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
                         }
                     },
                     "positions": [
                         {
                             "x": 1295,
                             "y": 1785
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T02. Administrative Office",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1890,
                             "y": 1785
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T03. Speaker’s Office",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1925,
                             "y": 1155
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T04. Coat Closet",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1925,
                             "y": 1435
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T05. Privy",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1645,
                             "y": 1365
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T06. Chardalyn Figurehead",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2275,
                             "y": 1715
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T07. Chair Storage",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2205,
                             "y": 1155
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T08. Records Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2415,
                             "y": 1155
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T09. Event Venue",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3255,
                             "y": 1575
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T10. Small Claims Court",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2975,
                             "y": 1505
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T11. Fishing Permits",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2975,
                             "y": 1225
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T12. Employee Breakroom",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3325,
                             "y": 1155
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T13. Supply Closet",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3570,
                             "y": 2730
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T14. Town Library",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2205,
                             "y": 2555
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T15. Office and Storage Space",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1855,
                             "y": 2345
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T16. Stairs to the Dungeon",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3290,
                             "y": 2555
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T17. Jailers’ Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3675,
                             "y": 2380
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T18. Jail",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2905,
                             "y": 2660
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "T19. Interrogation Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2100,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#TownHallCapers",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "T19InterrogationRoom",
+                            "duplicate": false,
+                            "contentChunkId": "cab4ff97-7e36-49e0-a74b-d6218400aef8",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "mLdFFPaqGKd8gc2R",
+                            "pin": "41503050",
+                            "labelName": "T19. Interrogation Room"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3045,
                             "y": 2065

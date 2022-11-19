@@ -733,7 +733,7 @@
                     "elevation": 0,
                     "hidden": false,
                     "actorData": {
-                        "name": "Harad Cloudstrider Akannathi ",
+                        "name": "Harad Cloudstrider Akannathi",
                         "system": {
                             "attributes": {
                                 "hp": {
@@ -811,7 +811,7 @@
                     "elevation": 0,
                     "hidden": false,
                     "actorData": {
-                        "name": "Kaniaka Stormcrow Akannathi ",
+                        "name": "Kaniaka Stormcrow Akannathi",
                         "system": {
                             "attributes": {
                                 "hp": {
@@ -1544,59 +1544,496 @@
             ],
             "notes": [
                 {
-                    "label": "Skytower Shelter",
+                    "label": "S01. Stone Causeway",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 81,
+                            "ddbId": 2141,
                             "bookCode": "idrotf",
                             "slug": "places-of-interest-continued#SkytowerShelter",
-                            "linkName": "Skytower Shelter",
-                            "slugLink": "SkytowerShelter",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "S10CommunalCave",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "f5b59166-27ac-4b3e-8f2f-28b2c713c8ae",
                             "img": false,
-                            "note": false,
-                            "parentId": 1083
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "vQSthfEIrw4f0jw9",
+                            "pin": "20593393",
+                            "labelName": "S10. Communal Cave"
                         }
                     },
                     "positions": [
                         {
                             "x": 2520,
                             "y": 4340
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "S02. Barricade and Chieftain",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2141,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#SkytowerShelter",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "S10CommunalCave",
+                            "duplicate": false,
+                            "contentChunkId": "f5b59166-27ac-4b3e-8f2f-28b2c713c8ae",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "vQSthfEIrw4f0jw9",
+                            "pin": "20593393",
+                            "labelName": "S10. Communal Cave"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3500,
                             "y": 4760
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "S03. Overlook",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2141,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#SkytowerShelter",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "S10CommunalCave",
+                            "duplicate": false,
+                            "contentChunkId": "f5b59166-27ac-4b3e-8f2f-28b2c713c8ae",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "vQSthfEIrw4f0jw9",
+                            "pin": "20593393",
+                            "labelName": "S10. Communal Cave"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3500,
                             "y": 5600
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "S04. Chieftain’s Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2141,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#SkytowerShelter",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "S10CommunalCave",
+                            "duplicate": false,
+                            "contentChunkId": "f5b59166-27ac-4b3e-8f2f-28b2c713c8ae",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "vQSthfEIrw4f0jw9",
+                            "pin": "20593393",
+                            "labelName": "S10. Communal Cave"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4340,
                             "y": 6160
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "S05. Shrine of Mind and Spirit",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2141,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#SkytowerShelter",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "S10CommunalCave",
+                            "duplicate": false,
+                            "contentChunkId": "f5b59166-27ac-4b3e-8f2f-28b2c713c8ae",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "vQSthfEIrw4f0jw9",
+                            "pin": "20593393",
+                            "labelName": "S10. Communal Cave"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5390,
                             "y": 5600
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "S06. Griffons’ Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2141,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#SkytowerShelter",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "S10CommunalCave",
+                            "duplicate": false,
+                            "contentChunkId": "f5b59166-27ac-4b3e-8f2f-28b2c713c8ae",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "vQSthfEIrw4f0jw9",
+                            "pin": "20593393",
+                            "labelName": "S10. Communal Cave"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5600,
                             "y": 4480
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "S07. Shrine of Strength and Honor",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2141,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#SkytowerShelter",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "S10CommunalCave",
+                            "duplicate": false,
+                            "contentChunkId": "f5b59166-27ac-4b3e-8f2f-28b2c713c8ae",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "vQSthfEIrw4f0jw9",
+                            "pin": "20593393",
+                            "labelName": "S10. Communal Cave"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3360,
                             "y": 6860
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "S08. Passage of Carvings",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2141,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#SkytowerShelter",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "S10CommunalCave",
+                            "duplicate": false,
+                            "contentChunkId": "f5b59166-27ac-4b3e-8f2f-28b2c713c8ae",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "vQSthfEIrw4f0jw9",
+                            "pin": "20593393",
+                            "labelName": "S10. Communal Cave"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2940,
                             "y": 7000
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "S09. Feasting Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2141,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#SkytowerShelter",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "S10CommunalCave",
+                            "duplicate": false,
+                            "contentChunkId": "f5b59166-27ac-4b3e-8f2f-28b2c713c8ae",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "vQSthfEIrw4f0jw9",
+                            "pin": "20593393",
+                            "labelName": "S10. Communal Cave"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4060,
                             "y": 8820
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "S10. Communal Cave",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2141,
+                            "bookCode": "idrotf",
+                            "slug": "places-of-interest-continued#SkytowerShelter",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 2: Places of Interest continued",
+                            "slugLink": "S10CommunalCave",
+                            "duplicate": false,
+                            "contentChunkId": "f5b59166-27ac-4b3e-8f2f-28b2c713c8ae",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1083,
+                            "linkId": "vQSthfEIrw4f0jw9",
+                            "pin": "20593393",
+                            "labelName": "S10. Communal Cave"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5040,
                             "y": 8540

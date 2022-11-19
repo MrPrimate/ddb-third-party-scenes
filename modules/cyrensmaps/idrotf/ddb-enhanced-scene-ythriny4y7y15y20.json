@@ -1151,35 +1151,188 @@
             ],
             "notes": [
                 {
-                    "label": "Necropolis of Ythryn Locations",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 109,
+                            "ddbId": 2357,
                             "bookCode": "idrotf",
                             "slug": "doom-of-ythryn#NecropolisofYthrynLocations",
-                            "linkName": "Necropolis of Ythryn Locations",
-                            "slugLink": "NecropolisofYthrynLocations",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 7: Doom of Ythryn",
+                            "slugLink": "Y4TowerofAbjuration",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "efc1eb7e-77d0-44aa-872d-a5fcb4539c95",
                             "img": false,
-                            "note": false,
-                            "parentId": 1076
+                            "note": true,
+                            "parentId": 1076,
+                            "linkId": "YRl4DzQS05HAccz8",
+                            "labelName": "Y19q. Iriolarthas’s Study"
                         }
                     },
                     "positions": [
                         {
                             "x": 1204,
                             "y": 2670
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2357,
+                            "bookCode": "idrotf",
+                            "slug": "doom-of-ythryn#NecropolisofYthrynLocations",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 7: Doom of Ythryn",
+                            "slugLink": "Y4TowerofAbjuration",
+                            "duplicate": false,
+                            "contentChunkId": "efc1eb7e-77d0-44aa-872d-a5fcb4539c95",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1076,
+                            "linkId": "YRl4DzQS05HAccz8",
+                            "labelName": "Y19q. Iriolarthas’s Study"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4317,
                             "y": 1290
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2357,
+                            "bookCode": "idrotf",
+                            "slug": "doom-of-ythryn#NecropolisofYthrynLocations",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 7: Doom of Ythryn",
+                            "slugLink": "Y4TowerofAbjuration",
+                            "duplicate": false,
+                            "contentChunkId": "efc1eb7e-77d0-44aa-872d-a5fcb4539c95",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1076,
+                            "linkId": "YRl4DzQS05HAccz8",
+                            "labelName": "Y19q. Iriolarthas’s Study"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1103,
                             "y": 1263
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": "#FFFFFF",
+                    "textAnchor": 1
+                },
+                {
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2357,
+                            "bookCode": "idrotf",
+                            "slug": "doom-of-ythryn#NecropolisofYthrynLocations",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Chapter 7: Doom of Ythryn",
+                            "slugLink": "Y4TowerofAbjuration",
+                            "duplicate": false,
+                            "contentChunkId": "efc1eb7e-77d0-44aa-872d-a5fcb4539c95",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1076,
+                            "linkId": "YRl4DzQS05HAccz8",
+                            "labelName": "Y19q. Iriolarthas’s Study"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4223,
                             "y": 2823

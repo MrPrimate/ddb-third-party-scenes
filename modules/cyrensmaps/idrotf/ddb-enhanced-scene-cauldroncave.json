@@ -40,6 +40,18 @@
                     "hidden": true,
                     "actorData": {
                         "name": "Maud Chiselbone",
+                        "system": {
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
                         "flags": {
                             "midi-qol": {
                                 "concentration-damage": 0
@@ -206,6 +218,21 @@
                     "hidden": true,
                     "actorData": {
                         "name": "Crawling Claw",
+                        "system": {
+                            "details": {
+                                "cr": "0"
+                            },
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
                         "flags": {
                             "midi-qol": {
                                 "concentration-damage": 0
@@ -267,6 +294,18 @@
                     "hidden": true,
                     "actorData": {
                         "name": "Frost Giant Skeleton",
+                        "system": {
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
                         "flags": {
                             "midi-qol": {
                                 "concentration-damage": 0
@@ -328,6 +367,18 @@
                     "hidden": false,
                     "actorData": {
                         "name": "Dire Wolf",
+                        "system": {
+                            "attributes": {
+                                "hp": {
+                                    "temp": null
+                                }
+                            },
+                            "resources": {
+                                "lair": {
+                                    "value": false
+                                }
+                            }
+                        },
                         "flags": {
                             "midi-qol": {
                                 "concentration-damage": 0
@@ -600,59 +651,496 @@
             ],
             "notes": [
                 {
-                    "label": "Toil and Trouble",
+                    "label": "U01. Cave Mouths",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 43,
+                            "ddbId": 2079,
                             "bookCode": "idrotf",
                             "slug": "easthaven#ToilandTrouble",
-                            "linkName": "Toil and Trouble",
-                            "slugLink": "ToilandTrouble",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "U10CauldronofPlenty",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "da69f63b-a73a-4177-9d20-2a6fa4798c0d",
                             "img": false,
-                            "note": false,
-                            "parentId": 1078
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "uVl78TSRLrLstQz5",
+                            "pin": "45502366",
+                            "labelName": "U10. Cauldron of Plenty"
                         }
                     },
                     "positions": [
                         {
                             "x": 1645,
                             "y": 2485
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "U02. Dire Wolf Den",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2079,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#ToilandTrouble",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "U10CauldronofPlenty",
+                            "duplicate": false,
+                            "contentChunkId": "da69f63b-a73a-4177-9d20-2a6fa4798c0d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "uVl78TSRLrLstQz5",
+                            "pin": "45502366",
+                            "labelName": "U10. Cauldron of Plenty"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2835,
                             "y": 3395
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "U03. Cave Drawings",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2079,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#ToilandTrouble",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "U10CauldronofPlenty",
+                            "duplicate": false,
+                            "contentChunkId": "da69f63b-a73a-4177-9d20-2a6fa4798c0d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "uVl78TSRLrLstQz5",
+                            "pin": "45502366",
+                            "labelName": "U10. Cauldron of Plenty"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2695,
                             "y": 1575
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "U04. Moaning Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2079,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#ToilandTrouble",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "U10CauldronofPlenty",
+                            "duplicate": false,
+                            "contentChunkId": "da69f63b-a73a-4177-9d20-2a6fa4798c0d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "uVl78TSRLrLstQz5",
+                            "pin": "45502366",
+                            "labelName": "U10. Cauldron of Plenty"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2975,
                             "y": 2415
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "U05. Icy Bridge",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2079,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#ToilandTrouble",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "U10CauldronofPlenty",
+                            "duplicate": false,
+                            "contentChunkId": "da69f63b-a73a-4177-9d20-2a6fa4798c0d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "uVl78TSRLrLstQz5",
+                            "pin": "45502366",
+                            "labelName": "U10. Cauldron of Plenty"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3745,
                             "y": 2765
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "U06. Old Camp",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2079,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#ToilandTrouble",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "U10CauldronofPlenty",
+                            "duplicate": false,
+                            "contentChunkId": "da69f63b-a73a-4177-9d20-2a6fa4798c0d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "uVl78TSRLrLstQz5",
+                            "pin": "45502366",
+                            "labelName": "U10. Cauldron of Plenty"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 4445,
                             "y": 2975
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "U07. Waterfall",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2079,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#ToilandTrouble",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "U10CauldronofPlenty",
+                            "duplicate": false,
+                            "contentChunkId": "da69f63b-a73a-4177-9d20-2a6fa4798c0d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "uVl78TSRLrLstQz5",
+                            "pin": "45502366",
+                            "labelName": "U10. Cauldron of Plenty"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2574,
                             "y": 2990
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "U08. Sacred Spring",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2079,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#ToilandTrouble",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "U10CauldronofPlenty",
+                            "duplicate": false,
+                            "contentChunkId": "da69f63b-a73a-4177-9d20-2a6fa4798c0d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "uVl78TSRLrLstQz5",
+                            "pin": "45502366",
+                            "labelName": "U10. Cauldron of Plenty"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5495,
                             "y": 2415
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "U09. Ossuary",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2079,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#ToilandTrouble",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "U10CauldronofPlenty",
+                            "duplicate": false,
+                            "contentChunkId": "da69f63b-a73a-4177-9d20-2a6fa4798c0d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "uVl78TSRLrLstQz5",
+                            "pin": "45502366",
+                            "labelName": "U10. Cauldron of Plenty"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 5075,
                             "y": 3955
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "U10. Cauldron of Plenty",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2079,
+                            "bookCode": "idrotf",
+                            "slug": "easthaven#ToilandTrouble",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Easthaven",
+                            "slugLink": "U10CauldronofPlenty",
+                            "duplicate": false,
+                            "contentChunkId": "da69f63b-a73a-4177-9d20-2a6fa4798c0d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1078,
+                            "linkId": "uVl78TSRLrLstQz5",
+                            "pin": "45502366",
+                            "labelName": "U10. Cauldron of Plenty"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 6125,
                             "y": 3255

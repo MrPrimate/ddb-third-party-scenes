@@ -747,71 +747,646 @@
             ],
             "notes": [
                 {
-                    "label": "A Beautiful Mine",
+                    "label": "M01. Tool Room",
                     "flags": {
                         "ddb": {
                             "cobaltId": null,
-                            "ddbId": 64,
+                            "ddbId": 2128,
                             "bookCode": "idrotf",
                             "slug": "termalaine#ABeautifulMine",
-                            "linkName": "A Beautiful Mine",
-                            "slugLink": "ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
                             "duplicate": false,
-                            "contentChunkId": null,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
                             "img": false,
-                            "note": false,
-                            "parentId": 1088
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
                         }
                     },
                     "positions": [
                         {
                             "x": 1155,
                             "y": 1085
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M02. Gem Deposits",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1645,
                             "y": 875
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M03. River Cavern",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1715,
                             "y": 1575
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M04. Processing Room",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1225,
                             "y": 1855
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M05. Underdark Shaft, Level 1",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 1575,
                             "y": 1855
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M06. Bucket Lift",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2030,
                             "y": 2135
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M07. Bucket Lift Landing",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3045,
                             "y": 1365
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M08. Grell Lair",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3395,
                             "y": 875
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M09. Hungry Kobolds",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2555,
                             "y": 1365
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M10. Underdark Shaft, Level 3",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3045,
                             "y": 1925
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M11. Kobold Tunnels",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2415,
                             "y": 1995
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M12. Fossilized Skull and Psi Crystal",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 2905,
                             "y": 2275
-                        },
+                        }
+                    ],
+                    "iconSize": 40,
+                    "textColor": null,
+                    "textAnchor": 1
+                },
+                {
+                    "label": "M13. Geode Workface",
+                    "flags": {
+                        "ddb": {
+                            "cobaltId": null,
+                            "ddbId": 2128,
+                            "bookCode": "idrotf",
+                            "slug": "termalaine#ABeautifulMine",
+                            "userData": {
+                                "status": "success",
+                                "userId": 100515961,
+                                "userDisplayName": "MrPrimate",
+                                "twitchUserName": "PonyMcGuff",
+                                "AvatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/3453/679/64/64/636690017834323053.png",
+                                "email": "jackdavidthomas@gmail.com",
+                                "firstName": "",
+                                "lastName": "",
+                                "subscriptionPaidThruDate": 1692090256000,
+                                "subscriptionPlan": "ddb_master_annually",
+                                "subscriptionTierName": "master",
+                                "subscriptionProvider": "Stripe",
+                                "subscriptionStatus": "Active",
+                                "isLegendaryBundleBuyer": true,
+                                "isSourcebookBundleBuyer": false,
+                                "isAdventureBundleBuyer": false,
+                                "isAdventureLeagueBundleBuyer": false,
+                                "isMapBundleBuyer": false
+                            },
+                            "linkName": "Termalaine",
+                            "slugLink": "M13GeodeWorkface",
+                            "duplicate": false,
+                            "contentChunkId": "51906f10-4fb7-46aa-b8a7-ddca9c39b15d",
+                            "img": false,
+                            "note": true,
+                            "parentId": 1088,
+                            "linkId": "XWT6QFnixKc9fIib",
+                            "pin": "46282860",
+                            "labelName": "M13. Geode Workface"
+                        }
+                    },
+                    "positions": [
                         {
                             "x": 3325,
                             "y": 1925
